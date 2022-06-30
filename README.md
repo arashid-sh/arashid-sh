@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: UI Filler – placeholders for your designs](https://www.uifiller.com)
+- [How a controversial shipping law is swaying the price of gas](https://www.freightwaves.com/news/how-a-controversial-shipping-law-is-swaying-the-price-of-gas)
+- [Show HN: Movably – Protect your health, move more while you work](https://www.movably.com)
 - [FTX closes in on a deal to buy embattled crypto lender BlockFi for $25 million](https://www.cnbc.com/2022/06/30/ftx-closes-in-on-a-deal-to-buy-embattled-crypto-lender-blockfi-for-25-million-in-a-fire-sale.html)
-- [What do Starlink’s latest Ookla results mean for its $886M RDOF winnings?](https://www.fiercetelecom.com/broadband/what-do-starlinks-latest-ookla-results-mean-its-886m-rdof-winnings)
 - [SimpleHash &lpar;YC W22&rpar; Is Hiring Back End Engineers to Build NFT APIs](https://www.ycombinator.com/companies/simplehash/jobs/ID7qnlS-senior-backend-api-engineer)
-- [Rust 1.62.0](https://blog.rust-lang.org/2022/06/30/Rust-1.62.0.html)
-- [America needs supply-side reform](https://www.slowboring.com/p/america-needs-supply-side-reform)
 <!-- BLOG-POST-LIST:END -->
