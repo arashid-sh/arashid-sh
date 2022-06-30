@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#Latest Hacker news
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
