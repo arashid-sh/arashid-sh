@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#Latest Hacker news
+### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
