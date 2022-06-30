@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
-- [Historic Rotterdam bridge won&#39;t be dismantled for Jeff Bezos superyacht](https://nltimes.nl/2022/06/30/historic-rotterdam-bridge-wont-dismantled-jeff-bezos-superyacht-worth-eu430m)
+- [Modern city dwellers have lost about half their gut microbes](https://www.science.org/content/article/modern-city-dwellers-have-lost-about-half-their-gut-microbes)
+- [FCC Closes Robocall Loophole](https://www.fcc.gov/document/fcc-closes-robocall-loophole)
 - [RISC-V is getting MSIs](https://blog.stephenmarz.com/2022/06/30/msi/)
-- [Extreme heat, drought will permanently scar California and its social fabric](https://www.latimes.com/environment/story/2022-06-30/aridification-kills-civilizations-is-california-next)
+- [Vim 9.0 Was Released](https://groups.google.com/g/vim_announce/c/f_-N3hYxK20)
 - [Show HN: UI Filler – placeholders for your designs](https://www.uifiller.com)
-- [How a controversial shipping law is swaying the price of gas](https://www.freightwaves.com/news/how-a-controversial-shipping-law-is-swaying-the-price-of-gas)
 <!-- BLOG-POST-LIST:END -->
