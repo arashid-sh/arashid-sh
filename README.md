@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
-- [Star Minecraft mod creator Technoblade dies after cancer battle](https://dotesports.com/news/minecraft-content-creator-technoblade-has-died-following-battle-with-cancer)
+- [Supreme Court’s EPA Decision: Unconstitutional Violation of Separation of Powers](https://slate.com/news-and-politics/2022/06/west-virginia-environmental-protection-agency-climate-change-clean-air.html)
+- [Minecraft content creator Technoblade has died](https://dotesports.com/news/minecraft-content-creator-technoblade-has-died-following-battle-with-cancer)
 - [Doom Builder](http://doombuilder.com/)
 - [Meta slashes hiring plans, girds for &#39;fierce&#39; headwinds](https://www.reuters.com/technology/exclusive-meta-girds-fierce-headwinds-slower-growth-second-half-memo-2022-06-30/)
-- [The Supreme Court’s Latest Decision Is a Blow to Stopping Climate Change](https://www.scientificamerican.com/article/the-supreme-courts-latest-decision-is-a-blow-for-stopping-climate-change/)
 - [Severe thermal throttling discovered in Apple&#39;s M2 MacBook Pro](https://twitter.com/VadimYuryev/status/1542188250697039872)
 <!-- BLOG-POST-LIST:END -->
