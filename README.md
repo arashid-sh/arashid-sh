@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: If you’ve considered homeschooling, what’s stopping you?](https://news.ycombinator.com/item?id=31947895)
-- [56% of employee won’t even consider a workplace that doesn’t share their value](https://www.cnbc.com/2022/07/01/most-workers-want-their-employer-to-share-their-values.html)
+- [Smarking &lpar;YC W15&rpar; Is Hiring Lead ML Eng to scale tech for $655B parking industry](https://jobs.lever.co/smarking/01b7a4c5-28ce-4a4c-9c88-d4cad6c01c76)
+- [Klarna to raise fresh cash at slashed $6.5B valuation](https://www.wsj.com/articles/klarna-to-raise-fresh-cash-at-slashed-6-5-billion-valuation-11656692324)
 - [Ask HN: Who is hiring? &lpar;July 2022&rpar;](https://news.ycombinator.com/item?id=31947297)
-- [Ask HN: Who wants to be hired? &lpar;July 2022&rpar;](https://news.ycombinator.com/item?id=31947295)
-- [How Hong Kong became a police state](https://www.economist.com/interactive/essay/2022/07/01/how-hong-kong-became-a-police-state)
+- [Ask HN: Freelancer? Seeking freelancer? &lpar;July 2022&rpar;](https://news.ycombinator.com/item?id=31947296)
+- [Police Can Trace Cameras Thanks to Sensor Imperfection ‘Fingerprints’](https://petapixel.com/2022/07/01/police-can-trace-cameras-thanks-to-sensor-imperfection-fingerprints/)
 <!-- BLOG-POST-LIST:END -->
