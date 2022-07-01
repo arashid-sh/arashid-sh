@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [Star Minecraft mod creator Technoblade dies after cancer battle](https://dotesports.com/news/minecraft-content-creator-technoblade-has-died-following-battle-with-cancer)
+- [Doom Builder](http://doombuilder.com/)
+- [Severe thermal throttling discovered in Apple&#39;s M2 MacBook Pro](https://twitter.com/VadimYuryev/status/1542188250697039872)
 - [Use of special characters in usernames on YouTube has been limited](https://support.google.com/youtube/thread/169359445/updates-to-reduce-comment-spam-and-impersonation-on-youtube?hl=en)
-- [Wayland is not ready as a 1:1 compatible Xorg replacement just yet](https://gist.github.com/probonopd/9feb7c20257af5dd915e3a9f2d1f2277)
-- [France bans veggie ′steaks,′ ′sausages′ to describe vegetarian products](https://www.dw.com/en/france-bans-use-of-steak-sausage-to-describe-vegetarian-products/a-62321333)
 - [Pronunciation Guide for Unix](https://ss64.com/bash/syntax-pronounce.html)
-- [Steelmanning: Discover the truth by helping your opponent](https://themindcollection.com/steelmanning-how-to-discover-the-truth-by-helping-your-opponent/)
 <!-- BLOG-POST-LIST:END -->
