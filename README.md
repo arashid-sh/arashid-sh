@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [1955 warrant in Emmett Till case found, family seeks arrest](https://apnews.com/article/arrests-mississippi-kidnapping-emmett-till-49708de557faf747ec3e9fa8c021e9cd)
+- [Meal Kit company sued by customers whose gallbladders were removed](https://www.cnn.com/2022/07/01/tech/daily-harvest-recall-lawsuits/index.html)
+- [BMW is switching from Linux to Android Automotive next year](https://www.androidpolice.com/bmw-android-automotive/)
 - [Uzi Nissan &lpar;Nissan.com&rpar; died of Covid July 2020 and the website is now down](http://www.nissan.com/)
 - [What&#39;s the deal with all those weird wrong-number texts?](https://maxread.substack.com/p/whats-the-deal-with-all-those-weird)
-- [mTCP 2022-07-01 &lpar;TCP/IP and programs for old DOS PCs&rpar; is available](http://www.brutman.com/mTCP/mTCP.html)
-- [Smarking &lpar;YC W15&rpar; Is Hiring Lead ML Eng to scale tech for $655B parking industry](https://jobs.lever.co/smarking/01b7a4c5-28ce-4a4c-9c88-d4cad6c01c76)
-- [How Much Health Insurers Pay for Almost Everything Is About to Go Public](https://khn.org/news/article/health-insurers-price-transparency-public-rates-costs/)
 <!-- BLOG-POST-LIST:END -->
