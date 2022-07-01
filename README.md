@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
-- [Mozart Data &lpar;YC S20&rpar; Is Hiring a Senior Front End Engineer](https://www.mozartdata.com/senior-software-engineer-frontend)
-- [Announcing: Learn TLA+](https://www.hillelwayne.com/post/learntla/)
-- [Voyager suspends trading, deposits, withdrawals, and loyalty rewards](https://www.investvoyager.com/blog/voyager-update-july-1-2022/)
-- [Give Up GitHub!](https://sfconservancy.org/GiveUpGitHub/)
-- [New California law requires high schools to start later](https://apnews.com/5197d3c602b0497d60c15d0bae20ad94)
+- [Python Flask has no remaining open issues or pull requests](https://twitter.com/davidism/status/1542956488355762176)
+- [Mozart Data &lpar;YC S20&rpar; is hiring a senior front end engineer](https://www.mozartdata.com/senior-software-engineer-frontend)
+- [The First RISC-V Laptop Announced with Quad-Core CPU, 16GB RAM, Linux Support](https://www.phoronix.com/scan.php?page=news_item&px=RISC-V-Dev-Laptop)
+- [Show HN: Redbean 2.0 in Docker](https://github.com/kissgyorgy/redbean-docker)
+- [Learn TLA+](https://www.hillelwayne.com/post/learntla/)
 <!-- BLOG-POST-LIST:END -->
