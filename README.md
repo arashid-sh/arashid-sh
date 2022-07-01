@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
-- [Visualizing Algorithms by Mike Bostock](https://bost.ocks.org/mike/algorithms/)
+- [In Defence of Garlic in a Jar: How Food Snobs Almost Ruined My Love of Cooking](https://thewalrus.ca/garlic-in-a-jar/)
+- [Xcode 14 deprecates bitcode for watchOS and tvOS](https://developer.apple.com/documentation/Xcode-Release-Notes/xcode-14-release-notes)
+- [Visualizing Algorithms by Mike Bostock&lpar;2014&rpar;](https://bost.ocks.org/mike/algorithms/)
 - [Open source body quits GitHub, urges you to do the same](https://www.theregister.com/2022/06/30/software_freedom_conservancy_quits_github/)
 - [What Metric to Use When Benchmarking?](https://tratt.net/laurie/blog/2022/what_metric_to_use_when_benchmarking.html)
-- [Minecraft content creator Technoblade has died](https://dotesports.com/news/minecraft-content-creator-technoblade-has-died-following-battle-with-cancer)
-- [Doom Builder](http://doombuilder.com/)
 <!-- BLOG-POST-LIST:END -->
