@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
-- [Mark Zuckerberg: We’re ‘turning up the heat’ at Meta so employees will quit](https://nypost.com/2022/07/01/mark-zuckerberg-meta-wants-to-oust-workers-who-shouldnt-be-here/)
+- [Uzi Nissan &lpar;Nissan.com&rpar; died of Covid July 2020 and the website is now down](http://www.nissan.com/)
 - [What&#39;s the deal with all those weird wrong-number texts?](https://maxread.substack.com/p/whats-the-deal-with-all-those-weird)
 - [mTCP 2022-07-01 &lpar;TCP/IP and programs for old DOS PCs&rpar; is available](http://www.brutman.com/mTCP/mTCP.html)
 - [Smarking &lpar;YC W15&rpar; Is Hiring Lead ML Eng to scale tech for $655B parking industry](https://jobs.lever.co/smarking/01b7a4c5-28ce-4a4c-9c88-d4cad6c01c76)
-- [Design Lessons from Guitar Pedals](https://uxdesign.cc/5-design-lessons-from-guitar-pedals-782d41f07d1b)
+- [How Much Health Insurers Pay for Almost Everything Is About to Go Public](https://khn.org/news/article/health-insurers-price-transparency-public-rates-costs/)
 <!-- BLOG-POST-LIST:END -->
