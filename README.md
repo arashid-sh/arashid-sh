@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [An Anatomy of Erasure: How a free and open Hong Kong became a police state](https://www.economist.com/interactive/essay/2022/07/01/how-hong-kong-became-a-police-state)
+- [No Refrigerant Left Behind](https://www.recoolit.com/post/no-refrigerant-left-behind)
 - [How The Pentagon Uses a Secret Program to Wage Proxy Wars](https://theintercept.com/2022/07/01/pentagon-127e-proxy-wars/)
 - [Google Allowed a Sanctioned Russian Ad Company to Harvest User Data for Months](https://www.propublica.org/article/google-russia-rutarget-sberbank-sanctions-ukraine)
 - [Unity Employees ‘Mad and Stressed Out’ Amidst Unexpected Layoffs](https://www.vice.com/en/article/v7vmqj/unity-employees-mad-and-stressed-out-amidst-unexpected-layoffs)
-- [Tech layoffs keep stacking up](https://twitter.com/HayekAndKeynes/status/1541760176826499073)
-- [US hypersonic missile fails in test- 2nd consecutive failed attempt](https://www.bloomberg.com/news/articles/2022-06-30/us-hypersonic-missile-fails-in-test-in-fresh-setback-for-program)
 <!-- BLOG-POST-LIST:END -->
