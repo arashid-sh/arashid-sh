@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [UPchieve &lpar;Edtech Nonprofit, YC W21&rpar; is hiring our first product lead](https://upchieve.welcomekit.co/)
+- [Indonesia: The most amazing development story on Earth?](https://noahpinion.substack.com/p/indonesia-the-most-amazing-development)
+- [YouTube BANNED my Debunking Video but leaves DEADLY how-to vids online, 34 dead](https://www.youtube.com/watch?v=GZrynWtBDTE)
 - [Germany’s move to legalise cannabis expected to create ‘domino effect’](https://www.theguardian.com/world/2022/jul/01/germanys-move-to-legalise-cannabis-expected-to-create-domino-effect)
-- [In Defence of Garlic in a Jar: How Food Snobs Almost Ruined My Love of Cooking](https://thewalrus.ca/garlic-in-a-jar/)
-- [Xcode 14 deprecates bitcode for watchOS and tvOS](https://developer.apple.com/documentation/Xcode-Release-Notes/xcode-14-release-notes)
-- [Visualizing Algorithms &lpar;2014&rpar;](https://bost.ocks.org/mike/algorithms/)
-- [Open source body quits GitHub, urges you to do the same](https://www.theregister.com/2022/06/30/software_freedom_conservancy_quits_github/)
+- [If-im-gone – A cheat sheet for if I am somehow incapacitated](https://github.com/christophercalm/if-im-gone)
 <!-- BLOG-POST-LIST:END -->
