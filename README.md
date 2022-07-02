@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [The Bullshit Web](https://pxlnv.com/blog/bullshit-web/)
+- [Bureaucratic processes typically involve a person new to the process](https://graphthinking.blogspot.com/2022/07/bureaucratic-processes-typically.html)
 - [darktable 4.0.0 released](https://www.darktable.org/2022/07/darktable-4.0.0-released/)
+- [Software Engineering Salaries in the Netherlands and Europe](https://blog.pragmaticengineer.com/software-engineering-salaries-in-the-netherlands-and-europe/)
 - [Games Done Quick Ocarina of Time beta showcase standing ovation](https://theclick.gg/gaming/news/games-done-quick-2022-ocarina-of-time-beta-showcase-receives-a-standing-ovation-after-this-happened/)
-- [Streak &lpar;YC W22&rpar; is hiring customer success specialists to delight users &lpar;remote&rpar;](https://www.streak.com/careers/customer-success-specialist-remote)
-- [Fund OSS through package managers](https://dusted.codes/fund-oss-through-package-managers)
-- [Open Logic Project](http://builds.openlogicproject.org/)
 <!-- BLOG-POST-LIST:END -->
