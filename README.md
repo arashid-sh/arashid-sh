@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
-- [386MAX released under GPL v3 License](https://github.com/sudleyplace/DPMIONE/issues/3)
+- [There could be 1.2B climate refugees by 2050](https://www.zurich.com/en/media/magazine/2022/there-could-be-1-2-billion-climate-refugees-by-2050-here-s-what-you-need-to-know)
+- [List of Active Reddit Alternatives](https://r.nf/r/RedditAlternatives/comments/oioeot/list_of_active_reddit_alternatives_v7/)
+- [Some CyberPower UPSes may pose a fire hazard](https://forums.redflagdeals.com/some-cyberpower-upses-may-pose-fire-hazard-2516306/)
 - [Google will remove user location history for abortion clinic visits](https://www.washingtonpost.com/technology/2022/07/01/google-abortion/)
-- [You&#39;re Not Allowed to Have the Best Sunscreens in the World](https://www.theatlantic.com/technology/archive/2022/07/us-sunscreen-ingredients-outdated-technology-better-eu-asia/661433/)
-- [American Seating’s original and largest market was school furniture](https://twitter.com/JoshLipnik/status/1542324147027644418)
-- [Virgil: A fast and lightweight programming language that compiles to WASM](https://github.com/titzer/virgil)
+- [Newer, better sunscreens have not been approved by the FDA](https://www.theatlantic.com/technology/archive/2022/07/us-sunscreen-ingredients-outdated-technology-better-eu-asia/661433/)
 <!-- BLOG-POST-LIST:END -->
