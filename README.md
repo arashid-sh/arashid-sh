@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
-- [The GPU shortage is over](https://www.theverge.com/2022/7/1/23191634/nvidia-amd-gpu-shortage-over-3080-3070-3060-radeon-rx-6900-6800)
-- [There are no open issues or pull requests on Flask](https://twitter.com/davidism/status/1542956488355762176)
-- [Mozart Data &lpar;YC S20&rpar; is hiring a senior front end engineer](https://www.mozartdata.com/senior-software-engineer-frontend)
-- [Show HN: Redbean 2.0 in Docker](https://github.com/kissgyorgy/redbean-docker)
-- [Learn TLA+](https://www.hillelwayne.com/post/learntla/)
+- [386MAX released under GPL v3 License](https://github.com/sudleyplace/DPMIONE/issues/3)
+- [Google will remove user location history for abortion clinic visits](https://www.washingtonpost.com/technology/2022/07/01/google-abortion/)
+- [You&#39;re Not Allowed to Have the Best Sunscreens in the World](https://www.theatlantic.com/technology/archive/2022/07/us-sunscreen-ingredients-outdated-technology-better-eu-asia/661433/)
+- [American Seating’s original and largest market was school furniture](https://twitter.com/JoshLipnik/status/1542324147027644418)
+- [Virgil: A fast and lightweight programming language that compiles to WASM](https://github.com/titzer/virgil)
 <!-- BLOG-POST-LIST:END -->
