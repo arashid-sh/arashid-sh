@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [AWS Nuke – delete all resources associated with AWS account](https://github.com/rebuy-de/aws-nuke)
+- [The Windows Malloc&lpar;&rpar; Implementation Is a Trash Fire](https://erikmcclure.com/blog/windows-malloc-implementation-is-a-trash-fire/)
+- [3D-Printed Homes for Sale in Austin](https://www.lennar.com/new-homes/texas/austin/promo/auslen_3d_homes)
 - [Event-level prediction of urban crime reveals a enforcement bias in US cities](https://www.nature.com/articles/s41562-022-01372-0)
 - [The Bullshit Web &lpar;2018&rpar;](https://pxlnv.com/blog/bullshit-web/)
-- [Bureaucratic processes typically involve a person new to the process](https://graphthinking.blogspot.com/2022/07/bureaucratic-processes-typically.html)
-- [Google now deleting health clinic searches from location history automatically](https://blog.google/technology/safety-security/protecting-peoples-privacy-on-health-topics/)
-- [darktable 4.0.0 released](https://www.darktable.org/2022/07/darktable-4.0.0-released/)
 <!-- BLOG-POST-LIST:END -->
