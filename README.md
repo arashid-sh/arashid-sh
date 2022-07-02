@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [How does a USB keyboard work? &lpar;2021&rpar; [video]](https://www.youtube.com/watch?v=wdgULBpRoXk)
+- [Show HN: Coffeehouse, one-on-one voicechat with random HN users](https://coffeehouse.chat/hn#)
 - [World Population Clock: 7.96B People &lpar;2022&rpar;](https://www.worldometers.info/world-population/)
-- [Ask HN: What&#39;s the Deal with Tailscale?](https://news.ycombinator.com/item?id=31957059)
-- [&#39;Cryptoqueen&#39; Ruja Ignatova added to FBI most-wanted list over OneCoin scheme](https://lite.cnn.com/en/article/h_f87d0743d61d524d95314c10648745a9)
-- [Leading vs. Participating](https://www.subbu.org/articles/2021/leading-vs-participating/)
-- [Tailscale ate my network &lpar;and I love it&rpar;](https://smackeyacky.blogspot.com/2022/07/tailscale-ate-my-network-and-i-love-it.html)
+- [How the US Air Force Ditched the Average and Saved Lives](https://mannhowie.com/average-pitfall)
+- [Tracking Everything I Wore For 1 Year](https://andrenader.substack.com/p/nfc-clothes-tracker)
 <!-- BLOG-POST-LIST:END -->
