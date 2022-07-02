@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
-- [Choosing SOFA](https://idiomdrottning.org/sofa)
-- [Draftbit &lpar;YC W18&rpar; Is Hiring Senior Engineers &lpar;TypeScript, React Native, GraphQL&rpar;](https://www.ycombinator.com/companies/draftbit/jobs/Fj0Gn7Y8I-senior-software-engineer)
-- [ShotSpotter defamation lawsuit against VICE has been dismissed](https://twitter.com/mikeburesh/status/1542944407426572289)
-- [Python for Data Analysis, 3rd Edition – The Open Access Version Online](https://wesmckinney.com/book/)
-- [Ask HN: Am I incompotent for web development?](https://news.ycombinator.com/item?id=31957863)
+- [Show HN: A Go framework for your projects](https://github.com/gocopper/copper)
+- [Are we too many people or too few?](http://backreaction.blogspot.com/2022/07/are-we-too-many-people-or-too-few.html)
+- [Why Your Next Home Computer Should Be an Old Xeon Workstation](https://tedium.co/2019/06/04/used-workstation-computer-buying-strategy/)
+- [rsync, article 3: How does rsync work?](https://michael.stapelberg.ch/posts/2022-07-02-rsync-how-does-it-work/)
+- [UK Goverment keen on 50-year mortgages](https://www.independent.co.uk/news/uk/politics/boris-johnson-mortgages-parents-children-b2113882.html)
 <!-- BLOG-POST-LIST:END -->
