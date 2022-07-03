@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [Red Engine: modern scheduling framework for Python applications](https://red-engine.readthedocs.io/en/stable/index.html)
+- [Texts, web searches about abortion have been used to prosecute women](https://www.washingtonpost.com/technology/2022/07/03/abortion-data-privacy-prosecution/)
 - [Patterns &lpar;YC S21&rpar; Is hiring devs to help build low-code data modeling tools](https://www.ycombinator.com/companies/patterns)
-- [Ask HN: AI-Generated Music?](https://news.ycombinator.com/item?id=31968456)
-- [Visualizing quantum mechanics in an interactive simulation](https://lab.quantumflytrap.com/lab)
-- [Ask HN: Sue after poorly managed SPAC?](https://news.ycombinator.com/item?id=31968258)
-- [SwiftUI for Mac 2022](https://troz.net/post/2022/swiftui-mac-2022/)
+- [Bill to grant crypto firms access to Federal Reserve alarms experts](https://www.washingtonpost.com/business/2022/07/03/crypto-banks-risk-lummis/)
+- [Are Buy Now Pay Laters the Next Bubble?](https://www.crresearch.com/blog/buy_now_pay_later_statistics)
 <!-- BLOG-POST-LIST:END -->
