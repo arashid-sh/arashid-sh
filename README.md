@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [Visualizing quantum mechanics in an interactive simulation](https://lab.quantumflytrap.com/lab)
+- [Ask HN: Sue after poorly managed SPAC?](https://news.ycombinator.com/item?id=31968258)
 - [IPv4 Transfer Pricing](https://ipv4marketgroup.com/ipv4-pricing/)
-- [Mickey Mouse could soon leave Disney as 95-year copyright expiry nears](https://www.theguardian.com/film/2022/jul/03/mickey-mouse-disney-copyright-expiry)
 - [Vite – Next Generation Front End Tooling](https://main.vitejs.dev/)
-- [How to know everything by Elke Wiss](https://markgreville.ie/2022/06/22/book-summary-how-to-know-everything-by-elke-wiss/)
-- [40% of Google users now connect via IPv6](https://www.google.com/intl/en/ipv6/statistics.html)
+- [How To Know Everything](https://markgreville.ie/2022/06/22/book-summary-how-to-know-everything-by-elke-wiss/)
 <!-- BLOG-POST-LIST:END -->
