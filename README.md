@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [Patterns &lpar;YC S21&rpar; Is hiring devs to help build low-code data modeling tools](https://www.ycombinator.com/companies/patterns)
+- [Ask HN: AI-Generated Music?](https://news.ycombinator.com/item?id=31968456)
 - [Visualizing quantum mechanics in an interactive simulation](https://lab.quantumflytrap.com/lab)
 - [Ask HN: Sue after poorly managed SPAC?](https://news.ycombinator.com/item?id=31968258)
-- [IPv4 Transfer Pricing](https://ipv4marketgroup.com/ipv4-pricing/)
-- [Vite – Next Generation Front End Tooling](https://main.vitejs.dev/)
-- [How To Know Everything](https://markgreville.ie/2022/06/22/book-summary-how-to-know-everything-by-elke-wiss/)
+- [SwiftUI for Mac 2022](https://troz.net/post/2022/swiftui-mac-2022/)
 <!-- BLOG-POST-LIST:END -->
