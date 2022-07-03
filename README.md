@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft clarifies that game activity is shared with third parties in new ToS](https://www.microsoft.com/en-us/servicesagreement/upcoming.aspx#14a_XboxLive_ShortDescription)
+- [Ask HN: Why is everything in JavaScript changing so fast?](https://news.ycombinator.com/item?id=31969958)
+- [Zetk: CLI utilities, fzf-based scripts, C++ lib for managing your Zettelkasten](https://gitlab.com/andrejr/zetk)
 - [New Dementia Prevention Method May Be Behavioral, Not Prescribed](https://www.nytimes.com/2022/07/03/health/dementia-treatment-behavior-eye-care.html)
 - [Satellites can now find the sources of methane leaks](https://www.businessinsider.com/satellites-locate-source-of-methane-leaks-to-fight-climate-crisis-2022-7)
-- [Red Engine: modern scheduling framework for Python applications](https://red-engine.readthedocs.io/en/stable/index.html)
-- [Patterns &lpar;YC S21&rpar; Is hiring devs to help build low-code data modeling tools](https://www.ycombinator.com/companies/patterns)
-- [Ask HN: AI-Generated Music?](https://news.ycombinator.com/item?id=31968456)
 <!-- BLOG-POST-LIST:END -->
