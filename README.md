@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
-- [Mark Zuckerberg upping performance goals to get rid of employees](https://www.businessinsider.com/mark-zuckerberg-upping-goals-thin-out-meta-staff-2022-7)
+- [They&#39;re made out of meat &lpar;1991&rpar;](https://www.mit.edu/people/dpolicar/writing/prose/text/thinkingMeat.html)
 - [WeatherKit](https://developer.apple.com/weatherkit/)
+- [Git from the Inside Out](https://codewords.recurse.com/issues/two/git-from-the-inside-out)
 - [IPL: Intuitionistic Programming Language &lpar;2013&rpar;](http://intuitionistic.org)
 - [How to build a chess engine](https://www.chessengines.org/)
-- [Documents reveal McKinsey&#39;s role increasing opioid sales until 2019](https://www.axios.com/2022/07/01/mckinsey-opioid-documents)
 <!-- BLOG-POST-LIST:END -->
