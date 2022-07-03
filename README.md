@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft clarifies that game activity is shared with third parties in new ToS](https://www.microsoft.com/en-us/servicesagreement/upcoming.aspx#14a_XboxLive_ShortDescription)
-- [Ask HN: Why is everything in JavaScript changing so fast?](https://news.ycombinator.com/item?id=31969958)
-- [Zetk: CLI utilities, fzf-based scripts, C++ lib for managing your Zettelkasten](https://gitlab.com/andrejr/zetk)
-- [New Dementia Prevention Method May Be Behavioral, Not Prescribed](https://www.nytimes.com/2022/07/03/health/dementia-treatment-behavior-eye-care.html)
-- [Satellites can now find the sources of methane leaks](https://www.businessinsider.com/satellites-locate-source-of-methane-leaks-to-fight-climate-crisis-2022-7)
+- [Quantum Mechanics and Tomb Raider](https://terrytao.wordpress.com/2007/02/26/quantum-mechanics-and-tomb-raider/#more-12)
+- [Pirate Library Mirror: Preserving 7TB of books &lpar;that are not in Libgen&rpar;](http://pilimi.org/blog-introducing.html)
+- [Transporting food generates whopping amounts of carbon dioxide](https://www.nature.com/articles/d41586-022-01766-0)
+- [Understanding how others relate to you](https://www.bmj.com/content/377/bmj.o1548)
+- [New Steganography Method for SVG Images Based on Improved LSB Algorithm &lpar;2019&rpar; [pdf]](http://paper.ijcsns.org/07_book/201910/20191016.pdf)
 <!-- BLOG-POST-LIST:END -->
