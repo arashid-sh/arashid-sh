@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:START -->
 - [Quantum mechanics and Tomb Raider &lpar;2007&rpar;](https://terrytao.wordpress.com/2007/02/26/quantum-mechanics-and-tomb-raider/)
 - [Pirate Library Mirror: Preserving 7TB of books &lpar;that are not in Libgen&rpar;](http://pilimi.org/blog-introducing.html)
-- [Transporting food generates whopping amounts of carbon dioxide](https://www.nature.com/articles/d41586-022-01766-0)
 - [Understanding how others relate to you](https://www.bmj.com/content/377/bmj.o1548)
 - [New Steganography Method for SVG Images Based on Improved LSB Algorithm &lpar;2019&rpar; [pdf]](http://paper.ijcsns.org/07_book/201910/20191016.pdf)
+- [India’s biggest businesses are tapping green hydrogen as a future fuel](https://www.fortuneindia.com/long-reads/indias-green-future-built-on-hydrogen/108532)
 <!-- BLOG-POST-LIST:END -->
