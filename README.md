@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
-- [Operation GUNMAN – how the Soviets bugged IBM typewriters](https://www.cryptomuseum.com/covert/bugs/selectric/)
-- [The Singularity has already happened](http://www.terrybisson.com/the-singularity/)
-- [What Happened When The Rich Stopped Intermarrying](https://www.axios.com/2022/07/02/what-happened-when-the-rich-stopped-intermarrying)
-- [Norwegian Meteorological Institute has an excellent free weather API](https://developer.yr.no/)
-- [Stacker &lpar;YC S20&rpar; Is Hiring for Product Engineer&#39;s](https://apply.workable.com/stackerhq/j/32E1D43CF5/)
+- [Code replay attack on the myGovID Scheme](https://www.thinkingcybersecurity.com/DigitalID/)
+- [Show HN: Inject TailwindCSS into HTML Templates](https://github.com/snehesht/tailwind-render)
+- [Operation Gunman – how the Soviets bugged IBM typewriters &lpar;2015&rpar;](https://www.cryptomuseum.com/covert/bugs/selectric/)
+- [What happened when the rich stopped intermarrying](https://www.axios.com/2022/07/02/what-happened-when-the-rich-stopped-intermarrying)
+- [Stacker &lpar;YC S20&rpar; is hiring product engineers](https://apply.workable.com/stackerhq/j/32E1D43CF5/)
 <!-- BLOG-POST-LIST:END -->
