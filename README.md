@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [Operation GUNMAN – how the Soviets bugged IBM typewriters](https://www.cryptomuseum.com/covert/bugs/selectric/)
+- [The Singularity has already happened](http://www.terrybisson.com/the-singularity/)
+- [What Happened When The Rich Stopped Intermarrying](https://www.axios.com/2022/07/02/what-happened-when-the-rich-stopped-intermarrying)
 - [Norwegian Meteorological Institute has an excellent free weather API](https://developer.yr.no/)
 - [Stacker &lpar;YC S20&rpar; Is Hiring for Product Engineer&#39;s](https://apply.workable.com/stackerhq/j/32E1D43CF5/)
-- [StrictYAML](https://hitchdev.com/strictyaml/)
-- [Ask HN: What exactly Is a Mindfulness Meditation?](https://news.ycombinator.com/item?id=31965367)
-- [I Fart in Your General Direction](https://aspectsofhistory.com/i-fart-in-your-general-direction/)
 <!-- BLOG-POST-LIST:END -->
