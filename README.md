@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [Curl -I HTTPS://Web3usecase.com](https://news.ycombinator.com/item?id=31964368)
+- [Documents reveal McKinsey&#39;s role increasing opioid sales until 2019](https://www.axios.com/2022/07/01/mckinsey-opioid-documents)
+- [Watching an acquirer ruin your company](https://startupwin.kelsus.com/p/watching-an-acquirer-ruin-your-company)
 - [Adventures with Verizon FiOS IPv6](https://git.hardenedbsd.org/shawn.webb/articles/-/blob/master/personal/2022-07-02_verizon/article.md)
-- [The dawning of the Age of Apple Aquarius &lpar;2019&rpar;](http://tenfourfox.blogspot.com/2019/12/and-now-for-something-completely_29.html)
 - [Dependabot alerts paused for malware advisories](https://github.blog/changelog/2022-07-01-dependabot-alerts-paused-for-malware-advisories/)
-- [Skio &lpar;YC S20&rpar; is hiring in NYC – subscriptions for Shopify, ReCharge migrations](https://skio.com/careers/)
-- [AWS Nuke – delete all resources associated with AWS account](https://github.com/rebuy-de/aws-nuke)
 <!-- BLOG-POST-LIST:END -->
