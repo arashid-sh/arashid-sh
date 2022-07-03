@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [StrictYAML](https://hitchdev.com/strictyaml/)
+- [Ask HN: What exactly Is a Mindfulness Meditation?](https://news.ycombinator.com/item?id=31965367)
+- [I Fart in Your General Direction](https://aspectsofhistory.com/i-fart-in-your-general-direction/)
+- [The End of CI](https://matt-rickard.com/the-end-of-ci/)
 - [They&#39;re made out of meat &lpar;1991&rpar;](https://www.mit.edu/people/dpolicar/writing/prose/text/thinkingMeat.html)
-- [WeatherKit](https://developer.apple.com/weatherkit/)
-- [Git from the Inside Out](https://codewords.recurse.com/issues/two/git-from-the-inside-out)
-- [IPL: Intuitionistic Programming Language &lpar;2013&rpar;](http://intuitionistic.org)
-- [How to build a chess engine](https://www.chessengines.org/)
 <!-- BLOG-POST-LIST:END -->
