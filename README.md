@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: First-time dad-to-be. What do you wish you&#39;d known back then?](https://news.ycombinator.com/item?id=31976803)
 - [Tesla Autopilot Almost Steers Model 3 into Oncoming Train](https://www.thedrive.com/news/watch-as-teslas-autopilot-almost-steers-model-3-into-oncoming-train)
-- [Ask HN: Should I learn Rust or Go?](https://news.ycombinator.com/item?id=31976407)
 - [Kable &lpar;YC W22&rpar;, Billing for API Companies, Is Hiring](https://kable.io)
 - [Police CyberAlarm Uses Alarming Cryptography](https://scottarc.blog/2022/07/04/police-cyberalarm-uses-alarming-cryptography/)
-- [Ask HN: Can competitors catch up to Apple Silicon?](https://news.ycombinator.com/item?id=31975600)
+- [A Journey into the Linux Scheduler](https://blog.maxgio.me/posts/linux-scheduler-journey/)
 <!-- BLOG-POST-LIST:END -->
