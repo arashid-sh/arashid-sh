@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [Over 200k people are serving life in U.S. prisons. These are the consequences](https://www.injusticewatch.org/news/prisons-and-jails/2021/sentencing-project-report-life-imprisonment/)
+- [Is the Ride over for Uber?](https://www.smartcompany.com.au/opinion/adam-schwab-is-the-ride-over-for-uber/)
+- [Why nobody ever wins the car at the mall &lpar;2018&rpar;](https://thehustle.co/why-nobody-ever-wins-the-mall-car-giveaway/)
+- [Gitlab Architecture Overview](https://docs.gitlab.com/ee/development/architecture.html)
 - [Quantum mechanics and Tomb Raider &lpar;2007&rpar;](https://terrytao.wordpress.com/2007/02/26/quantum-mechanics-and-tomb-raider/)
-- [Pirate Library Mirror: Preserving 7TB of books &lpar;that are not in Libgen&rpar;](http://pilimi.org/blog-introducing.html)
-- [Understanding how others relate to you](https://www.bmj.com/content/377/bmj.o1548)
-- [New Steganography Method for SVG Images Based on Improved LSB Algorithm &lpar;2019&rpar; [pdf]](http://paper.ijcsns.org/07_book/201910/20191016.pdf)
-- [India’s biggest businesses are tapping green hydrogen as a future fuel](https://www.fortuneindia.com/long-reads/indias-green-future-built-on-hydrogen/108532)
 <!-- BLOG-POST-LIST:END -->
