@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: I&#39;m disabled and out of money. Now what?](https://news.ycombinator.com/item?id=31979104)
+- [Uncle Bob and Silver Bullets &lpar;2017&rpar;](https://www.hillelwayne.com/post/uncle-bob/)
 - [Eiffel Tower riddled with rust and in need of repair, leaked reports say](https://www.theguardian.com/world/2022/jul/04/eiffel-tower-riddled-with-rust-and-in-need-of-repair-leaked-reports-say)
 - [Tiny Core Linux 13.0 is a full Linux desktop in 22 MB](https://blog.adafruit.com/2022/02/11/tiny-core-linux-13-0-is-a-full-linux-desktop-in-22-mb-linux/)
 - [Mendon, Missouri](https://seandietrich.com/mendon-missouri/)
-- [The local news crisis is deepening America&#39;s divides](https://www.axios.com/2022/07/04/local-newspapers-news-deserts)
-- [Ask HN: First-time dad-to-be. What do you wish you&#39;d known back then?](https://news.ycombinator.com/item?id=31976803)
 <!-- BLOG-POST-LIST:END -->
