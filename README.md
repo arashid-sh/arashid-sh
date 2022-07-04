@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
-- [Over 200k people are serving life in U.S. prisons. These are the consequences](https://www.injusticewatch.org/news/prisons-and-jails/2021/sentencing-project-report-life-imprisonment/)
+- [Miniature, Implantable Nerve Coolers for Targeted Pain Relief](https://neurosciencenews.com/colling-pain-implant-20957/)
+- [Popcorn Time Is Back](https://github.com/popcorn-official/popcorn-android/releases/tag/v0.3.5)
+- [Goodbye Medium, hello Ghost](https://cryptofireside.com/goodbye-medium-hello-ghost-57c9b6d7349e)
+- [Building a Sevenesque Roadster](http://sevenesque.com/)
 - [Is the Ride over for Uber?](https://www.smartcompany.com.au/opinion/adam-schwab-is-the-ride-over-for-uber/)
-- [Why nobody ever wins the car at the mall &lpar;2018&rpar;](https://thehustle.co/why-nobody-ever-wins-the-mall-car-giveaway/)
-- [Gitlab Architecture Overview](https://docs.gitlab.com/ee/development/architecture.html)
-- [Quantum mechanics and Tomb Raider &lpar;2007&rpar;](https://terrytao.wordpress.com/2007/02/26/quantum-mechanics-and-tomb-raider/)
 <!-- BLOG-POST-LIST:END -->
