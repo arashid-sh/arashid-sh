@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [The Materials Project](https://materialsproject.org/)
 - [Europeans will be able to unsubscribe from Prime with two clicks](https://www.theguardian.com/technology/2022/jul/04/uk-subscribers-will-soon-be-able-to-leave-amazon-prime-in-two-clicks)
 - [Cow Clicker](http://www.cowclicker.com/)
 - [Bitpanda said no mass layoffs, three weeks before axing one-third of staff](https://www.theblock.co/post/155398/no-mass-layoffs-said-bitpanda-three-weeks-before-axing-third-of-staff)
 - [Crypto crisis has created an advertising vacuum](https://digiday.com/marketing/advertising-has-taken-a-hit-the-crypto-crisis-has-created-an-advertising-vacuum/)
-- [UIs are not pure functions of the model](https://blog.metaobject.com/2018/12/uis-are-not-pure-functions-of-model.html)
 <!-- BLOG-POST-LIST:END -->
