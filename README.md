@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [Kubernetes is a red flag signalling premature optimisation](https://www.jeremybrown.tech/8-kubernetes-is-a-red-flag-signalling-premature-optimisation/)
 - [Vauld suspends all withdrawals, trading and deposits on the platform](https://www.vauld.com/blog/corporate-statement/)
-- [If I hear one more person say “sell before you build” I&#39;m going to puke](https://www.indiehackers.com/post/if-i-hear-one-more-person-say-sell-before-you-build-i-m-going-to-puke-f016215876)
+- [About the Reactor](https://reactor.reed.edu/about.html)
 - [US regulators to examine Boeing 737 Max production](https://www.aerotime.aero/articles/31423-us-regulators-to-examine-boeing-737-max-production)
-- [Why runbooks are the key to handling any situation effectively](https://www.cortex.io/post/keep-calm-and-use-the-runbook)
-- [macOS: App sandboxing via sandbox-exec](https://www.karltarvas.com/2020/10/25/macos-app-sandboxing-via-sandbox-exec.html)
+- [Keep calm and use the runbook](https://www.cortex.io/post/keep-calm-and-use-the-runbook)
 <!-- BLOG-POST-LIST:END -->
