@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Does removing Google Analytics penalise a website in Google search?](https://news.ycombinator.com/item?id=31993278)
+- [Show HN: Localization and translations should be code, not data](https://github.com/Divine-Software/divine-companions/tree/master/localization)
 - [Compilers, Hands-Off My Hands-On Optimizations &lpar;2016&rpar; [pdf]](https://users.ece.cmu.edu/~franzf/papers/wpmvp16.pdf)
+- [Cory Doctorow: The Swerve](https://locusmag.com/2022/07/cory-doctorow-the-swerve/)
 - [The SQLite Index Suggester](https://www.sqlite.org/cli.html#index_recommendations_sqlite_expert_)
-- [PulseAudio and Systemd Creator, Lennart Poettering, Reportedly Leaves Red Hat](https://www.phoronix.com/scan.php?page=news_item&px=Lennart-Poettering-Out-Red-Hat)
-- [Unraveling the linothorax mystery, or how linen armor came to dominate our lives &lpar;2013&rpar;](https://jhupress.wordpress.com/2013/04/24/unraveling-the-linothorax-mystery-or-how-linen-armor-came-to-dominate-our-lives/)
-- [The golden age of the aging actor](https://www.theringer.com/movies/2022/6/27/23181232/old-actors-aging-tom-cruise-top-gun-maverick)
 <!-- BLOG-POST-LIST:END -->
