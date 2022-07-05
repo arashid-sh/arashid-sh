@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
-- [Deepmind’s New AI May Be Better at Distributing Society’s Resources Than Humans](https://singularityhub.com/2022/07/04/deepminds-new-ai-may-be-better-at-distributing-societys-resources-than-humans-are/)
+- [Peter Thiel-Backed Crypto Lender Vauld Suspends Withdrawals](https://www.wsj.com/articles/peter-thiel-backed-crypto-lender-vauld-suspends-withdrawals-11656945617)
 - [Linux Kernel vs. DPDK: HTTP Performance Showdown](https://talawah.io/blog/linux-kernel-vs-dpdk-http-performance-showdown/)
 - [SQLGlot: SQL parser, transpiler, optimizer – translate to Presto, Spark, Hive](https://github.com/tobymao/sqlglot)
 - [On the use of a life &lpar;2020&rpar;](https://www.daemonology.net/blog/2020-09-20-On-the-use-of-a-life.html)
