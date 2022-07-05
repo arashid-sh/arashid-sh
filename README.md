@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [He Dropped Out to Become a Poet. Now He’s Won a Fields Medal](https://www.quantamagazine.org/june-huh-high-school-dropout-wins-the-fields-medal-20220705/)
+- [Apple ][ &quot;Lemmings&quot; Proof of Concept](http://www.deater.net/weave/vmwprod/lemm/)
 - [What comes after Git](https://matt-rickard.com/what-comes-after-git/)
-- [Why can&#39;t we have raw UDP in JavaScript?](https://www.computerenhance.com/p/no-really-why-cant-we-have-raw-udp)
 - [My Preferred Smart Home Vendors](https://chrisx.xyz/blog/my-preferred-smart-home-vendors/)
 - [My quest for the perfect window manager &lpar;2004&rpar;](http://ironphoenix.org/fvwm/)
-- [How CUDA Programming Works](https://www.nvidia.com/en-us/on-demand/session/gtcspring22-s41487/)
 <!-- BLOG-POST-LIST:END -->
