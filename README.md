@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
-- [Why Speech Language Pathologists Shouldn’t Use Zoom](https://ambiki.com/blog/why-speech-language-pathologists-shouldnt-use-zoom)
+- [Large Hadron Collider discovers three new exotic particles](https://home.cern/news/news/physics/lhcb-discovers-three-new-exotic-particles)
+- [SHGA Shanghai Gov National Police Database for sale &lpar;1B entries&rpar;](https://breached.to/Thread-Selling-2022-SHGA-Shanghai-Gov-National-Police-database)
+- [Amazon spending $465M on season 1 of The Lord of the Rings series](https://winteriscoming.net/2021/04/19/amazon-spending-465-million-the-lord-of-the-rings-series-season-1/)
+- [Selfhosting on Localhost](https://jo-m.ch/posts/2022/07/self-hosting-on-localhost/)
 - [World’s Highest Website](https://worlds-highest-website.com)
-- [FedEx to close data centers, retire all mainframes by 2024, saving $400m](https://www.datacenterdynamics.com/en/news/fedex-to-close-data-centers-retire-all-mainframes-by-2024-saving-400m/)
-- [Windows x64 handcrafted token stealing kernel-mode shellcode](https://github.com/winterknife/PINKPANTHER)
-- [Xbox Cloud throttles performance if user agent is Linux](https://old.reddit.com/r/xcloud/comments/vrfmuz/quality_on_linux/)
 <!-- BLOG-POST-LIST:END -->
