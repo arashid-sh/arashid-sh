@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
-- [What Comes After Git](https://matt-rickard.com/what-comes-after-git/)
-- [No really, why can&#39;t we have raw UDP in JavaScript?](https://www.computerenhance.com/p/no-really-why-cant-we-have-raw-udp)
-- [Zig is becoming more production-worthy &lpar;zigmonthly&rpar;](https://zigmonthly.org/letters/2022/may-june/)
-- [Sadly, we can&#39;t check the app permissions on Google Play anymore](https://www.bluespace.tech/blog/google-play-permissions-list/)
-- [Browsh is a fully-modern text-based browser](https://www.brow.sh/)
+- [What comes after Git](https://matt-rickard.com/what-comes-after-git/)
+- [Why can&#39;t we have raw UDP in JavaScript?](https://www.computerenhance.com/p/no-really-why-cant-we-have-raw-udp)
+- [My Preferred Smart Home Vendors](https://chrisx.xyz/blog/my-preferred-smart-home-vendors/)
+- [My quest for the perfect window manager &lpar;2004&rpar;](http://ironphoenix.org/fvwm/)
+- [How CUDA Programming Works](https://www.nvidia.com/en-us/on-demand/session/gtcspring22-s41487/)
 <!-- BLOG-POST-LIST:END -->
