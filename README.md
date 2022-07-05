@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Is it a strength that HN&#39;s UI has not changed over many years?](https://news.ycombinator.com/item?id=31991675)
+- [The SQLite Index Suggester](https://www.sqlite.org/cli.html#index_recommendations_sqlite_expert_)
+- [PulseAudio and Systemd Creator, Lennart Poettering, Reportedly Leaves Red Hat](https://www.phoronix.com/scan.php?page=news_item&px=Lennart-Poettering-Out-Red-Hat)
 - [Unraveling the linothorax mystery, or how linen armor came to dominate our lives &lpar;2013&rpar;](https://jhupress.wordpress.com/2013/04/24/unraveling-the-linothorax-mystery-or-how-linen-armor-came-to-dominate-our-lives/)
-- [Why Can&#39;t Database Tables Index Themselves?](https://blog.codinghorror.com/why-cant-database-tables-index-themselves/)
-- [Meticulous &lpar;YC S21&rpar; Is Hiring #3 Founding Engineer in London](https://news.ycombinator.com/item?id=31990762)
-- [NIST announces first PQC algoritms to be standardized](https://groups.google.com/a/list.nist.gov/g/pqc-forum/c/G0DoD7lkGPk)
-- [To improve search results on YouTube, use the search prefix “intitle:”](https://xn--1-zfa.com/youtube/)
+- [The golden age of the aging actor](https://www.theringer.com/movies/2022/6/27/23181232/old-actors-aging-tom-cruise-top-gun-maverick)
 <!-- BLOG-POST-LIST:END -->
