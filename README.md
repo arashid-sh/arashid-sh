@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Does removing Google Analytics penalise a website in Google search?](https://news.ycombinator.com/item?id=31993278)
+- [Compound &lpar;YC S19&rpar; is hiring to build financial products for startup employees](https://withcompound.com/)
+- [Bun: Fast JavaScript runtime, bundler, transpiler and package manager](https://github.com/Jarred-Sumner/bun)
+- [Running the Steam Deck’s OS in a virtual machine using QEMU](https://blogs.igalia.com/berto/2022/07/05/running-the-steam-decks-os-in-a-virtual-machine-using-qemu/)
+- [Bun: Fast JavaScript runtime, transpiler, and npm client written in Zig](https://bun.sh/?launch)
 - [Show HN: Localization and translations should be code, not data](https://github.com/Divine-Software/divine-companions/tree/master/localization)
-- [Compilers, Hands-Off My Hands-On Optimizations &lpar;2016&rpar; [pdf]](https://users.ece.cmu.edu/~franzf/papers/wpmvp16.pdf)
-- [Cory Doctorow: The Swerve](https://locusmag.com/2022/07/cory-doctorow-the-swerve/)
-- [The SQLite Index Suggester](https://www.sqlite.org/cli.html#index_recommendations_sqlite_expert_)
 <!-- BLOG-POST-LIST:END -->
