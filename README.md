@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
-- [Why I’m Leaving the University](https://josephhmanson.com/2022/07/04/why-im-leaving-the-university/)
 - [Zig is becoming more production-worthy &lpar;zigmonthly&rpar;](https://zigmonthly.org/letters/2022/may-june/)
 - [Sadly, we can&#39;t check the app permissions on Google Play anymore](https://www.bluespace.tech/blog/google-play-permissions-list/)
 - [Browsh is a fully-modern text-based browser](https://www.brow.sh/)
 - [How CUDA Programming Works](https://www.nvidia.com/en-us/on-demand/session/gtcspring22-s41487/)
+- [Everything Is Anime](https://animationobsessive.substack.com/p/everything-is-anime)
 <!-- BLOG-POST-LIST:END -->
