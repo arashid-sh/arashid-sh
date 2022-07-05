@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
-- [Peter Thiel-Backed Crypto Lender Vauld Suspends Withdrawals](https://www.wsj.com/articles/peter-thiel-backed-crypto-lender-vauld-suspends-withdrawals-11656945617)
-- [Linux Kernel vs. DPDK: HTTP Performance Showdown](https://talawah.io/blog/linux-kernel-vs-dpdk-http-performance-showdown/)
-- [SQLGlot: SQL parser, transpiler, optimizer – translate to Presto, Spark, Hive](https://github.com/tobymao/sqlglot)
-- [On the use of a life &lpar;2020&rpar;](https://www.daemonology.net/blog/2020-09-20-On-the-use-of-a-life.html)
-- [Only 6.8% of adults have optimal cardiometabolic health](https://www.jacc.org/doi/10.1016/j.jacc.2022.04.046)
+- [The Fall of Reddit: Why It’s Quickly Declining into Chaos](https://scribe.rip/yardcouch-com/the-fall-of-reddit-why-its-quickly-declining-into-chaos-cb0da61aca56)
+- [Toyota’s Chief Says Electric Vehicles Are Overhyped](https://www.wsj.com/articles/toyotas-chief-says-electric-vehicles-are-overhyped-11608196665)
+- [My Quest for the Perfect Window Manager](http://ironphoenix.org/fvwm/)
+- [Everything Is Anime](https://animationobsessive.substack.com/p/everything-is-anime)
+- [Felt](https://felt.com/)
 <!-- BLOG-POST-LIST:END -->
