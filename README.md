@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [Lurk – Language for Recursive ZK-SNARKs Inspired by Common Lisp and Scheme](https://github.com/lurk-lang)
+- [Crypto’s last man standing](https://www.economist.com/finance-and-economics/2022/07/05/cryptos-last-man-standing)
+- [I don&#39;t care how you web dev; I just need more better web apps](https://www.baldurbjarnason.com/2022/more-better-web-apps/)
+- [OpenSSL Security Advisory [5 July 2022]](https://www.openssl.org/news/secadv/20220705.txt)
 - [Compound &lpar;YC S19&rpar; is hiring to build financial products for startup employees](https://withcompound.com/)
-- [Bun: Fast JavaScript runtime, bundler, transpiler and package manager](https://github.com/Jarred-Sumner/bun)
-- [Running the Steam Deck’s OS in a virtual machine using QEMU](https://blogs.igalia.com/berto/2022/07/05/running-the-steam-decks-os-in-a-virtual-machine-using-qemu/)
-- [Bun: Fast JavaScript runtime, transpiler, and npm client written in Zig](https://bun.sh/?launch)
-- [Show HN: Localization and translations should be code, not data](https://github.com/Divine-Software/divine-companions/tree/master/localization)
 <!-- BLOG-POST-LIST:END -->
