@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
-- [Want to see just how bad Google Chrome is? Try this simple trick](https://www.zdnet.com/article/want-to-see-just-how-bad-google-chrome-is-try-this-simple-trick/)
+- [Roe&#39;s overturn is tech&#39;s privacy apocalypse](https://www.axios.com/2022/07/05/tech-privacy-roe-battle)
+- [Car Quality Is Slipping](https://www.kbb.com/car-news/jd-power-study-initial-quality-of-new-cars-slipping/)
+- [Dutch farmers organise mass protests in face of farm closures](https://www.fwi.co.uk/news/environment/air-and-water/dutch-farmers-organise-mass-protests-in-face-of-farm-closures)
+- [Is anyone using Fastmail for their business?](https://news.ycombinator.com/item?id=31989061)
 - [Show HN: Credentials dumper for Linux using eBPF](https://github.com/citronneur/pamspy)
-- [EU Approves Landmark Legislation to Regulate Apple and Other Big Tech Firms](https://www.macrumors.com/2022/07/05/eu-approves-landmark-legislation-to-regulate-apple/)
-- [The Saint of Mathematics](https://physicsforstudents.com/the-saint-of-mathematics/)
-- [How to Animate Multiplayer Cursors](https://liveblocks.io/blog/how-to-animate-multiplayer-cursors)
 <!-- BLOG-POST-LIST:END -->
