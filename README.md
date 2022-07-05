@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
-- [Large Hadron Collider discovers three new exotic particles](https://home.cern/news/news/physics/lhcb-discovers-three-new-exotic-particles)
-- [Nature Used 57 Recipes to Create Earth’s 10,500 “Mineral Kinds”](https://carnegiescience.edu/news/crushed-zapped-boiled-baked-and-more-nature-used-57-recipes-create-earths-10500-mineral-kinds)
-- [Selfhosting on Localhost](https://jo-m.ch/posts/2022/07/self-hosting-on-localhost/)
-- [World’s Highest Website](https://worlds-highest-website.com)
-- [FedEx to close data centers, retire all mainframes by 2024, saving $400m](https://www.datacenterdynamics.com/en/news/fedex-to-close-data-centers-retire-all-mainframes-by-2024-saving-400m/)
+- [Want to see just how bad Google Chrome is? Try this simple trick](https://www.zdnet.com/article/want-to-see-just-how-bad-google-chrome-is-try-this-simple-trick/)
+- [Show HN: Credentials dumper for Linux using eBPF](https://github.com/citronneur/pamspy)
+- [EU Approves Landmark Legislation to Regulate Apple and Other Big Tech Firms](https://www.macrumors.com/2022/07/05/eu-approves-landmark-legislation-to-regulate-apple/)
+- [The Saint of Mathematics](https://physicsforstudents.com/the-saint-of-mathematics/)
+- [How to Animate Multiplayer Cursors](https://liveblocks.io/blog/how-to-animate-multiplayer-cursors)
 <!-- BLOG-POST-LIST:END -->
