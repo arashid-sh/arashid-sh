@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
-- [Meticulous &lpar;YC S21&rpar; Is Hiring #3 Founding Engineer](https://news.ycombinator.com/item?id=31990762)
-- [SF couple fined $1,500 and banned from parking their car on own property](https://www.cbsnews.com/news/san-francisco-couple-banned-from-parking-car-on-own-property-judy-and-ed-craine/)
+- [Unraveling the linothorax mystery, or how linen armor came to dominate our lives &lpar;2013&rpar;](https://jhupress.wordpress.com/2013/04/24/unraveling-the-linothorax-mystery-or-how-linen-armor-came-to-dominate-our-lives/)
+- [Why Can&#39;t Database Tables Index Themselves?](https://blog.codinghorror.com/why-cant-database-tables-index-themselves/)
+- [Meticulous &lpar;YC S21&rpar; Is Hiring #3 Founding Engineer in London](https://news.ycombinator.com/item?id=31990762)
 - [NIST announces first PQC algoritms to be standardized](https://groups.google.com/a/list.nist.gov/g/pqc-forum/c/G0DoD7lkGPk)
-- [The Mysterious Return of Imposter Syndrome](https://www.e-flux.com/notes/477232/the-contemporary-clinic-1-the-mysterious-return-of-imposter-syndrome)
 - [To improve search results on YouTube, use the search prefix “intitle:”](https://xn--1-zfa.com/youtube/)
 <!-- BLOG-POST-LIST:END -->
