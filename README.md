@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
-- [Roe&#39;s overturn is tech&#39;s privacy apocalypse](https://www.axios.com/2022/07/05/tech-privacy-roe-battle)
-- [Car Quality Is Slipping](https://www.kbb.com/car-news/jd-power-study-initial-quality-of-new-cars-slipping/)
-- [Dutch farmers organise mass protests in face of farm closures](https://www.fwi.co.uk/news/environment/air-and-water/dutch-farmers-organise-mass-protests-in-face-of-farm-closures)
-- [Is anyone using Fastmail for their business?](https://news.ycombinator.com/item?id=31989061)
-- [Show HN: Credentials dumper for Linux using eBPF](https://github.com/citronneur/pamspy)
+- [Meticulous &lpar;YC S21&rpar; Is Hiring #3 Founding Engineer](https://news.ycombinator.com/item?id=31990762)
+- [SF couple fined $1,500 and banned from parking their car on own property](https://www.cbsnews.com/news/san-francisco-couple-banned-from-parking-car-on-own-property-judy-and-ed-craine/)
+- [NIST announces first PQC algoritms to be standardized](https://groups.google.com/a/list.nist.gov/g/pqc-forum/c/G0DoD7lkGPk)
+- [The Mysterious Return of Imposter Syndrome](https://www.e-flux.com/notes/477232/the-contemporary-clinic-1-the-mysterious-return-of-imposter-syndrome)
+- [To improve search results on YouTube, use the search prefix “intitle:”](https://xn--1-zfa.com/youtube/)
 <!-- BLOG-POST-LIST:END -->
