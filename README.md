@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [FedEx to close data centers, retire all mainframes by 2024, saving $400m](https://www.datacenterdynamics.com/en/news/fedex-to-close-data-centers-retire-all-mainframes-by-2024-saving-400m/)
+- [New York state buys robots for lonely elders](https://www.thesciverse.com/2022/07/new-york-state-buys-robots-for-lonely.html)
 - [Windows x64 handcrafted token stealing kernel-mode shellcode](https://github.com/winterknife/PINKPANTHER)
 - [Xbox Cloud throttles performance if user agent is Linux](https://old.reddit.com/r/xcloud/comments/vrfmuz/quality_on_linux/)
 - [Solar-powered, Self-hosted Low-tech Magazine](https://solar.lowtechmagazine.com/about.html)
-- [He dropped out to become a poet – now he’s won a Fields Medal](https://www.quantamagazine.org/june-huh-high-school-dropout-wins-the-fields-medal-20220705/)
-- [Apple ][ &quot;Lemmings&quot; Proof of Concept](http://www.deater.net/weave/vmwprod/lemm/)
 <!-- BLOG-POST-LIST:END -->
