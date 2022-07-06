@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
-- [Aptible &lpar;YC S14&rpar; is hiring for our secure, compliant PaaS alternative to Heroku](https://www.aptible.com/careers/)
-- [Ask HN: What type of lamp &lpar;or light/lumen&rpar; do you use in your home office?](https://news.ycombinator.com/item?id=31999000)
-- [Baserow challenges Airtable with an open source no-code database platform](https://techcrunch.com/2022/07/05/baserow-challenges-airtable-with-an-open-source-no-code-database-platform/)
-- [Auto manufacturer family tree: Who owns what?](https://www.whichcar.com.au/car-advice/car-manufacturer-brands-family-tree)
-- [Emacs’s Builtin Elisp Cheat Sheet](https://www.masteringemacs.org/article/emacs-builtin-elisp-cheat-sheet)
+- [Scaling our Spreadsheet Engine from Thousands to Billions of Cells](https://www.causal.app/blog/scaling)
+- [FBI Child ID App](https://www.fbi.gov/news/apps/child-id-app)
+- [In Times of Scarcity, War and Peace, a Ukrainian Finds the Magic in Math](https://www.quantamagazine.org/ukrainian-mathematician-maryna-viazovska-wins-fields-medal-20220705/)
+- [Sourcehut is committed to making IRC better](https://sourcehut.org/blog/2022-07-06-sourcehut-and-irc/)
+- [DuckDuckGo, others warn Big Tech will attempt to weasel out of fair play rules](https://www.techradar.com/news/duckduckgo-others-warns-big-tech-will-attempt-to-weasel-out-of-new-fair-play-rules)
 <!-- BLOG-POST-LIST:END -->
