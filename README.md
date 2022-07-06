@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [Aptible &lpar;YC S14&rpar; is hiring for our secure, compliant PaaS alternative to Heroku](https://www.aptible.com/careers/)
+- [Ask HN: What type of lamp &lpar;or light/lumen&rpar; do you use in your home office?](https://news.ycombinator.com/item?id=31999000)
 - [Baserow challenges Airtable with an open source no-code database platform](https://techcrunch.com/2022/07/05/baserow-challenges-airtable-with-an-open-source-no-code-database-platform/)
+- [Auto manufacturer family tree: Who owns what?](https://www.whichcar.com.au/car-advice/car-manufacturer-brands-family-tree)
 - [Emacs’s Builtin Elisp Cheat Sheet](https://www.masteringemacs.org/article/emacs-builtin-elisp-cheat-sheet)
-- [Quebec Sovereignty Movement](https://en.wikipedia.org/wiki/Quebec_sovereignty_movement)
-- [Genei &lpar;YC S21&rpar; Is Hiring NLP Research and FullStack Engineers](https://www.ycombinator.com/companies/genei/jobs)
-- [Show HN: NeoPOP says “hello world” in open source](https://cred.club/neopop)
 <!-- BLOG-POST-LIST:END -->
