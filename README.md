@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
 - [Advice needed for backing up and hosting large amount of files](https://news.ycombinator.com/item?id=31996612)
+- [GVM: A GPU Virtual Machine for IOMMU-Capable Computers](https://docs.linux-gvm.org/)
 - [Absurd Trolley Problems](https://neal.fun/absurd-trolley-problems/)
 - [GTA GeoGuesser](https://gta-geoguesser.com/index.html/)
 - [An Ubuntu kernel bug causes container crashes](https://lwn.net/SubscriberLink/899420/1f0179b2d946d7b7/)
-- [Lurk – Language for Recursive ZK-SNARKs Inspired by Common Lisp and Scheme](https://github.com/lurk-lang)
 <!-- BLOG-POST-LIST:END -->
