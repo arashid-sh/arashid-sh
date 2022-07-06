@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 - [Alain de Botton on Existential Maturity and What Emotional Intelligence Means](https://www.themarginalian.org/2019/11/25/the-school-of-life-book/)
 - [World’s first large-scale ‘sand battery’ goes online in Finland](https://www.energy-storage.news/worlds-first-large-scale-sand-battery-goes-online-in-finland/)
 - [Charge Robotics &lpar;YC S21&rpar; is hiring a mechanical engineer](https://www.ycombinator.com/companies/charge-robotics/jobs/VFEVUkD-mechanical-engineer)
-- [El Salvador’s Experiment with Bitcoin as Legal Tender](https://www.nber.org/digest-202207/el-salvadors-experiment-bitcoin-legal-tender)
 - [No Language Left Behind](https://ai.facebook.com/research/no-language-left-behind/)
+- [Show HN: C3 – A C alternative that looks like C](https://news.ycombinator.com/item?id=32005678)
 <!-- BLOG-POST-LIST:END -->
