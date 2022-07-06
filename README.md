@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [Advice needed for backing up and hosting large amount of files](https://news.ycombinator.com/item?id=31996612)
 - [Absurd Trolley Problems](https://neal.fun/absurd-trolley-problems/)
 - [GTA GeoGuesser](https://gta-geoguesser.com/index.html/)
-- [New cars will stop drivers from speeding under European laws](https://www.drive.com.au/news/new-cars-will-stop-drivers-from-speeding/)
-- [Ask HN: Why do you use a VPN?](https://news.ycombinator.com/item?id=31996114)
 - [An Ubuntu kernel bug causes container crashes](https://lwn.net/SubscriberLink/899420/1f0179b2d946d7b7/)
+- [Lurk – Language for Recursive ZK-SNARKs Inspired by Common Lisp and Scheme](https://github.com/lurk-lang)
 <!-- BLOG-POST-LIST:END -->
