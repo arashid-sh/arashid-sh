@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
-- [First True Exascale Supercomputer](https://www.top500.org/lists/top500/2022/06/)
-- [Python 3.11 vs 3.10 performance](https://github.com/faster-cpython/ideas/blob/main/main-vs-310.rst)
-- [Crypto broker Voyager Digital files for bankruptcy](https://techcrunch.com/2022/07/06/crypto-broker-voyager-digital-files-for-bankruptcy/)
-- [Show HN: 3D live tracking two climbers attempting a Sierra Nevada record](https://www.sps2022.com/tracker/NathanL)
-- [A fake job offer took down the world’s most popular crypto game](https://www.theblock.co/post/156038/how-a-fake-job-offer-took-down-the-worlds-most-popular-crypto-game)
+- [Apple expands commitment to protect users from mercenary spyware](https://www.apple.com/newsroom/2022/07/apple-expands-commitment-to-protect-users-from-mercenary-spyware/)
+- [ReadMe &lpar;YC W15&rpar; is hiring people who love Developer Experience](https://readme.com/careers)
+- [Ask HN: Why do I struggle to follow corporate meetings?](https://news.ycombinator.com/item?id=32003266)
+- [Let&#39;s Encrypt swag is here and I love it](https://letsencrypt.org/donate/)
+- [Launch HN: Hello &lpar;YC S22&rpar; – A search engine for developers](https://news.ycombinator.com/item?id=32003215)
 <!-- BLOG-POST-LIST:END -->
