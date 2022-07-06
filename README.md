@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
-- [India&#39;s largest stock broker has 30 devs](https://zerodha.tech/blog/hello-world/)
+- [India&#39;s largest stock broker has 30 devs &lpar;2020&rpar;](https://zerodha.tech/blog/hello-world/)
 - [An Ubuntu kernel bug causes container crashes](https://lwn.net/SubscriberLink/899420/1f0179b2d946d7b7/)
 - [Lurk – Language for Recursive ZK-SNARKs Inspired by Common Lisp and Scheme](https://github.com/lurk-lang)
-- [Crypto’s last man standing](https://www.economist.com/finance-and-economics/2022/07/05/cryptos-last-man-standing)
 - [I don&#39;t care how you web dev; I just need more better web apps](https://www.baldurbjarnason.com/2022/more-better-web-apps/)
+- [The ‘E-Pimps’ of OnlyFans](https://www.nytimes.com/2022/05/16/magazine/e-pimps-onlyfans.html)
 <!-- BLOG-POST-LIST:END -->
