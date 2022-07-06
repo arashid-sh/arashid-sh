@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
-- [Scaling our Spreadsheet Engine from Thousands to Billions of Cells](https://www.causal.app/blog/scaling)
-- [FBI Child ID App](https://www.fbi.gov/news/apps/child-id-app)
-- [In Times of Scarcity, War and Peace, a Ukrainian Finds the Magic in Math](https://www.quantamagazine.org/ukrainian-mathematician-maryna-viazovska-wins-fields-medal-20220705/)
-- [Sourcehut is committed to making IRC better](https://sourcehut.org/blog/2022-07-06-sourcehut-and-irc/)
-- [DuckDuckGo, others warn Big Tech will attempt to weasel out of fair play rules](https://www.techradar.com/news/duckduckgo-others-warns-big-tech-will-attempt-to-weasel-out-of-new-fair-play-rules)
+- [If your site does not use HTTPS, Rostelecom will insert pro-war propaganda in it](https://twitter.com/MosSobyaniin/status/1544318154846998531)
+- [Ask HN: Burnt out developer trying to move out of Iran, advices?](https://news.ycombinator.com/item?id=32000712)
+- [Microrobots can brush and floss teeth](https://penntoday.upenn.edu/news/penn-dental-engineering-shapeshifting-microrobots-can-brush-and-floss-teeth)
+- [Apps and advertisers are coming for your lock screen](https://www.theverge.com/2022/7/5/23195827/lockscreen-content-apple-ios-16-glance)
+- [How to Improve Your Monolith Before Transitioning to Microservices](https://semaphoreci.com/blog/monolith-microservices)
 <!-- BLOG-POST-LIST:END -->
