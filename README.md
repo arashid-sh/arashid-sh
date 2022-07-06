@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
-- [If your site does not use HTTPS, Rostelecom will insert pro-war propaganda in it](https://twitter.com/MosSobyaniin/status/1544318154846998531)
-- [Ask HN: Burnt out developer trying to move out of Iran, advices?](https://news.ycombinator.com/item?id=32000712)
+- [A fake job offer took down the world’s most popular crypto game](https://www.theblock.co/post/156038/how-a-fake-job-offer-took-down-the-worlds-most-popular-crypto-game)
+- [FDA suspends Juul ban as company appeals](https://www.wsj.com/articles/juul-can-keep-selling-its-products-in-u-s-while-it-appeals-ban-fda-says-11657067282)
 - [Microrobots can brush and floss teeth](https://penntoday.upenn.edu/news/penn-dental-engineering-shapeshifting-microrobots-can-brush-and-floss-teeth)
-- [Apps and advertisers are coming for your lock screen](https://www.theverge.com/2022/7/5/23195827/lockscreen-content-apple-ios-16-glance)
 - [How to Improve Your Monolith Before Transitioning to Microservices](https://semaphoreci.com/blog/monolith-microservices)
+- [Scaling our Spreadsheet Engine from Thousands to Billions of Cells](https://www.causal.app/blog/scaling)
 <!-- BLOG-POST-LIST:END -->
