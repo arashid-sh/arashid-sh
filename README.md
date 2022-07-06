@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [First True Exascale Supercomputer](https://www.top500.org/lists/top500/2022/06/)
+- [Python 3.11 vs 3.10 performance](https://github.com/faster-cpython/ideas/blob/main/main-vs-310.rst)
+- [Crypto broker Voyager Digital files for bankruptcy](https://techcrunch.com/2022/07/06/crypto-broker-voyager-digital-files-for-bankruptcy/)
+- [Show HN: 3D live tracking two climbers attempting a Sierra Nevada record](https://www.sps2022.com/tracker/NathanL)
 - [A fake job offer took down the world’s most popular crypto game](https://www.theblock.co/post/156038/how-a-fake-job-offer-took-down-the-worlds-most-popular-crypto-game)
-- [FDA suspends Juul ban as company appeals](https://www.wsj.com/articles/juul-can-keep-selling-its-products-in-u-s-while-it-appeals-ban-fda-says-11657067282)
-- [Microrobots can brush and floss teeth](https://penntoday.upenn.edu/news/penn-dental-engineering-shapeshifting-microrobots-can-brush-and-floss-teeth)
-- [How to Improve Your Monolith Before Transitioning to Microservices](https://semaphoreci.com/blog/monolith-microservices)
-- [Scaling our Spreadsheet Engine from Thousands to Billions of Cells](https://www.causal.app/blog/scaling)
 <!-- BLOG-POST-LIST:END -->
