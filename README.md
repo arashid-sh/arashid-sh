@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
-- [Vision-based AI drones outfly world-class human pilots](https://spectrum.ieee.org/zurich-autonomous-drone-race)
-- [Dolphin Progress May and June 2022](https://dolphin-emu.org/blog/2022/07/07/dolphin-progress-report-may-and-june-2022/)
-- [Inversion Space &lpar;YC S21&rpar; Is Hiring for Embedded Software](https://boards.greenhouse.io/inversionspace/jobs/4022300005)
-- [A Facebook account is no longer required to use Meta VR devices](https://www.oculus.com/blog/meta-accounts/)
-- [Shader-like holographic effects with CSS](https://robbowen.digital/wrote-about/css-blend-mode-shaders/)
+- [Starlink Maritime](https://www.starlink.com/maritime)
+- [SOC2: The Screenshots Will Continue Until Security Improves](https://fly.io/blog/soc2-the-screenshots-will-continue-until-security-improves/)
+- [OrBit: New Undetected Linux Threat Uses Unique Hijack of Execution Flow](https://www.intezer.com/blog/incident-response/orbit-new-undetected-linux-threat/)
+- [July 8 99% of the world’s population in sunlight simultaneously?](https://www.timeanddate.com/news/astronomy/99-percent-sunlight-july-8)
+- [Homeland security workers indicted in scheme to silence China critics in U.S.](https://www.justice.gov/usao-edny/pr/five-individuals-indicted-crimes-related-transnational-repression-scheme-silence)
 <!-- BLOG-POST-LIST:END -->
