@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
-- [Starlink Maritime](https://www.starlink.com/maritime)
-- [SOC2: The Screenshots Will Continue Until Security Improves](https://fly.io/blog/soc2-the-screenshots-will-continue-until-security-improves/)
-- [OrBit: New Undetected Linux Threat Uses Unique Hijack of Execution Flow](https://www.intezer.com/blog/incident-response/orbit-new-undetected-linux-threat/)
-- [July 8 99% of the world’s population in sunlight simultaneously?](https://www.timeanddate.com/news/astronomy/99-percent-sunlight-july-8)
-- [Homeland security workers indicted in scheme to silence China critics in U.S.](https://www.justice.gov/usao-edny/pr/five-individuals-indicted-crimes-related-transnational-repression-scheme-silence)
+- [Making Things Think – AI Book](https://www.holloway.com/g/making-things-think)
+- [Programming with union, intersection, and negation types](https://arxiv.org/abs/2111.03354)
+- [9K-lb Hummer EV so inefficient that it produces more CO₂ than a gas Chevy Malibu](https://www.aceee.org/blog-post/2022/06/9000-pound-electric-hummer-shows-we-cant-ignore-efficiency-evs)
+- [Former Theranos COO Sunny Balwani is guilty of federal fraud](https://www.axios.com/2022/07/07/theranos-sunny-balwani-guilty-fraud)
+- [Twitter Layoff Started Today](https://www.linkedin.com/posts/ingridjohnson_twitter-layoffs-started-today-there-are-activity-6950869057071980545-1Q4t)
 <!-- BLOG-POST-LIST:END -->
