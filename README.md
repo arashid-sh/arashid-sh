@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [Are We Wayland Yet?](https://arewewaylandyet.com/)
+- [Element &lpar;Matrix&rpar; launches Chatterbox, end-to-end encrypted embedded chat](https://element.io/blog/element-launches-chatterbox/)
+- [Met Police UK Live Facial Recognition](https://www.met.police.uk/advice/advice-and-information/fr/facial-recognition)
 - [EU moving closer to Facebook ban](https://blog.simpleanalytics.com/eu-moving-closer-to-facebook-ban)
 - [Show HN: RemoteFriendly – A remote job board inspired by HN](https://remotefriendly.com/)
-- [TensorFlow Lite for Commodore 64](https://github.com/nickbild/tflite_c64)
-- [9K-lb Hummer EV so inefficient that it produces more CO₂ than a gas Chevy Malibu](https://www.aceee.org/blog-post/2022/06/9000-pound-electric-hummer-shows-we-cant-ignore-efficiency-evs)
-- [Former Theranos COO Sunny Balwani is guilty of federal fraud](https://www.axios.com/2022/07/07/theranos-sunny-balwani-guilty-fraud)
 <!-- BLOG-POST-LIST:END -->
