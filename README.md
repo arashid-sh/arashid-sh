@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [Brain.js: GPU Accelerated Neural Networks in JavaScript](https://brain.js.org/#/)
+- [Zrepl on Rsync.net](https://blog.lenny.ninja/zrepl-on-rsync-net.html)
+- [Problems at Roblox](https://thebearcave.substack.com/p/problems-at-roblox-rblx)
 - [Ask HN: Resources on learning System Design &lpar;back end/data engineering&rpar;?](https://news.ycombinator.com/item?id=32014658)
 - [Ed is the standard text editor &lpar;2014&rpar;](https://wiki.c2.com/?EdIsTheStandardTextEditor)
-- [Code from the FBI’s Anom encrypted messaging app](https://www.vice.com/en/article/v7veg8/anom-app-source-code-operation-trojan-shield-an0m)
-- [Tesorio &lpar;YC S15&rpar; Raised a Series B and Is Hiring a VP of Engineering](https://www.tesorio.com/careers#job-openings)
-- [Show HN: PocketBase – Open Source realtime backend in one file](https://github.com/pocketbase/pocketbase)
 <!-- BLOG-POST-LIST:END -->
