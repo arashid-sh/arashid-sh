@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
-- [Explaining Ethereum&#39;s consensus mechanism after The Merge](https://0xfoobar.substack.com/p/ethereum-proof-of-stake)
-- [‘Your Map Is Wrong’](https://p2p.ai/2022/06/27/your-map-is-wrong/)
-- [The Art of Mac Malware: Volume I: Analysis](https://taomm.org/vol1/read.html)
-- [Ask HN: What&#39;s is your go to toolset for simple front end development?](https://news.ycombinator.com/item?id=32011439)
-- [4th Gen KDE Slimbook – Linux Ultrabook with an AMD Ryzen 7 5700U](https://kde.slimbook.es/)
+- [Tesorio &lpar;YC S15&rpar; Raised a Series B and Is Hiring a VP of Engineering](https://www.tesorio.com/careers#job-openings)
+- [Show HN: PocketBase – open-source realtime back end in 1 file](https://github.com/pocketbase/pocketbase)
+- [Private equity may be heading for a fall](https://www.economist.com/business/2022/07/07/private-equity-may-be-heading-for-a-fall)
+- [Meta Sues Web Scrapers](https://about.fb.com/news/2022/07/actions-against-scraping-for-hire/)
+- [Sending reply and forward emails with EmailEngine](https://docs.emailengine.app/sending-reply-and-forward-emails/)
 <!-- BLOG-POST-LIST:END -->
