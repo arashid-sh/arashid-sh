@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Looking for feedback on our website &lpar;freelance platform&rpar;&rpar;](https://news.ycombinator.com/item?id=32010411)
 - [Music for Programming](https://musicforprogramming.net/)
 - [Nanoparticle Vaccine Protects Against C19-Causing Variants and Related Viruses](https://www.caltech.edu/about/news/sars-coronavirus-variant-vaccine-bjorkman)
 - [Life Stats](https://neal.fun/life-stats/)
 - [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Machine Learning Research Engineers](https://news.ycombinator.com/item?id=32008825)
-- [I analyzed hospital price lists so you didn&#39;t have to](https://www.dolthub.com/blog/2022-07-01-hospitals-compliance/)
 <!-- BLOG-POST-LIST:END -->
