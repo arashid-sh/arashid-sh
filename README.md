@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [Inversion Space &lpar;YC S21&rpar; Is Hiring for Embedded Software](https://boards.greenhouse.io/inversionspace/jobs/4022300005)
+- [A Facebook account is no longer required to use Meta VR devices](https://www.oculus.com/blog/meta-accounts/)
+- [Meshtastic is an encrypted communications platform for the Lora RF protocol](https://meshtastic.org/docs/about)
+- [Solving Out of Memory Issues in Linux at Redpanda](https://redpanda.com/blog/solve-out-of-memory-killer-events)
 - [Brain.js: GPU Accelerated Neural Networks in JavaScript](https://brain.js.org/#/)
-- [Zrepl on Rsync.net](https://blog.lenny.ninja/zrepl-on-rsync-net.html)
-- [Problems at Roblox](https://thebearcave.substack.com/p/problems-at-roblox-rblx)
-- [Ask HN: Resources on learning System Design &lpar;back end/data engineering&rpar;?](https://news.ycombinator.com/item?id=32014658)
-- [Ed is the standard text editor &lpar;2014&rpar;](https://wiki.c2.com/?EdIsTheStandardTextEditor)
 <!-- BLOG-POST-LIST:END -->
