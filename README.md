@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [Markov Chat Bot Disaster Story](https://gist.github.com/aconbere/1982a5eb17b77817017a3da50914732f)
 - [Are We Wayland Yet?](https://arewewaylandyet.com/)
 - [Element &lpar;Matrix&rpar; launches Chatterbox, end-to-end encrypted embedded chat](https://element.io/blog/element-launches-chatterbox/)
 - [Met Police UK Live Facial Recognition](https://www.met.police.uk/advice/advice-and-information/fr/facial-recognition)
 - [EU moving closer to Facebook ban](https://blog.simpleanalytics.com/eu-moving-closer-to-facebook-ban)
-- [Show HN: RemoteFriendly – A remote job board inspired by HN](https://remotefriendly.com/)
 <!-- BLOG-POST-LIST:END -->
