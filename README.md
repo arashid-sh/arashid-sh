@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
-- [Svix, the Enterprise Ready Webhook Service &lpar;YC W21&rpar; Is Hiring &lpar;Remote&rpar;](https://www.svix.com/careers/?utm_source=news.ycombinator.com&utm_medium=referral&utm_campaign=hacker-news-jobs)
-- [Why we&#39;re sticking with Ruby on Rails](https://about.gitlab.com/blog/2022/07/06/why-were-sticking-with-ruby-on-rails/)
-- [Arizona passes law criminalizing recording of police &lpar;within 8 ft&rpar;](https://www.usatoday.com/story/news/nation/2022/07/07/arizona-recording-police-illegal/10009423002/)
-- [Notepad++ v8.4.3: Unhappy Users&#39; Edition](https://notepad-plus-plus.org/news/v843-unhappy-users-edition/)
-- [Netflix to Its Techies: Shut Up](https://www.vulture.com/2022/07/netflix-to-its-techies-shut-up.html)
+- [Vangelis’ film score for Blade Runner](http://www.nemostudios.co.uk/bladerunner/)
+- [Florida Tech CEO Indicted for Selling $1B Worth of Counterfeit Cisco Equipment](https://www.justice.gov/opa/pr/ceo-dozens-companies-and-entities-charged-scheme-traffic-estimated-1-billion-fraudulent-and)
+- [The U.S. May Be Losing the Fight Against Monkeypox, Scientists Say](https://www.nytimes.com/2022/07/08/health/monkeypox-vaccine-treatment.html)
+- [Google proposes moving ad business to Alphabet to keep regulators at bay](https://arstechnica.com/gadgets/2022/07/google-proposes-moving-ad-business-to-alphabet-to-keep-regulators-at-bay/)
+- [Ask HN: What&#39;d you do while HN was down?](https://news.ycombinator.com/item?id=32026639)
 <!-- BLOG-POST-LIST:END -->
