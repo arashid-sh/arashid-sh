@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
-- [PhotoRoom Is Hiring a Senior Web Developer &lpar;WebAssembly, WebGL and React&rpar; in Paris](https://jobs.lever.co/photoroom/ac3a361b-aa5e-479d-95d6-434d73e6eb33?lever-origin=applied&lever-source%5B%5D=Ycombinator)
-- [The Visual Studio Code Server](https://code.visualstudio.com/blogs/2022/07/07/vscode-server)
-- [ASCIIToSVG – Create beautiful SVG renderings of ASCII diagrams](https://github.com/asciitosvg/asciitosvg)
-- [SSH Cheat Sheet](https://www.marcobehler.com/guides/ssh-cheat-sheet)
-- [Former PM Abe Shinzo dies after being shot](https://www3.nhk.or.jp/nhkworld/en/news/20220708_49/)
+- [Svix, the Enterprise Ready Webhook Service &lpar;YC W21&rpar; Is Hiring &lpar;Remote&rpar;](https://www.svix.com/careers/?utm_source=news.ycombinator.com&utm_medium=referral&utm_campaign=hacker-news-jobs)
+- [Why we&#39;re sticking with Ruby on Rails](https://about.gitlab.com/blog/2022/07/06/why-were-sticking-with-ruby-on-rails/)
+- [Arizona passes law criminalizing recording of police &lpar;within 8 ft&rpar;](https://www.usatoday.com/story/news/nation/2022/07/07/arizona-recording-police-illegal/10009423002/)
+- [Notepad++ v8.4.3: Unhappy Users&#39; Edition](https://notepad-plus-plus.org/news/v843-unhappy-users-edition/)
+- [Twitter lays off 30% of its talent acquisition team](https://techcrunch.com/2022/07/07/twitter-layoffs-talent-acquisition/)
 <!-- BLOG-POST-LIST:END -->
