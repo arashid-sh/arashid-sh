@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
-- [Lenovo shipping new laptops that only boot Windows by default](https://mjg59.dreamwidth.org/59931.html)
-- [Cell-Based Architecture](https://github.com/wso2/reference-architecture/blob/master/reference-architecture-cell-based.md)
-- [Hacker News was down](https://hackernews.onlineornot.com)
-- [Apple, Google, Facebook&#39;s AV1 standards group under EU antitrust investigation](https://www.reuters.com/technology/exclusive-eu-antitrust-regulators-probing-tech-group-aoms-video-licensing-policy-2022-07-07/)
-- [Show HN: I made an app to help insomniacs learn how to sleep again](https://slumber.one)
+- [PhotoRoom Is Hiring a Senior Web Developer &lpar;WebAssembly, WebGL and React&rpar; in Paris](https://jobs.lever.co/photoroom/ac3a361b-aa5e-479d-95d6-434d73e6eb33?lever-origin=applied&lever-source%5B%5D=Ycombinator)
+- [Former PM Abe Shinzo dies after being shot](https://www3.nhk.or.jp/nhkworld/en/news/20220708_49/)
+- [Former Japan Prime Minister Shinzo Abe Dies After Being Shot](https://www.japantimes.co.jp/news/2022/07/08/national/shinzo-abe-dead-nara-shooting/)
+- [Histography- timeline Using Wikipedia Data](https://histography.io/)
+- [Japanese former prime minister Abe has died](https://www.reuters.com/world/asia-pacific/japanese-former-prime-minister-abe-has-died-nhk-2022-07-08/)
 <!-- BLOG-POST-LIST:END -->
