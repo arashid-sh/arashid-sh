@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
-- [Markov Chat Bot Disaster Story](https://gist.github.com/aconbere/1982a5eb17b77817017a3da50914732f)
-- [Are We Wayland Yet?](https://arewewaylandyet.com/)
-- [Element &lpar;Matrix&rpar; launches Chatterbox, end-to-end encrypted embedded chat](https://element.io/blog/element-launches-chatterbox/)
-- [Met Police UK Live Facial Recognition](https://www.met.police.uk/advice/advice-and-information/fr/facial-recognition)
-- [EU moving closer to Facebook ban](https://blog.simpleanalytics.com/eu-moving-closer-to-facebook-ban)
+- [bun: fast JavaScript runtime and package manager](https://github.com/Jarred-Sumner/bun)
+- [School’s Out for Summer and Many Teachers Are Calling It Quits](https://www.wsj.com/articles/schools-out-for-summer-and-many-teachers-are-calling-it-quits-11655732689)
+- [Dems propose raising taxes on couples making more than $500k](https://www.cbsnews.com/news/medicare-solvency-senate-bill-taxes-high-earners-chuck-schumer-joe-manchin-2022/)
+- [Governor Newsom announces California will make its own insulin](https://kion546.com/news/2022/07/07/governor-gavin-newsom-announces-california-will-make-its-own-insulin/)
+- [PyAlgoViz: Python Algorithm Visualizations done in Python running in the browser](http://pyalgoviz.appspot.com/)
 <!-- BLOG-POST-LIST:END -->
