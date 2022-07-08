@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 - [Why we&#39;re sticking with Ruby on Rails](https://about.gitlab.com/blog/2022/07/06/why-were-sticking-with-ruby-on-rails/)
 - [Arizona passes law criminalizing recording of police &lpar;within 8 ft&rpar;](https://www.usatoday.com/story/news/nation/2022/07/07/arizona-recording-police-illegal/10009423002/)
 - [Notepad++ v8.4.3: Unhappy Users&#39; Edition](https://notepad-plus-plus.org/news/v843-unhappy-users-edition/)
-- [Twitter lays off 30% of its talent acquisition team](https://techcrunch.com/2022/07/07/twitter-layoffs-talent-acquisition/)
+- [Netflix to Its Techies: Shut Up](https://www.vulture.com/2022/07/netflix-to-its-techies-shut-up.html)
 <!-- BLOG-POST-LIST:END -->
