@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 - [Lenovo shipping new laptops that only boot Windows by default](https://mjg59.dreamwidth.org/59931.html)
 - [Cell-Based Architecture](https://github.com/wso2/reference-architecture/blob/master/reference-architecture-cell-based.md)
 - [Hacker News was down](https://hackernews.onlineornot.com)
-- [Two people in Tesla killed after crashing into parked semi at Florida rest stop](https://cdllife.com/2022/two-people-in-tesla-killed-after-crashing-into-parked-semi-at-florida-rest-stop/)
 - [Apple, Google, Facebook&#39;s AV1 standards group under EU antitrust investigation](https://www.reuters.com/technology/exclusive-eu-antitrust-regulators-probing-tech-group-aoms-video-licensing-policy-2022-07-07/)
+- [Show HN: I made an app to help insomniacs learn how to sleep again](https://slumber.one)
 <!-- BLOG-POST-LIST:END -->
