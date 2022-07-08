@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
-- [It Looks Like HighlandPark Shooter Tried Repeatedly to Create Own Wikipedia Page](https://slate.com/technology/2022/07/bobby-crimo-highland-park-wikipedia.html)
-- [Elon Musk terminating Twitter deal](https://www.reuters.com/technology/elon-musk-terminating-twitter-deal-2022-07-08/)
-- [Elon Musk Trying to Back Out of Twitter Deal](https://www.sec.gov/Archives/edgar/data/1418091/000110465922078413/tm2220599d1_ex99-p.htm)
-- [Boeing CEO says planemaker could be forced to cancel 737 Max 10](https://www.reuters.com/business/aerospace-defense/boeing-ceo-says-plane-maker-could-be-forced-cancel-737-max-10-aviation-week-2022-07-07/)
-- [Plutonium isotopes in the North Western Pacific sediments found](https://www.nature.com/articles/s41598-022-14179-w)
+- [Tell HN: Have a Good Weekend](https://news.ycombinator.com/item?id=32027913)
+- [Go generics are not bad](https://lemire.me/blog/2022/07/08/go-generics-are-not-bad/)
+- [Lion&#39;s mane mushrooms: Benefits and side effects](https://www.medicalnewstoday.com/articles/323400)
+- [Linux Sucks 2022](https://lunduke.substack.com/p/linux-sucks-2022)
+- [Notice of termination of Twitter merger agreement](https://www.sec.gov/Archives/edgar/data/1418091/000110465922078413/tm2220599d1_ex99-p.htm)
 <!-- BLOG-POST-LIST:END -->
