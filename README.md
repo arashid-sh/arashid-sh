@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
-- [Vangelis’ film score for Blade Runner](http://www.nemostudios.co.uk/bladerunner/)
-- [Florida Tech CEO Indicted for Selling $1B Worth of Counterfeit Cisco Equipment](https://www.justice.gov/opa/pr/ceo-dozens-companies-and-entities-charged-scheme-traffic-estimated-1-billion-fraudulent-and)
-- [The U.S. May Be Losing the Fight Against Monkeypox, Scientists Say](https://www.nytimes.com/2022/07/08/health/monkeypox-vaccine-treatment.html)
-- [Google proposes moving ad business to Alphabet to keep regulators at bay](https://arstechnica.com/gadgets/2022/07/google-proposes-moving-ad-business-to-alphabet-to-keep-regulators-at-bay/)
-- [Ask HN: What&#39;d you do while HN was down?](https://news.ycombinator.com/item?id=32026639)
+- [It Looks Like HighlandPark Shooter Tried Repeatedly to Create Own Wikipedia Page](https://slate.com/technology/2022/07/bobby-crimo-highland-park-wikipedia.html)
+- [Elon Musk terminating Twitter deal](https://www.reuters.com/technology/elon-musk-terminating-twitter-deal-2022-07-08/)
+- [Elon Musk Trying to Back Out of Twitter Deal](https://www.sec.gov/Archives/edgar/data/1418091/000110465922078413/tm2220599d1_ex99-p.htm)
+- [Boeing CEO says planemaker could be forced to cancel 737 Max 10](https://www.reuters.com/business/aerospace-defense/boeing-ceo-says-plane-maker-could-be-forced-cancel-737-max-10-aviation-week-2022-07-07/)
+- [Plutonium isotopes in the North Western Pacific sediments found](https://www.nature.com/articles/s41598-022-14179-w)
 <!-- BLOG-POST-LIST:END -->
