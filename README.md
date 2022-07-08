@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
-- [bun: fast JavaScript runtime and package manager](https://github.com/Jarred-Sumner/bun)
-- [School’s Out for Summer and Many Teachers Are Calling It Quits](https://www.wsj.com/articles/schools-out-for-summer-and-many-teachers-are-calling-it-quits-11655732689)
-- [Dems propose raising taxes on couples making more than $500k](https://www.cbsnews.com/news/medicare-solvency-senate-bill-taxes-high-earners-chuck-schumer-joe-manchin-2022/)
+- [Apple, Google, Facebook&#39;s AV1 standards group under EU antitrust investigation](https://appleinsider.com/articles/22/07/07/apple-google-facebooks-av1-standards-group-under-antitrust-investigation-in-eu)
+- [Japan’s Ex-PM Abe assassinated during speech](https://www.bloomberg.com/news/articles/2022-07-08/japan-s-ex-pm-abe-collapses-in-nara-shots-heard-nhk-says)
+- [Show HN: I made an app to help insomniacs learn how to sleep again](https://slumber.one)
 - [Governor Newsom announces California will make its own insulin](https://kion546.com/news/2022/07/07/governor-gavin-newsom-announces-california-will-make-its-own-insulin/)
 - [PyAlgoViz: Python Algorithm Visualizations done in Python running in the browser](http://pyalgoviz.appspot.com/)
 <!-- BLOG-POST-LIST:END -->
