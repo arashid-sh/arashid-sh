@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
-- [Tell HN: Have a Good Weekend](https://news.ycombinator.com/item?id=32027913)
-- [Go generics are not bad](https://lemire.me/blog/2022/07/08/go-generics-are-not-bad/)
-- [Lion&#39;s mane mushrooms: Benefits and side effects](https://www.medicalnewstoday.com/articles/323400)
-- [Linux Sucks 2022](https://lunduke.substack.com/p/linux-sucks-2022)
-- [Notice of termination of Twitter merger agreement](https://www.sec.gov/Archives/edgar/data/1418091/000110465922078413/tm2220599d1_ex99-p.htm)
+- [Ask HN: HN is gone, now what?](https://news.ycombinator.com/item?id=32029405)
+- [Switzerland Moves Ahead with Underground Autonomous Cargo Delivery](https://spectrum.ieee.org/cargo-sous-terrain)
+- [Tooth Fairy Index](https://www.deltadental.com/us/en/tooth-fairy/the-original-poll.html)
+- [Architecture Decisions in Neon](https://neon.tech/blog/architecture-decisions-in-neon/)
+- [OCRmyPDF: Add an OCR text layer to scanned PDF file](https://ocrmypdf.readthedocs.io/en/latest/index.html)
 <!-- BLOG-POST-LIST:END -->
