@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [I should have loved biology](https://jsomers.net/i-should-have-loved-biology/)
+- [Sound induces analgesia through corticothalamic circuits](https://www.science.org/doi/10.1126/science.abn4663)
+- [Rust Editors to Replace TextMate 2 – The Agony of Despair](https://fuzzyblog.io/blog/rust/2022/07/08/rust-alternatives-to-textmate-2-the-agony-of-despair.html)
 - [Show HN: I built an interactive course that helps you learn Vim faster](https://www.vimified.com/)
 - [Algorithms for Decision Making](https://algorithmsbook.com/)
-- [Few people grasp the amount of effort Daniel Gackle expends running HN &lpar;2020&rpar;](https://twitter.com/paulg/status/1282055086433284103)
-- [The genetic diversity underlying the mating system of shelf fungi](https://www.the-scientist.com/news-opinion/this-fungus-has-more-than-17-000-sexes-69930)
-- [Amplify UI – Don&#39;t just prototype. Connect your UI to the cloud](https://ui.docs.amplify.aws)
 <!-- BLOG-POST-LIST:END -->
