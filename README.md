@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [Deepnote &lpar;YC S19&rpar; is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
+- [Barbie Typewriter &lpar;2018&rpar;](https://www.cryptomuseum.com/crypto/mehano/barbie/)
 - [AutoRegex](https://www.autoregex.xyz)
 - [Programming Fonts](https://www.programmingfonts.org/)
 - [Show HN: Logto, OSS to build sign-in experience and user identity within minutes](https://logto.io/)
-- [Chumsky, a Rust parser-combinator library with error recovery](https://github.com/zesterer/chumsky)
-- [CompileIt: A Hypercard compiler written in Hypercard &lpar;2007&rpar;](https://www.lowendmac.com/ed/rlawson/rl07/1004.html)
 <!-- BLOG-POST-LIST:END -->
