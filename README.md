@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: HN is gone, now what?](https://news.ycombinator.com/item?id=32029405)
-- [Switzerland Moves Ahead with Underground Autonomous Cargo Delivery](https://spectrum.ieee.org/cargo-sous-terrain)
-- [Tooth Fairy Index](https://www.deltadental.com/us/en/tooth-fairy/the-original-poll.html)
-- [Architecture Decisions in Neon](https://neon.tech/blog/architecture-decisions-in-neon/)
-- [OCRmyPDF: Add an OCR text layer to scanned PDF file](https://ocrmypdf.readthedocs.io/en/latest/index.html)
+- [HN Moved from M5 to AWS](https://news.ycombinator.com/item?id=32030400)
+- [Arizona makes it illegal for bystanders to record cops at close range](https://arstechnica.com/tech-policy/2022/07/arizona-makes-it-illegal-for-bystanders-to-record-cops-at-close-range/)
+- [FCC orders carriers to stop delivering auto warranty robocalls](https://www.upi.com/Top_News/US/2022/07/07/FCC-orders-carriers-stop-delivering-auto-warranty-robocalls/6041657245371/)
+- [Trust in news collapses to historic low](https://www.axios.com/2022/07/08/news-republicans-democrats-trust-partisanship)
+- [Show HN: I made a MIDI tool to teach me piano](https://github.com/ZaneH/piano-trainer)
 <!-- BLOG-POST-LIST:END -->
