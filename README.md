@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [OneSignal &lpar;YC S11&rpar; Is Hiring Product Engineers](https://onesignal.com/careers)
+- [Physicists discover a “family” of robust, superconducting graphene structures](https://news.mit.edu/2022/superconducting-graphene-family-0708)
+- [Permaculture Magazine: Seeds [pdf]](https://www.permaculturedesignmagazine.com/_files/ugd/dc9cdb_b91d8585b10148148268fb7a9169da72.pdf)
+- [Show HN: Every great reads I&#39;ve ever come across – compiled into Knowledge Graph](https://prashantbarahi.com.np/knowledge-graph)
 - [Ignition: An Informal History of Liquid Rocket Propellants &lpar;1972&rpar; [pdf]](https://library.sciencemadness.org/library/books/ignition.pdf)
-- [LG 28-inch 16:18 DualUp Monitor](https://www.lg.com/us/monitors/lg-28mq780-b)
-- [Ask HN: How would you bootstrap a telco? &lpar;re: Rogers outage&rpar;](https://news.ycombinator.com/item?id=32035633)
-- [Why Linux Succeeded](https://riskmusings.substack.com/p/why-linux-succeeded-resilience-of)
-- [Weedkiller ingredient tied to cancer found in 80% of US urine samples](https://www.theguardian.com/us-news/2022/jul/09/weedkiller-glyphosate-cdc-study-urine-samples)
 <!-- BLOG-POST-LIST:END -->
