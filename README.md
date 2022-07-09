@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
-- [OneSignal &lpar;YC S11&rpar; Is Hiring Product Engineers](https://onesignal.com/careers)
-- [Physicists discover a “family” of robust, superconducting graphene structures](https://news.mit.edu/2022/superconducting-graphene-family-0708)
-- [Permaculture Magazine: Seeds [pdf]](https://www.permaculturedesignmagazine.com/_files/ugd/dc9cdb_b91d8585b10148148268fb7a9169da72.pdf)
-- [Show HN: Every great reads I&#39;ve ever come across – compiled into Knowledge Graph](https://prashantbarahi.com.np/knowledge-graph)
-- [Ignition: An Informal History of Liquid Rocket Propellants &lpar;1972&rpar; [pdf]](https://library.sciencemadness.org/library/books/ignition.pdf)
+- [The Commodore Plus/4, 3-Plus-1 and computer literacy](http://oldvcr.blogspot.com/2021/08/the-commodore-plus4-3-plus-1-and.html)
+- [Monitoring Tiny Web Services](https://jvns.ca/blog/2022/07/09/monitoring-small-web-services/)
+- [Oxide Builds Servers](https://changelog.com/podcast/496)
+- [Crypto-Assets and Decentralized Finance Through a Financial Stability Lens](https://www.federalreserve.gov/newsevents/speech/brainard20220708a.htm)
+- [Childhood antibiotics as a risk factor for Crohn&#39;s disease](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9218523/)
 <!-- BLOG-POST-LIST:END -->
