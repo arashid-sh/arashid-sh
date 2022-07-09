@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
-- [I should have loved biology](https://jsomers.net/i-should-have-loved-biology/)
-- [Sound induces analgesia through corticothalamic circuits](https://www.science.org/doi/10.1126/science.abn4663)
-- [Rust Editors to Replace TextMate 2 – The Agony of Despair](https://fuzzyblog.io/blog/rust/2022/07/08/rust-alternatives-to-textmate-2-the-agony-of-despair.html)
-- [Show HN: I built an interactive course that helps you learn Vim faster](https://www.vimified.com/)
-- [Algorithms for Decision Making](https://algorithmsbook.com/)
+- [Ignition: An Informal History of Liquid Rocket Propellants &lpar;1972&rpar; [pdf]](https://library.sciencemadness.org/library/books/ignition.pdf)
+- [LG 28-inch 16:18 DualUp Monitor](https://www.lg.com/us/monitors/lg-28mq780-b)
+- [Ask HN: How would you bootstrap a telco? &lpar;re: Rogers outage&rpar;](https://news.ycombinator.com/item?id=32035633)
+- [Why Linux Succeeded](https://riskmusings.substack.com/p/why-linux-succeeded-resilience-of)
+- [Weedkiller ingredient tied to cancer found in 80% of US urine samples](https://www.theguardian.com/us-news/2022/jul/09/weedkiller-glyphosate-cdc-study-urine-samples)
 <!-- BLOG-POST-LIST:END -->
