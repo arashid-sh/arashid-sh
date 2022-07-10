@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [Quantum scientists deliver world’s first integrated circuit at the atomic scale](https://newsroom.unsw.edu.au/news/science-tech/unsw-quantum-scientists-deliver-world%E2%80%99s-first-integrated-circuit-atomic-scale)
+- [Why the world needs a non-profit search engine](https://daoudclarke.net/search%20engines/2022/07/10/non-profit-search-engine)
+- [Predictably Bad Investments: Evidence from Venture Capitalists](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4135861)
 - [Skyrim together: mod to play online](https://github.com/tiltedphoques/TiltedEvolution)
-- [Canada’s Federal Police Have Been Using Malware to Snoop on Communication](https://www.techdirt.com/2022/07/07/canadas-federal-police-have-been-using-powerful-malware-to-snoop-on-peoples-communications/)
-- [Every complex idea has a million stupid cousins](https://apxhard.substack.com/p/every-complex-idea-has-a-million)
-- [I tend to avoid reading social news comments](https://rubenerd.com/why-i-tend-to-avoid-reading-social-news-comments-now/)
-- [Protect your data from ransomware with S3 Object Lock](https://blog.symops.com/2022/07/07/prevent-ransomware-s3-object-lock/)
+- [The Crime That Killed Shinzo Abe](https://shingetsunewsagency.com/2022/07/10/the-crime-that-killed-shinzo-abe/)
 <!-- BLOG-POST-LIST:END -->
