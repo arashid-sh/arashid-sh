@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
-- [Spotify doesn&#39;t use the Spotify model &lpar;2020&rpar;](https://www.jeremiahlee.com/posts/failed-squad-goals/)
-- [MIT scientists think they’ve discovered how to fully reverse climate change](https://bgr.com/science/mit-scientists-think-theyve-discovered-how-to-fully-reverse-climate-change/)
-- [Why Is There No Semantic Ontology of Sentiment in Academic Citations?](https://shkspr.mobi/blog/2022/07/why-is-there-no-semantic-ontology-of-sentiment-in-academic-citations/)
-- [Decarbonisation of grids requires long-duration energy storage](https://www.economist.com/technology-quarterly/2022/06/23/decarbonisation-of-electric-grids-reliant-on-renewables-requires-long-duration-energy-storage)
-- [95% of employees say IT issues decrease workplace productivity, morale](https://venturebeat.com/2022/07/06/report-95-of-employees-say-it-issues-decrease-workplace-productivity-and-morale/)
+- [Uber broke laws, duped police and built secret lobbying operation, leak reveals](https://www.theguardian.com/news/2022/jul/10/uber-files-leak-reveals-global-lobbying-campaign)
+- [Triangle Grids in Games](https://kvachev.com/blog/posts/triangular-grid/)
+- [Lichess: The free and open source chess server](https://github.com/lichess-org/)
+- [New Arizona law makes it illegal to film within 8 feet of police](https://www.axios.com/2022/07/08/arizona-law-illegal-film-police-8-feet)
+- [Beginner&#39;s Guide to Error Handling in Rust](https://www.sheshbabu.com/posts/rust-error-handling/)
 <!-- BLOG-POST-LIST:END -->
