@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [Green Dogma Behind Fall of Sri Lanka](https://michaelshellenberger.substack.com/p/green-dogma-behind-fall-of-sri-lanka)
+- [Amazon Aurora Supports PostgreSQL 14](https://www.infoq.com/news/2022/07/amazon-aurora-postgresql-14/)
+- [Irwin – the protector of Lichess from all chess players villainous](https://github.com/clarkerubber/irwin)
 - [Air France Announces End to Research Monkey Transport](https://www.the-scientist.com/news-opinion/air-france-announces-end-to-research-monkey-transport-70198)
 - [Who Blew Up Mare Island?](https://www.usni.org/magazines/naval-history-magazine/2022/june/who-really-blew-mare-island)
-- [A new trade and liberal arts school: “College of St. Joseph the Worker”](https://www.collegeofstjoseph.com)
-- [Breaking the warp barrier: solitons in Einstein–Maxwell-plasma theory &lpar;2021&rpar;](https://iopscience.iop.org/article/10.1088/1361-6382/abe692)
-- [Uber broke laws, duped police and built secret lobbying operation, leak reveals](https://www.theguardian.com/news/2022/jul/10/uber-files-leak-reveals-global-lobbying-campaign)
 <!-- BLOG-POST-LIST:END -->
