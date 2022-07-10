@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [Air France Announces End to Research Monkey Transport](https://www.the-scientist.com/news-opinion/air-france-announces-end-to-research-monkey-transport-70198)
+- [Who Blew Up Mare Island?](https://www.usni.org/magazines/naval-history-magazine/2022/june/who-really-blew-mare-island)
+- [A new trade and liberal arts school: “College of St. Joseph the Worker”](https://www.collegeofstjoseph.com)
+- [Breaking the warp barrier: solitons in Einstein–Maxwell-plasma theory &lpar;2021&rpar;](https://iopscience.iop.org/article/10.1088/1361-6382/abe692)
 - [Uber broke laws, duped police and built secret lobbying operation, leak reveals](https://www.theguardian.com/news/2022/jul/10/uber-files-leak-reveals-global-lobbying-campaign)
-- [Triangle Grids in Games](https://kvachev.com/blog/posts/triangular-grid/)
-- [Lichess: The free and open source chess server](https://github.com/lichess-org/)
-- [New Arizona law makes it illegal to film within 8 feet of police](https://www.axios.com/2022/07/08/arizona-law-illegal-film-police-8-feet)
-- [Beginner&#39;s Guide to Error Handling in Rust](https://www.sheshbabu.com/posts/rust-error-handling/)
 <!-- BLOG-POST-LIST:END -->
