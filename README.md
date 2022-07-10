@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:START -->
 - [TikTok ‘frog army’ stunt could have grave consequences, experts warn](https://www.theguardian.com/technology/2022/jul/10/tiktok-frog-army-stunt)
 - [Show HN: mbtiles-s3-server – serve vector map tiles directly from mbtiles on S3](https://github.com/uktrade/mbtiles-s3-server)
-- [The sustainable cities made from mud](https://www.bbc.com/future/article/20220705-the-sustainable-cities-made-from-mud)
-- [Quantum scientists deliver world’s first integrated circuit at the atomic scale](https://newsroom.unsw.edu.au/news/science-tech/unsw-quantum-scientists-deliver-world%E2%80%99s-first-integrated-circuit-atomic-scale)
-- [Why the world needs a non-profit search engine](https://daoudclarke.net/search%20engines/2022/07/10/non-profit-search-engine)
+- [FastECC – Reed-Solomon coder computing one million parity blocks at 1 GB/s](https://github.com/Bulat-Ziganshin/FastECC)
+- [An Overview of Kandria&#39;s Development with Lisp](https://reader.tymoon.eu/article/413)
+- [Ask HN: Is there a Calibre equivalent for Audio books?](https://news.ycombinator.com/item?id=32042780)
 <!-- BLOG-POST-LIST:END -->
