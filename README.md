@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
-- [Green Dogma Behind Fall of Sri Lanka](https://michaelshellenberger.substack.com/p/green-dogma-behind-fall-of-sri-lanka)
+- [Show HN: Whatcha – the social network for digital media](https://apps.apple.com/us/app/whatcha-io/id1603483624)
+- [Russian Gas Flows to Europe](https://berthub.eu/gazmon/)
+- [Replibyte – Seed your database with real data](https://github.com/Qovery/Replibyte)
 - [Amazon Aurora Supports PostgreSQL 14](https://www.infoq.com/news/2022/07/amazon-aurora-postgresql-14/)
 - [Irwin – the protector of Lichess from all chess players villainous](https://github.com/clarkerubber/irwin)
-- [Air France Announces End to Research Monkey Transport](https://www.the-scientist.com/news-opinion/air-france-announces-end-to-research-monkey-transport-70198)
-- [Who Blew Up Mare Island?](https://www.usni.org/magazines/naval-history-magazine/2022/june/who-really-blew-mare-island)
 <!-- BLOG-POST-LIST:END -->
