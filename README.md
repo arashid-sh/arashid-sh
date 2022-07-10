@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [We Need to Stop Pretending we can Limit Global Warming to 1.5°C](https://bylinetimes.com/2022/07/06/we-need-to-stop-pretending-we-can-limit-global-warming-to-1-5c/)
+- [Covid learning loss has been a global disaster](https://www.economist.com/international/2022/07/07/covid-learning-loss-has-been-a-global-disaster)
+- [CS101: Introduction to Computing Principles](https://web.stanford.edu/class/cs101/)
+- [Show HN: Ants Sandbox - an ants simulator](https://www.ants-sandbox.io/)
 - [TikTok ‘frog army’ stunt could have grave consequences, experts warn](https://www.theguardian.com/technology/2022/jul/10/tiktok-frog-army-stunt)
-- [Show HN: mbtiles-s3-server – serve vector map tiles directly from mbtiles on S3](https://github.com/uktrade/mbtiles-s3-server)
-- [FastECC – Reed-Solomon coder computing one million parity blocks at 1 GB/s](https://github.com/Bulat-Ziganshin/FastECC)
-- [An Overview of Kandria&#39;s Development with Lisp](https://reader.tymoon.eu/article/413)
-- [Ask HN: Is there a Calibre equivalent for Audio books?](https://news.ycombinator.com/item?id=32042780)
 <!-- BLOG-POST-LIST:END -->
