@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
-- [Why Perl is still relevant in 2022](https://stackoverflow.blog/2022/07/06/why-perl-is-still-relevant-in-2022/)
-- [Microsoft researched what made employees happy, collaborate less, more autonomy](https://www.zdnet.com/article/microsoft-researched-what-made-employees-truly-happy-one-result-was-startling/)
-- [Show HN: Whatcha – the social network for digital media](https://apps.apple.com/us/app/whatcha-io/id1603483624)
-- [Russian Gas Flows to Europe](https://berthub.eu/gazmon/)
-- [Replibyte – Seed your database with real data](https://github.com/Qovery/Replibyte)
+- [Death, Nothingness, and Subjectivity &lpar;1994&rpar;](https://www.naturalism.org/philosophy/death/death-nothingness-and-subjectivity)
+- [BuildZoom &lpar;YC W13&rpar; is hiring a product manager](https://jobs.lever.co/buildzoom)
+- [Perl is still relevant](https://stackoverflow.blog/2022/07/06/why-perl-is-still-relevant-in-2022/)
+- [SSD will fail at 40k power-on hours &lpar;2021&rpar;](https://www.cisco.com/c/en/us/support/docs/field-notices/705/fn70545.html)
+- [Microsoft researched what made employees happy](https://www.zdnet.com/article/microsoft-researched-what-made-employees-truly-happy-one-result-was-startling/)
 <!-- BLOG-POST-LIST:END -->
