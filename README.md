@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [Decarbonisation of grids requires long-duration energy storage](https://www.economist.com/technology-quarterly/2022/06/23/decarbonisation-of-electric-grids-reliant-on-renewables-requires-long-duration-energy-storage)
 - [95% of employees say IT issues decrease workplace productivity, morale](https://venturebeat.com/2022/07/06/report-95-of-employees-say-it-issues-decrease-workplace-productivity-and-morale/)
-- [Randomizing unconditional cash transfer amounts in the us](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4154000)
 - [GoKey – A simple vaultless password manager in Go](https://github.com/cloudflare/gokey)
 - [CS101: Introduction to Computing Principles](https://web.stanford.edu/class/cs101/)
 - [Show HN: Ants Sandbox - an ants simulator](https://www.ants-sandbox.io/)
