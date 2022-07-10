@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [Skyrim together: mod to play online](https://github.com/tiltedphoques/TiltedEvolution)
+- [Canada’s Federal Police Have Been Using Malware to Snoop on Communication](https://www.techdirt.com/2022/07/07/canadas-federal-police-have-been-using-powerful-malware-to-snoop-on-peoples-communications/)
 - [Every complex idea has a million stupid cousins](https://apxhard.substack.com/p/every-complex-idea-has-a-million)
-- [I Don&#39;t Want to Shard &lpar;MySQL&rpar;](https://hackmysql.com/post/book-5/)
-- [Rogers Canada, please fix the damn internet in Canada](https://news.ycombinator.com/item?id=32041238)
+- [I tend to avoid reading social news comments](https://rubenerd.com/why-i-tend-to-avoid-reading-social-news-comments-now/)
 - [Protect your data from ransomware with S3 Object Lock](https://blog.symops.com/2022/07/07/prevent-ransomware-s3-object-lock/)
-- [Why do so many brands change their logos and look like everyone else?](https://velvetshark.com/articles/why-do-brands-change-their-logos-and-look-like-everyone-else)
 <!-- BLOG-POST-LIST:END -->
