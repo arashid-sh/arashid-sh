@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [Assassin’s Creed Liberation delisted, unplayable even to owners starting Sept 1](https://mp1st.com/news/report-assassins-creed-liberation-delisted-to-be-unplayable-even-to-owners-starting-september-1-on-steam)
+- [On-device browser translations with Firefox Translations](https://www.ctrl.blog/entry/firefox-translations.html)
 - [Death, Nothingness, and Subjectivity &lpar;1994&rpar;](https://www.naturalism.org/philosophy/death/death-nothingness-and-subjectivity)
+- [Breaking the Warp Barrier: Hyper-Fast Solitons in Einstein-Maxwell-Plasma Theory](https://arxiv.org/abs/2006.07125)
 - [BuildZoom &lpar;YC W13&rpar; is hiring a product manager](https://jobs.lever.co/buildzoom)
-- [Perl is still relevant](https://stackoverflow.blog/2022/07/06/why-perl-is-still-relevant-in-2022/)
-- [SSD will fail at 40k power-on hours &lpar;2021&rpar;](https://www.cisco.com/c/en/us/support/docs/field-notices/705/fn70545.html)
-- [Microsoft researched what made employees happy](https://www.zdnet.com/article/microsoft-researched-what-made-employees-truly-happy-one-result-was-startling/)
 <!-- BLOG-POST-LIST:END -->
