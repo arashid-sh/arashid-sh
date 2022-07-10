@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [Protect Your Data from Ransomware with S3 Object Lock](https://blog.symops.com/2022/07/07/prevent-ransomware-s3-object-lock/)
+- [Help me identify possible tracking device found in my car](https://gist.github.com/jwbee/90e32362fd24b1a233b882ffa7950616)
 - [Ivy &lpar;YC W23&rpar; is hiring a research engineer to help unify ML](https://www.ycombinator.com/companies/ivy/jobs)
 - [Insulator or superconductor? Physicists find graphene is both &lpar;2018&rpar;](https://news.mit.edu/2018/graphene-insulator-superconductor-0305)
 - [Kate Bush’s “Running Up That Hill” synth sounds](https://reverbmachine.com/blog/kate-bush-running-up-that-hill-synth-sounds/)
-- [Show HN: Copy React code from any site](https://sample-code.aspect.app)
-- [Congratulations: We now have opinions on your open source contributions](https://lucumr.pocoo.org/2022/7/9/congratulations/)
 <!-- BLOG-POST-LIST:END -->
