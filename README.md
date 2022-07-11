@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
-- [1.0 Euro is now worth $1.0 USD](https://www.xe.com/currencyconverter/convert/?Amount=1&From=EUR&To=USD)
+- [Climate change is not just about Carbon Dioxide](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4151891)
+- [James Webb Space Telescope White House Briefing](https://www.youtube.com/watch?v=Z13QK1shc7A)
 - [Yes, I have opinions on your open source contributions](https://www.b-list.org/weblog/2022/jul/11/pypi/)
 - [DeepMind AI learns simple physics like a baby](https://www.nature.com/articles/d41586-022-01921-7)
-- [Universal influenza B vaccine induces broad, sustained protection in mice](https://news.gsu.edu/2022/07/08/universal-influenza-b-vaccine-induces-broad-sustained-protection-biomedical-sciences-researchers-find/)
-- [US companies partner on nuclear recycling technology](https://www.world-nuclear-news.org/Articles/US-companies-partner-on-nuclear-recycling-technolo)
+- [Avoiding image layout shifts &lpar;CLS&rpar;: aspect-ratio vs. width and height](https://jakearchibald.com/2022/img-aspect-ratio/)
 <!-- BLOG-POST-LIST:END -->
