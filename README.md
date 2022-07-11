@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Why Facebook desktop website so bad?](https://news.ycombinator.com/item?id=32056195)
+- [Mastering the Game of Stratego with Model-Free Multiagent Reinforcement Learning](https://arxiv.org/abs/2206.15378)
+- [The euro and the dollar are a penny away from parity for first time in 20 years](https://lite.cnn.com/en/article/h_f4b589d97a7f20e0df80b08171c82be2)
+- [GCC Rust Approved by GCC Steering Committee](https://gcc.gnu.org/pipermail/gcc/2022-July/239057.html)
+- [ProtonMail Is Down](https://protonstatus.com/)
 - [AllenNLP will be unmaintained in December](https://github.com/allenai/allennlp/pull/5685/files)
-- [Lockheed Martin Prepar 3D](https://www.prepar3d.com/)
-- [A $3B Silk Road Seizure Will Erase Ross Ulbricht’s Debt](https://www.wired.com/story/silk-road-ross-ulbricht-debt-bitcoin-siezure/)
-- [Smart mushroom growing device for beginners](https://shrooly.com/)
 <!-- BLOG-POST-LIST:END -->
