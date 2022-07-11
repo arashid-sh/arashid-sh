@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [Quantum Algorithms Conquer a New Kind of Problem](https://www.quantamagazine.org/quantum-algorithms-conquer-a-new-kind-of-problem-20220711/)
 - [Mastering the Game of Stratego with Model-Free Multiagent Reinforcement Learning](https://arxiv.org/abs/2206.15378)
-- [The euro and the dollar are a penny away from parity for first time in 20 years](https://lite.cnn.com/en/article/h_f4b589d97a7f20e0df80b08171c82be2)
+- [[matrix] Conduit Beta at Ungleich](https://ungleich.ch/u/blog/2022-07-10-launching-ipv6only-conduit-matrix-server/)
 - [GCC Rust Approved by GCC Steering Committee](https://gcc.gnu.org/pipermail/gcc/2022-July/239057.html)
 - [ProtonMail Is Down](https://protonstatus.com/)
-- [AllenNLP will be unmaintained in December](https://github.com/allenai/allennlp/pull/5685/files)
 <!-- BLOG-POST-LIST:END -->
