@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [Lockheed Martin Prepar 3D](https://www.prepar3d.com/)
+- [The first smart mushroom growing device for beginners](https://shrooly.com/)
+- [Ask HN: What is your default font for coding and terminal?](https://news.ycombinator.com/item?id=32055600)
+- [Playstation store will remove customer’s purchased movies](https://www.flatpanelshd.com/news.php?subaction=showfull&id=1657022591)
 - [Binance served crypto traders in Iran despite U.S. sanctions](https://www.reuters.com/technology/exclusive-binance-served-crypto-traders-iran-years-despite-us-sanctions-clients-2022-07-11/)
-- [8-Part Film Adaptation of Tolstoy&#39;s Anna Karenina Is Free Online](https://www.openculture.com/2022/07/watch-an-8-part-film-adaptation-of-tolstoys-anna-karenina-free-online.html)
-- [Fluxus – 3D game engine for livecoding worlds into existence](https://www.pawfal.org/fluxus/)
-- [Working in the software industry, circa 1989 – Jim Grey](https://dev.jimgrey.net/2022/07/05/working-in-the-software-industry-circa-1989/)
-- [Show HN: Lldap, a Simplified LDAP Server](https://github.com/nitnelave/lldap)
 <!-- BLOG-POST-LIST:END -->
