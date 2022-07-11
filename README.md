@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [Experian, you have some explaining to do](https://krebsonsecurity.com/2022/07/experian-you-have-some-explaining-to-do/)
 - [Project Naptha](https://projectnaptha.com/)
 - [People from elite backgrounds increasingly dominate academia, data shows](https://www.washingtonpost.com/business/2022/07/08/dept-of-data-academia-elite/)
 - [Medicare Could Have Saved $3.6B on Generic Drugs](https://www.drugs.com/news/medicare-could-have-saved-3-6-billion-2020-106106.html)
 - [University Profs&#39; Criticism Led to Retraction of Math Paper on Gender &lpar;2018&rpar;](https://www.chicagomaroon.com/article/2018/10/29/university-professors-involved-retraction-controve/)
-- [Running an Open Source Home Area Network](https://xn--gckvb8fzb.com/running-an-open-source-home-area-network/)
 <!-- BLOG-POST-LIST:END -->
