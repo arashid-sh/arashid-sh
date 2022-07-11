@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
 - [Universal Influenza B Vaccine Induces Broad, Sustained Protection](https://news.gsu.edu/2022/07/08/universal-influenza-b-vaccine-induces-broad-sustained-protection-biomedical-sciences-researchers-find/)
+- [US companies partner on nuclear recycling technology](https://www.world-nuclear-news.org/Articles/US-companies-partner-on-nuclear-recycling-technolo)
 - [Tell HN: I have the perfect job, why is it not enough?](https://news.ycombinator.com/item?id=32059666)
 - [Postgres Full-Text Search: A Search Engine in a Database](https://www.crunchydata.com/blog/postgres-full-text-search-a-search-engine-in-a-database)
 - [€1.00 = $1.00, The Euro sinks to lowest since 2002](https://www.bloomberg.com/news/articles/2022-07-08/why-the-euro-has-tumbled-near-parity-to-the-us-dollar-quicktake)
-- [Thoughts on the Potato Diet](https://dynomight.net/potato-diet/)
 <!-- BLOG-POST-LIST:END -->
