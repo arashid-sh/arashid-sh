@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [Thoughts on the Potato Diet](https://dynomight.net/potato-diet/)
+- [The Uber whistleblower: I’m exposing a system that sold people a lie](https://www.theguardian.com/news/2022/jul/11/uber-files-whistleblower-lobbyist-mark-macgann)
 - [Quantum Algorithms Conquer a New Kind of Problem](https://www.quantamagazine.org/quantum-algorithms-conquer-a-new-kind-of-problem-20220711/)
 - [Mastering the Game of Stratego with Model-Free Multiagent Reinforcement Learning](https://arxiv.org/abs/2206.15378)
-- [[matrix] Conduit Beta at Ungleich](https://ungleich.ch/u/blog/2022-07-10-launching-ipv6only-conduit-matrix-server/)
-- [GCC Rust Approved by GCC Steering Committee](https://gcc.gnu.org/pipermail/gcc/2022-July/239057.html)
-- [ProtonMail Is Down](https://protonstatus.com/)
+- [Ask HN: Moving from Corporate to Solo Dev?](https://news.ycombinator.com/item?id=32057297)
 <!-- BLOG-POST-LIST:END -->
