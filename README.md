@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
 - [Binance served crypto traders in Iran despite U.S. sanctions](https://www.reuters.com/technology/exclusive-binance-served-crypto-traders-iran-years-despite-us-sanctions-clients-2022-07-11/)
-- [US Crosses the Electric-Car Tipping Point for Mass Adoption](https://www.bloomberg.com/news/articles/2022-07-09/us-electric-car-sales-reach-key-milestone)
 - [8-Part Film Adaptation of Tolstoy&#39;s Anna Karenina Is Free Online](https://www.openculture.com/2022/07/watch-an-8-part-film-adaptation-of-tolstoys-anna-karenina-free-online.html)
-- [Hybrid Work Is Doomed](https://www.theatlantic.com/technology/archive/2022/07/work-from-home-rto-flexibility/661495/)
-- [Emmanuel Macron aided Uber lobbying drive in France, leak reveals](https://www.theguardian.com/news/2022/jul/10/emmanuel-macron-secretly-aided-uber-lobbying-drive-france-leak-reveals)
+- [Fluxus – 3D game engine for livecoding worlds into existence](https://www.pawfal.org/fluxus/)
+- [Working in the software industry, circa 1989 – Jim Grey](https://dev.jimgrey.net/2022/07/05/working-in-the-software-industry-circa-1989/)
+- [Show HN: Lldap, a Simplified LDAP Server](https://github.com/nitnelave/lldap)
 <!-- BLOG-POST-LIST:END -->
