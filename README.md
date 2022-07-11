@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [Running an Open Source Home Area Network](https://xn--gckvb8fzb.com/running-an-open-source-home-area-network/)
+- [Study: Association between mask mandates and Covid infections in North Dakota](https://www.researchsquare.com/article/rs-1773983/v1)
+- [Show HN: Typewaiter, the typewriter that doesn&#39;t wait](https://oisinmoran.com/typewaiter)
+- [Love Song to Costco](https://longreads.com/2022/06/16/love-song-to-costco/)
 - [Assassin’s Creed Liberation delisted, unplayable even to owners starting Sept 1](https://mp1st.com/news/report-assassins-creed-liberation-delisted-to-be-unplayable-even-to-owners-starting-september-1-on-steam)
-- [On-device browser translations with Firefox Translations](https://www.ctrl.blog/entry/firefox-translations.html)
-- [Death, Nothingness, and Subjectivity &lpar;1994&rpar;](https://www.naturalism.org/philosophy/death/death-nothingness-and-subjectivity)
-- [Breaking the Warp Barrier: Hyper-Fast Solitons in Einstein-Maxwell-Plasma Theory](https://arxiv.org/abs/2006.07125)
-- [BuildZoom &lpar;YC W13&rpar; is hiring a product manager](https://jobs.lever.co/buildzoom)
 <!-- BLOG-POST-LIST:END -->
