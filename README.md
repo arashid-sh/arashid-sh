@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Why Facebook desktop website so bad?](https://news.ycombinator.com/item?id=32056195)
+- [AllenNLP will be unmaintained in December](https://github.com/allenai/allennlp/pull/5685/files)
 - [Lockheed Martin Prepar 3D](https://www.prepar3d.com/)
-- [The first smart mushroom growing device for beginners](https://shrooly.com/)
-- [Ask HN: What is your default font for coding and terminal?](https://news.ycombinator.com/item?id=32055600)
-- [Playstation store will remove customer’s purchased movies](https://www.flatpanelshd.com/news.php?subaction=showfull&id=1657022591)
-- [Binance served crypto traders in Iran despite U.S. sanctions](https://www.reuters.com/technology/exclusive-binance-served-crypto-traders-iran-years-despite-us-sanctions-clients-2022-07-11/)
+- [A $3B Silk Road Seizure Will Erase Ross Ulbricht’s Debt](https://www.wired.com/story/silk-road-ross-ulbricht-debt-bitcoin-siezure/)
+- [Smart mushroom growing device for beginners](https://shrooly.com/)
 <!-- BLOG-POST-LIST:END -->
