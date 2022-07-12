@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
-- [I watched a friend of mine pump a shitcoin on Binance by buying billboards](https://twitter.com/FatManTerra/status/1546791981032030208)
-- [Sufficient Decentralization for Social Networks](https://www.varunsrinivasan.com//2022/01/11/sufficient-decentralization-for-social-networks)
-- [The James Webb Telescope’s Profound Data Challenges](https://spectrum.ieee.org/james-webb-telescope-communications)
-- [Why we’ve decided to decommission Gov.uk PaaS](https://gds.blog.gov.uk/2022/07/12/why-weve-decided-to-decommission-gov-uk-paas-platform-as-a-service/)
-- [Column order in PostgreSQL does matter](https://www.cybertec-postgresql.com/en/column-order-in-postgresql-does-matter/)
+- [Ask HN: Why isn&#39;t GWT or Vaadin more popular among Java developers?](https://news.ycombinator.com/item?id=32069468)
+- [Developer Workstation Backups](https://news.ycombinator.com/item?id=32069251)
+- [Uber used Greyball fake app to evade police across Europe](https://www.theguardian.com/news/2022/jul/12/uber-used-greyball-fake-app-to-evade-police-across-europe-leak-reveals)
+- [Unchecked AB testing destroys everything it touches](https://www.zumsteg.net/2022/07/05/unchecked-ab-testing-destroys-everything-it-touches/)
+- [Show HN: Fastify DX, a full stack framework based on Fastify and Vite](https://github.com/fastify/fastify-dx)
 <!-- BLOG-POST-LIST:END -->
