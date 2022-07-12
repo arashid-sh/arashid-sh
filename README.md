@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
-- [MedMe Health &lpar;YC W21&rpar; is hiring a Senior Engineer &lpar;yes, in this economy!&rpar;](https://www.ycombinator.com/companies/medme-health/jobs/8bAVDN7-senior-full-stack-engineer)
-- [Deepest Infrared Image of Universe](https://www.nasa.gov/image-feature/goddard/2022/nasa-s-webb-delivers-deepest-infrared-image-of-universe-yet/)
-- [Florida police department diverting calls to mental health staff](https://www.newsnationnow.com/solutions/florida-police-dept-diverting-calls-to-mental-health-staff/)
-- [If the News Is Fake, Imagine History](https://thenetworkstate.com/if-the-news-is-fake-imagine-history)
-- [James Webb Space Telescope White House Briefing](https://www.youtube.com/watch?v=Z13QK1shc7A)
+- [Sir Mo Farah reveals he was trafficked into the UK using another child’s name](https://www.theguardian.com/sport/2022/jul/11/sir-mo-farah-i-was-brought-into-the-uk-illegally-using-another-childs-name)
+- [MedMe Health &lpar;YC W21&rpar; is hiring a senior engineer](https://www.ycombinator.com/companies/medme-health/jobs/8bAVDN7-senior-full-stack-engineer)
+- [Desktop Environments Resource Usage Comparison](https://vermaden.wordpress.com/2022/07/12/desktop-environments-resource-usage-comparison/)
+- [Deepest infrared image of universe](https://www.nasa.gov/image-feature/goddard/2022/nasa-s-webb-delivers-deepest-infrared-image-of-universe-yet/)
+- [DeepMind AI learns simple physics like a baby](https://www.nature.com/articles/d41586-022-01921-7)
 <!-- BLOG-POST-LIST:END -->
