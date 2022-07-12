@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [Implementing Microsoft REST API Guidelines Filter](https://sergeykibish.com/blog/implementing-microsoft-rest-api-filter/)
+- [Julia ♥ Agent Based Modeling #2: Work, Eat, Trade, Repeat](https://forem.julialang.org/fbanning/julia-abm-2-work-eat-trade-repeat-3d7l)
 - [Pachyderm is hiring for DevRel to evangelize reproducible data-centric pipelines](https://www.pachyderm.com/careers/#positions)
-- [Heathrow tells all airlines to stop selling ANY flights until 11th September](https://www.headforpoints.com/2022/07/12/heathrow-tells-all-airlines-to-stop-selling-any-flights-until-11th-september/)
-- [Founders of bankrupt crypto hedge fund 3AC go missing](https://www.cnbc.com/2022/07/12/founders-of-bankrupt-crypto-hedge-fund-three-arrows-go-missing.html)
-- [Giving a Shit as a Service](https://allenpike.com/2022/giving-a-shit)
-- [Lofi Girl: YouTube sorry for taking down music stream](https://www.bbc.com/news/newsbeat-62133768)
+- [Heathrow tells airlines to stop selling additional flights until September](https://www.headforpoints.com/2022/07/12/heathrow-tells-all-airlines-to-stop-selling-any-flights-until-11th-september/)
+- [Return Stack Buffer Underflow – Retbleed &lpar;Intel&rpar;](https://www.intel.com/content/www/us/en/developer/articles/technical/software-security-guidance/advisory-guidance/return-stack-buffer-underflow.html)
 <!-- BLOG-POST-LIST:END -->
