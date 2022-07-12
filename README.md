@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [NYPD Police Officer Exam Tutorial [pdf]](https://www1.nyc.gov/assets/nypd/downloads/pdf/careers/po-exam-tutorial-2021-04-14.pdf)
+- [State lotteries transfer wealth out of needy communities](https://www.cbsnews.com/news/state-lotteries-transfer-wealth-out-of-needy-communities/)
+- [Pepsi: Breathtaking Design Strategy &lpar;2008&rpar; [pdf]](https://jimedwardsnrx.files.wordpress.com/2009/02/pepsi_gravitational_field.pdf)
+- [DoD Open Source Software FAQ](https://dodcio.defense.gov/open-source-software-faq/)
 - [Sir Mo Farah reveals he was trafficked into the UK using another child’s name](https://www.theguardian.com/sport/2022/jul/11/sir-mo-farah-i-was-brought-into-the-uk-illegally-using-another-childs-name)
-- [MedMe Health &lpar;YC W21&rpar; is hiring a senior engineer](https://www.ycombinator.com/companies/medme-health/jobs/8bAVDN7-senior-full-stack-engineer)
-- [Desktop Environments Resource Usage Comparison](https://vermaden.wordpress.com/2022/07/12/desktop-environments-resource-usage-comparison/)
-- [Deepest infrared image of universe](https://www.nasa.gov/image-feature/goddard/2022/nasa-s-webb-delivers-deepest-infrared-image-of-universe-yet/)
-- [DeepMind AI learns simple physics like a baby](https://www.nature.com/articles/d41586-022-01921-7)
 <!-- BLOG-POST-LIST:END -->
