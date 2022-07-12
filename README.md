@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [Programming a Rogue-Like with Rust](https://bfnightly.bracketproductions.com/rustbook/chapter_0.html)
+- [Responsible stewardship of the UEFI Secure Boot ecosystem](https://mjg59.dreamwidth.org/60248.html)
 - [Buddhism has found a new institutional home in the West: the corporation](https://www.guernicamag.com/carolyn-chen-buddhism-has-found-a-new-institutional-home-in-the-west-the-corporation/)
 - [Sound of Colleagues](https://soundofcolleagues.com/)
 - [Show HN: Kreya, a Postman Alternative](https://kreya.app/)
-- [BMW Makes Heated Seats an $18/Month Subscription Service – Again](https://www.thedrive.com/news/bmw-is-charging-a-subscription-fee-for-heated-seats-again)
-- [ISO name change for Türkiye. You mught have to update your ISO data](https://www.iso.org/obp/ui/#iso:code:3166:TR)
 <!-- BLOG-POST-LIST:END -->
