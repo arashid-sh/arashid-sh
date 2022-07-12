@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [Photos Always Pointing the Pointer](https://pointerpointer.com/)
 - [Ask HN: Why isn&#39;t GWT or Vaadin more popular among Java developers?](https://news.ycombinator.com/item?id=32069468)
+- [Show HN: We are trying to &lpar;finally&rpar; get tail-calls into the WebAssembly standard](https://news.ycombinator.com/item?id=32069418)
+- [Slay the Spire – a roguelike deck-building video game](https://www.megacrit.com/)
 - [Developer Workstation Backups](https://news.ycombinator.com/item?id=32069251)
-- [Uber used Greyball fake app to evade police across Europe](https://www.theguardian.com/news/2022/jul/12/uber-used-greyball-fake-app-to-evade-police-across-europe-leak-reveals)
-- [Unchecked AB testing destroys everything it touches](https://www.zumsteg.net/2022/07/05/unchecked-ab-testing-destroys-everything-it-touches/)
-- [Show HN: Fastify DX, a full stack framework based on Fastify and Vite](https://github.com/fastify/fastify-dx)
 <!-- BLOG-POST-LIST:END -->
