@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [Andrej Karpathy &lpar;Director of AI&rpar; Leaves Tesla](https://twitter.com/karpathy/status/1547332300186066944)
+- [A prompt engineering guide for DALLE-2](https://dallery.gallery/the-dalle-2-prompt-book/)
 - [Open Source Database QuestDB Is Hiring a Cloud Engineer &lpar;K8s, AWS, Argocd&rpar;](https://questdb.io/careers/senior-cloud-engineer/)
-- [PostgreSQL 14 Internals Book](https://postgrespro.com/community/books/internals)
-- [A 74xx-Defined Radio &lpar;2021&rpar;](https://acidbourbon.wordpress.com/2021/04/11/a-74xx-defined-radio/)
-- [When Rustc Explodes](https://fasterthanli.me/articles/when-rustc-explodes)
-- [Supply chain issues are killing synth companies](https://www.synthtopia.com/content/2022/07/12/supply-chain-issues-are-killing-synth-companies-and-making-it-impossible-to-ship-new-designs/)
+- [NYC Releases Video Outlining Steps to Take During Nuclear Attack](https://eastsidefeed.com/odds-and-ends/nyc-releases-video-steps-to-take-during-nuclear-attack/)
+- [A Windows 95-like shell for Windows 3.1x](http://www.calmira.net/)
 <!-- BLOG-POST-LIST:END -->
