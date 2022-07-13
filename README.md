@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [Zig and WASM](https://observablehq.com/@yurivish/zig-wasm)
 - [Similarity Learning lacks a framework. So we built one](https://blog.qdrant.tech/similarity-learning-lacks-a-framework-so-we-built-one-f6f09333efa1?gi=9b1473587394)
 - [Vite 3.0](https://vitejs.dev/blog/announcing-vite3.html)
 - [Nearly a third of new subscribers to news publications cancel in the first 24H](https://www.niemanlab.org/2022/07/nearly-a-third-of-new-subscribers-to-news-publications-cancel-in-the-first-24-hours/)
 - [Show HN: Inflation-adjusted stock charts – Total Real Returns](https://totalrealreturns.com/)
-- [Six programming languages I’d like to see](https://buttondown.email/hillelwayne/archive/six-programming-languages-id-like-to-see/)
 <!-- BLOG-POST-LIST:END -->
