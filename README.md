@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Has anyone here worked on the Windows kernel?](https://news.ycombinator.com/item?id=32076677)
 - [JWST Solid State Recorder](https://jwst-docs.stsci.edu/jwst-observatory-hardware/jwst-solid-state-recorder)
 - [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
 - [My experience writing and selling a short story](https://superamit.substack.com/p/short-stories-how-much-do-you-make)
-- [Compare Webb&#39;s Images to Hubble](https://johnedchristensen.github.io/WebbCompare/)
-- [40 years ago, Tron changed sci-fi movies](https://www.fatherly.com/entertainment/tron-40-year-anniversary-disney)
+- [How Google got to rolling Linux releases for Desktops](https://cloud.google.com/blog/topics/developers-practitioners/how-google-got-to-rolling-linux-releases-for-desktops)
 <!-- BLOG-POST-LIST:END -->
