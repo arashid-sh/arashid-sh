@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Which VPS provider will survive the coming winter?](https://news.ycombinator.com/item?id=32080370)
+- [CP/M is open-source now](https://retronic.us/cp-m-is-now-really-open-source/)
+- [Are Magic Links Outdated?](https://zitadel.com/blog/magic-links)
+- [Show HN: Remove unwanted objects in photos simply by dragging boxes](https://cleanupphotos.com)
 - [Show HN: Face IO – Facial Authentication for the Web](https://faceio.net)
 - [The Lightning Network: Turning Bitcoin into Money](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4142590)
-- [Ashby &lpar;YC W19, B&rpar; hiring Product Engineers in low-meeting, great devex culture](https://www.ashbyhq.com/careers)
-- [Fermented Chili “Open Sauce” – My most starred repo has no code in it](https://github.com/aweijnitz/recipe-el_fuego_viviente)
 <!-- BLOG-POST-LIST:END -->
