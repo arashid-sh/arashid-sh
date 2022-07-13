@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [Founding engineer roles at W22 YC startups](https://news.ycombinator.com/item?id=32085475)
+- [I made a Google sheet of local elections and it&#39;s been removed from Google Drive](https://twitter.com/mkramer/status/1547256544332488708)
+- [Someone is impersonating us in a recruiting scam](https://www.kapwing.com/blog/is-this-a-recruiting-scam-some-signs/)
+- [Teams is killing my Mac every day](https://techcommunity.microsoft.com/t5/microsoft-teams/teams-is-killing-my-mac-every-day/td-p/2790094)
 - [How I clean my glasses](https://tratt.net/laurie/blog/2022/how_i_clean_my_glasses.html)
-- [Zig and WASM](https://observablehq.com/@yurivish/zig-wasm)
-- [Similarity Learning lacks a framework. So we built one](https://blog.qdrant.tech/similarity-learning-lacks-a-framework-so-we-built-one-f6f09333efa1?gi=9b1473587394)
-- [Vite 3.0](https://vitejs.dev/blog/announcing-vite3.html)
-- [Nearly a third of new subscribers to news publications cancel in the first 24H](https://www.niemanlab.org/2022/07/nearly-a-third-of-new-subscribers-to-news-publications-cancel-in-the-first-24-hours/)
 <!-- BLOG-POST-LIST:END -->
