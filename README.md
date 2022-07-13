@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Has anyone here worked on the Windows kernel?](https://news.ycombinator.com/item?id=32076677)
-- [JWST Solid State Recorder](https://jwst-docs.stsci.edu/jwst-observatory-hardware/jwst-solid-state-recorder)
-- [EasyPost &lpar;YC S13&rpar; Is Hiring](https://www.easypost.com/careers)
-- [My experience writing and selling a short story](https://superamit.substack.com/p/short-stories-how-much-do-you-make)
-- [How Google got to rolling Linux releases for Desktops](https://cloud.google.com/blog/topics/developers-practitioners/how-google-got-to-rolling-linux-releases-for-desktops)
+- [FTC committed to enforcing law against illegal use, sharing of sensitive data](https://www.ftc.gov/business-guidance/blog/2022/07/location-health-other-sensitive-information-ftc-committed-fully-enforcing-law-against-illegal-use)
+- [RISC-V Linux on ESP32](https://blog.drorgluska.com/2022/07/risc-v-linux-on-esp32.html)
+- [Sri Lanka is having a textbook currency crisis, triggered by policy mistakes](https://noahpinion.substack.com/p/why-sri-lanka-is-having-an-economic)
+- [My business card runs Linux](https://dmitry.gr/?r=05.Projects&proj=33.%20LinuxCard)
+- [Role of Lactobacillus Reuteri in Human Health and Diseases](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5917019/)
 <!-- BLOG-POST-LIST:END -->
