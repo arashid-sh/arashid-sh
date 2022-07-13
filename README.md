@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [Sieve &lpar;YC W22&rpar; is building AI infra for video data, come join us](https://www.sievedata.com/)
+- [Unity merges with IronSource](https://blog.unity.com/news/welcome-ironsource)
 - [CP/M is open-source now](https://retronic.us/cp-m-is-now-really-open-source/)
 - [Are Magic Links Outdated?](https://zitadel.com/blog/magic-links)
-- [Show HN: Remove unwanted objects in photos simply by dragging boxes](https://cleanupphotos.com)
-- [Show HN: Face IO – Facial Authentication for the Web](https://faceio.net)
-- [The Lightning Network: Turning Bitcoin into Money](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4142590)
+- [Gambling and Adult content DNS blocking using Mullvad VPN](https://mullvad.net/en/blog/2022/7/11/aiding-to-break-habits-gambling-and-adult-content-dns-blocking/)
 <!-- BLOG-POST-LIST:END -->
