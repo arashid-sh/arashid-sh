@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
-- [Andrej Karpathy &lpar;Director of AI&rpar; Leaves Tesla](https://twitter.com/karpathy/status/1547332300186066944)
+- [Andrej Karpathy leaves Tesla](https://twitter.com/karpathy/status/1547332300186066944)
 - [A prompt engineering guide for DALLE-2](https://dallery.gallery/the-dalle-2-prompt-book/)
 - [Open Source Database QuestDB Is Hiring a Cloud Engineer &lpar;K8s, AWS, Argocd&rpar;](https://questdb.io/careers/senior-cloud-engineer/)
-- [NYC Releases Video Outlining Steps to Take During Nuclear Attack](https://eastsidefeed.com/odds-and-ends/nyc-releases-video-steps-to-take-during-nuclear-attack/)
 - [A Windows 95-like shell for Windows 3.1x](http://www.calmira.net/)
+- [PostgreSQL 14 Internals Book](https://postgrespro.com/community/books/internals)
 <!-- BLOG-POST-LIST:END -->
