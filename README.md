@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Which VPS provider will survive the coming winter?](https://news.ycombinator.com/item?id=32080370)
+- [Show HN: Face IO – Facial Authentication for the Web](https://faceio.net)
+- [The Lightning Network: Turning Bitcoin into Money](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4142590)
 - [Ashby &lpar;YC W19, B&rpar; hiring Product Engineers in low-meeting, great devex culture](https://www.ashbyhq.com/careers)
 - [Fermented Chili “Open Sauce” – My most starred repo has no code in it](https://github.com/aweijnitz/recipe-el_fuego_viviente)
-- [Decompiler Explorer](https://dogbolt.org/)
-- [Rolling your own crypto: Everything you need to build AES from scratch](https://github.com/francisrstokes/githublog/blob/main/2022/6/15/rolling-your-own-crypto-aes.md)
-- [FTC committed to enforcing law against illegal use, sharing of sensitive data](https://www.ftc.gov/business-guidance/blog/2022/07/location-health-other-sensitive-information-ftc-committed-fully-enforcing-law-against-illegal-use)
 <!-- BLOG-POST-LIST:END -->
