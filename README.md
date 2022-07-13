@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [DoorDash and Pizza Arbitrage &lpar;2020&rpar;](https://www.readmargins.com/p/doordash-and-pizza-arbitrage)
+- [Language Models &lpar;Mostly&rpar; Know What They Know](https://arxiv.org/abs/2207.05221)
 - [Founding engineer roles at W22 YC startups](https://news.ycombinator.com/item?id=32085475)
-- [I made a Google sheet of local elections and it&#39;s been removed from Google Drive](https://twitter.com/mkramer/status/1547256544332488708)
-- [Someone is impersonating us in a recruiting scam](https://www.kapwing.com/blog/is-this-a-recruiting-scam-some-signs/)
-- [Teams is killing my Mac every day](https://techcommunity.microsoft.com/t5/microsoft-teams/teams-is-killing-my-mac-every-day/td-p/2790094)
-- [How I clean my glasses](https://tratt.net/laurie/blog/2022/how_i_clean_my_glasses.html)
+- [Google Kubernetes Engine &lpar;GKE&rpar; adds support for Arm nodes](https://cloud.google.com/blog/products/containers-kubernetes/gke-supports-new-arm-based-tau-t2a-vms)
+- [Helion Needs You](https://blog.samaltman.com/helion-needs-you)
 <!-- BLOG-POST-LIST:END -->
