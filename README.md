@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
-- [Andrej Karpathy leaves Tesla](https://twitter.com/karpathy/status/1547332300186066944)
-- [A prompt engineering guide for DALLE-2](https://dallery.gallery/the-dalle-2-prompt-book/)
-- [Open Source Database QuestDB Is Hiring a Cloud Engineer &lpar;K8s, AWS, Argocd&rpar;](https://questdb.io/careers/senior-cloud-engineer/)
-- [A Windows 95-like shell for Windows 3.1x](http://www.calmira.net/)
-- [PostgreSQL 14 Internals Book](https://postgrespro.com/community/books/internals)
+- [Memory.lol](https://github.com/travisbrown/memory.lol)
+- [Silicon Valley Bets on New Transport to Counter the Rise of Remote Work](https://www.wsj.com/articles/silicon-valley-bets-on-new-transport-to-counter-the-rise-of-remote-work-11657627201)
+- [Ex-CIA coder behind WikiLeaks ‘Vault 7’ cache found guilty of espionage](https://www.courthousenews.com/ex-cia-coder-behind-wikileaks-vault-7-cache-found-guilty-of-espionage/)
+- [You Can’t Eat Just Any Leaf](https://www.urbo.com/content/this-is-why-you-cant-eat-just-any-leaf/)
+- [Volkswagen enters battery business with $20B investment](https://www.arenaev.com/vw_creates_new_company_and_enters_global_battery_business-news-461.php)
 <!-- BLOG-POST-LIST:END -->
