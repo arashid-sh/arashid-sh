@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [Nyxt 3 Pre-release 1 &lpar;a Lisp powered web browser&rpar;](https://nyxt.atlas.engineer/article/release-3-pre-release-1.org)
+- [Show HN: Porting OpenBSD Pledge&lpar;&rpar; to Linux](https://justine.lol/pledge/)
 - [Corn Cobs: Fuel of Nightmares](https://charmindustrial.com/blog/corn-cobs-fuel-of-nightmares/)
 - [Show HN: Open-source authorization service based on Google-Zanzibar](https://github.com/Permify/permify)
 - [PicoMite – Basic Interpreter for the Raspberry Pi Pico](https://geoffg.net/picomite.html)
-- [Unity is merging with a company who made a malware installer](https://www.pcgamer.com/unity-is-merging-with-a-company-who-made-a-malware-installer/)
-- [Hypergraphs Reveal Solution to 50-Year-Old Problem](https://www.quantamagazine.org/hypergraphs-reveal-solution-to-50-year-old-problem-20220714/)
 <!-- BLOG-POST-LIST:END -->
