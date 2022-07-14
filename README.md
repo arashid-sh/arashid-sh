@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [Flex this summer: ChromeOS Flex is now ready to scale to PCs and Macs](https://cloud.google.com/blog/products/chrome-enterprise/chromeos-flex-ready-to-scale-to-pcs-and-macs)
 - [Evidence &lpar;YC S21&rpar; Is Hiring](https://www.ycombinator.com/companies/evidence/jobs/WX5oOOz-full-stack-engineer)
-- [Is WebAssembly magic performance pixie dust?](https://surma.dev/things/js-to-asc/)
-- [Gamedevs not baking in monetization are “fucking idiots”, says Unity CEO](https://mobilegamer.biz/devs-not-baking-monetisation-into-the-creative-process-are-fucking-idiots-says-unitys-john-riccitiello/)
-- [PostgreSQL Views and Materialized Views and How They Influenced TimescaleDB](https://www.timescale.com/blog/how-postgresql-views-and-materialized-views-work-and-how-they-influenced-timescaledb-continuous-aggregates/)
-- [Nyxt 3 Pre-release 1 &lpar;a Lisp powered web browser&rpar;](https://nyxt.atlas.engineer/article/release-3-pre-release-1.org)
+- [ML code generation vs. coding by hand: what we think programming will look like](https://wasp-lang.dev/blog/2022/06/24/ML-code-gen-vs-coding-by-hand-future)
+- [Is WebAssembly magic performance pixie dust? &lpar;2021&rpar;](https://surma.dev/things/js-to-asc/)
+- [Gamedevs not baking in monetization are “fucking idiots”, says Unity CEO](https://www.pocketgamer.biz/interview/79190/unity-ironsource-john-riccitiello-marc-whitten-merger/)
 <!-- BLOG-POST-LIST:END -->
