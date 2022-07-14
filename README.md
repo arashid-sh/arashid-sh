@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
-- [The DynamoDB Paper](https://brooker.co.za/blog/2022/07/12/dynamodb.html)
-- [GoDaddy locks out derivatives of Chrome](https://news.ycombinator.com/item?id=32093987)
-- [EU lawmakers slam “radical proposal“ to let ISPs demand new fees from websites](https://arstechnica.com/tech-policy/2022/07/eu-lawmakers-slam-idea-of-forcing-big-tech-to-pay-for-isps-network-upgrades/)
-- [A Graphical OS for the Atari 8-bit](https://atari8.co.uk/gui/)
-- [Doom hacker gets Doom running in Doom](https://www.pcgamer.com/doom-hacker-gets-doom-running-in-doom/)
+- [GiveCampus &lpar;YC S15&rpar; Is Hiring a Senior Site Reliability Engineer](https://jobs.lever.co/givecampus/e7ae4695-e4d6-4ed0-b16f-f489a8f2382d)
+- [DNS Esoterica – Why you can&#39;t dig Switzerland](https://shkspr.mobi/blog/2022/07/dns-esoterica-why-you-cant-dig-switzerland/)
+- [Manhattan rents cross $5k threshold for first time](https://www.axios.com/2022/07/14/manhattan-rents-cross-5000-threshold-for-first-time)
+- [Why Don’t We Have a Strategy?](https://cutlefish.substack.com/p/tbm-3052-why-do-we-have-no-strategy)
+- [Ask HN: Should I sell my vintage computer collection?](https://news.ycombinator.com/item?id=32094339)
 <!-- BLOG-POST-LIST:END -->
