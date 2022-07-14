@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
-- [Memory.lol](https://github.com/travisbrown/memory.lol)
-- [Silicon Valley Bets on New Transport to Counter the Rise of Remote Work](https://www.wsj.com/articles/silicon-valley-bets-on-new-transport-to-counter-the-rise-of-remote-work-11657627201)
-- [Ex-CIA coder behind WikiLeaks ‘Vault 7’ cache found guilty of espionage](https://www.courthousenews.com/ex-cia-coder-behind-wikileaks-vault-7-cache-found-guilty-of-espionage/)
-- [You Can’t Eat Just Any Leaf](https://www.urbo.com/content/this-is-why-you-cant-eat-just-any-leaf/)
-- [Volkswagen enters battery business with $20B investment](https://www.arenaev.com/vw_creates_new_company_and_enters_global_battery_business-news-461.php)
+- [Saskatchewan, Ontario to roll out mini-nuclear reactors](https://www.westerninvestor.com/british-columbia/saskatchewan-ontario-to-roll-out-mini-nuclear-reactors-5568249)
+- [We must protect our ability to transact privately online &lpar;2019&rpar;](https://www.coincenter.org/we-must-protect-our-ability-to-transact-privately-online/)
+- [Cryptomator – Encrypt files on your cloud storage](https://cryptomator.org/)
+- [Niantic Undergoes Layoffs, Cancels Four Games](https://www.ign.com/articles/niantic-undergoes-layoffs-cancels-four-games-pokemon-go)
+- [Effects of Sleep Debt](https://www.nytimes.com/2022/06/24/health/sleep-debt-health.html)
 <!-- BLOG-POST-LIST:END -->
