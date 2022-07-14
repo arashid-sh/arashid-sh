@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
-- [GiveCampus &lpar;YC S15&rpar; Is Hiring a Senior Site Reliability Engineer](https://jobs.lever.co/givecampus/e7ae4695-e4d6-4ed0-b16f-f489a8f2382d)
-- [DNS Esoterica – Why you can&#39;t dig Switzerland](https://shkspr.mobi/blog/2022/07/dns-esoterica-why-you-cant-dig-switzerland/)
-- [Manhattan rents cross $5k threshold for first time](https://www.axios.com/2022/07/14/manhattan-rents-cross-5000-threshold-for-first-time)
-- [Why Don’t We Have a Strategy?](https://cutlefish.substack.com/p/tbm-3052-why-do-we-have-no-strategy)
-- [Ask HN: Should I sell my vintage computer collection?](https://news.ycombinator.com/item?id=32094339)
+- [A Spectre Is Haunting Unicode](https://www.dampfkraft.com/ghost-characters.html)
+- [RISC-V Guns for Raspberry Pi, Legacy ChipsC](https://spectrum.ieee.org/risc-v-raspberry-pi)
+- [FBI Records – Louie Louie &lpar; The Song&rpar;](https://vault.fbi.gov/louie-louie-the-song)
+- [Comdb2](https://bloomberg.github.io/comdb2/overview_home.html)
+- [Twitter Is Down](https://twitter.com/)
 <!-- BLOG-POST-LIST:END -->
