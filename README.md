@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [Frank Gehry has a few things to get off his chest](https://torontolife.com/real-estate/frank-gehry-has-a-few-things-to-get-off-his-chest/)
 - [A Spectre Is Haunting Unicode](https://www.dampfkraft.com/ghost-characters.html)
+- [Twitter experiences longest global outage in years](https://www.theguardian.com/technology/2022/jul/14/twitter-experiences-longest-global-outage-in-years)
 - [RISC-V Guns for Raspberry Pi, Legacy ChipsC](https://spectrum.ieee.org/risc-v-raspberry-pi)
-- [FBI Records – Louie Louie &lpar; The Song&rpar;](https://vault.fbi.gov/louie-louie-the-song)
 - [Comdb2](https://bloomberg.github.io/comdb2/overview_home.html)
-- [Twitter Is Down](https://twitter.com/)
 <!-- BLOG-POST-LIST:END -->
