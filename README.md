@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
 - [Supabase &lpar;YC S20&rpar; Is Hiring a Lead Node.js Engineer &lpar;Edge Functions&rpar;](https://boards.greenhouse.io/supabase/jobs/4568813004)
+- [The History of User Interfaces](https://history.user-interface.io)
+- [Oldest tree still growing near the Norwegian-Swedish border](https://sciencenorway.no/dna-forests-trees/worlds-oldest-tree-still-growing-near-the-norwegian-swedish-border/2037756)
 - [BMW introduces new heated seat subscription in UK](https://www.bbc.com/news/technology-62142208)
 - [Captive Portals](https://textslashplain.com/2022/06/24/captive-portals/)
-- [Element &lpar;Matrix&rpar; adds video/voice rooms](https://element.io/blog/drop-in-drop-out-chats-with-video-rooms-and-a-new-search-experience/)
-- [What I wish someone would have told me about using RabbitMQ &lpar;2020&rpar;](https://ryanrodemoyer.github.io/what-i-wish-someone-would-have-told-me-about-using-rabbitmq-before-it-was-too-late/)
 <!-- BLOG-POST-LIST:END -->
