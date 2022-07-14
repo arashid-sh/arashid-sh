@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [Supabase &lpar;YC S20&rpar; Is Hiring a Lead Node.js Engineer &lpar;Edge Functions&rpar;](https://boards.greenhouse.io/supabase/jobs/4568813004)
+- [BMW introduces new heated seat subscription in UK](https://www.bbc.com/news/technology-62142208)
 - [Captive Portals](https://textslashplain.com/2022/06/24/captive-portals/)
-- [US Doesn&#39;t Care About Financial Crimes](https://themakingofamillionaire.com/we-are-absolutely-horrible-at-stopping-financial-scams-dce17995609b)
-- [What I Wish Someone Would Have Told Me About Using Rabbitmq &lpar;2020&rpar;](https://ryanrodemoyer.github.io/what-i-wish-someone-would-have-told-me-about-using-rabbitmq-before-it-was-too-late/)
-- [All History Is Revisionist History](https://www.neh.gov/article/all-history-revisionist-history)
-- [Books to read to understand financial crime](https://www.economist.com/the-economist-reads/2022/07/11/the-best-books-to-read-to-understand-financial-crime)
+- [Element &lpar;Matrix&rpar; adds video/voice rooms](https://element.io/blog/drop-in-drop-out-chats-with-video-rooms-and-a-new-search-experience/)
+- [What I wish someone would have told me about using RabbitMQ &lpar;2020&rpar;](https://ryanrodemoyer.github.io/what-i-wish-someone-would-have-told-me-about-using-rabbitmq-before-it-was-too-late/)
 <!-- BLOG-POST-LIST:END -->
