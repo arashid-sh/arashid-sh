@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
-- [How Duke Nukem II’s parallax scrolling worked](https://lethalguitar.wordpress.com/2022/07/14/how-duke-nukem-iis-parallax-scrolling-worked/)
-- [People with low BMI aren&#39;t more active, they are just less hungry, &#39;run hotter&#39;](https://www.sciencedaily.com/releases/2022/07/220714145059.htm)
-- [Dmitry Rogozin has been dismissed as director general of Roscosmos](https://arstechnica.com/science/2022/07/as-rumors-swirl-about-his-future-russias-space-chief-darkens-his-rhetoric/)
-- [Pledge&lpar;&rpar; and Unveil&lpar;&rpar; in SerenityOS &lpar;2020&rpar;](https://awesomekling.github.io/pledge-and-unveil-in-SerenityOS/)
-- [Padlet Is Hiring in SF to Build Software for a Good Education](https://padlet.jobs)
+- [Inkscape 1.2.1 Released](https://inkscape.org/news/2022/07/14/important-release-inkscape-version-121-fixes-data/)
+- [Looming Natural Gas Shortages Has the EU Scrambling for Solutions](https://www.spiegel.de/international/europe/a-stress-test-for-solidarity-looming-natural-gas-shortages-has-the-eu-scrambling-for-solutions-a-c3e1cdb9-e11b-4f7a-bdbc-f252e1ebe013)
+- [Mass and Angular Momentum, Left Ambiguous by Einstein, Get Defined](https://www.quantamagazine.org/mass-and-angular-momentum-left-ambiguous-by-einstein-get-defined-20220713/)
+- [EA: The Human Story](https://ea-spouse.livejournal.com/274.html)
+- [SaaS Tools That Get Things Done for Tech Startups](https://juicefs.com/blog/en/posts/saas-tools-that-get-things-done-for-tech-startups/)
 <!-- BLOG-POST-LIST:END -->
