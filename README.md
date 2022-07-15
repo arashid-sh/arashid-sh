@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [How Duke Nukem II’s parallax scrolling worked](https://lethalguitar.wordpress.com/2022/07/14/how-duke-nukem-iis-parallax-scrolling-worked/)
+- [People with low BMI aren&#39;t more active, they are just less hungry, &#39;run hotter&#39;](https://www.sciencedaily.com/releases/2022/07/220714145059.htm)
 - [Dmitry Rogozin has been dismissed as director general of Roscosmos](https://arstechnica.com/science/2022/07/as-rumors-swirl-about-his-future-russias-space-chief-darkens-his-rhetoric/)
 - [Pledge&lpar;&rpar; and Unveil&lpar;&rpar; in SerenityOS &lpar;2020&rpar;](https://awesomekling.github.io/pledge-and-unveil-in-SerenityOS/)
 - [Padlet Is Hiring in SF to Build Software for a Good Education](https://padlet.jobs)
-- [Comparing Rust and JavaScript](https://chaotic.netlify.app/)
-- [Rust on Espressif chips – 15-07-2022](https://mabez.dev/blog/posts/esp-rust-15-07-2022/)
 <!-- BLOG-POST-LIST:END -->
