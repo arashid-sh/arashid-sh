@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
-- [Inkscape 1.2.1 Released](https://inkscape.org/news/2022/07/14/important-release-inkscape-version-121-fixes-data/)
-- [Looming Natural Gas Shortages Has the EU Scrambling for Solutions](https://www.spiegel.de/international/europe/a-stress-test-for-solidarity-looming-natural-gas-shortages-has-the-eu-scrambling-for-solutions-a-c3e1cdb9-e11b-4f7a-bdbc-f252e1ebe013)
-- [Mass and Angular Momentum, Left Ambiguous by Einstein, Get Defined](https://www.quantamagazine.org/mass-and-angular-momentum-left-ambiguous-by-einstein-get-defined-20220713/)
-- [EA: The Human Story](https://ea-spouse.livejournal.com/274.html)
-- [SaaS Tools That Get Things Done for Tech Startups](https://juicefs.com/blog/en/posts/saas-tools-that-get-things-done-for-tech-startups/)
+- [Firezone &lpar;YC W22&rpar; is building an open-source network security platform](https://www.workatastartup.com/companies/firezone)
+- [Rust should not have provided `unwrap`](https://www.thecodedmessage.com/posts/2022-07-14-programming-unwrap/)
+- [BBC Basic Editor](https://bbcmic.ro/)
+- [Why I created Scrumdog – a program to download Jira Issues to a local database](https://whoek.com/b/jira-to-sqlite-with-scrumdog.html)
+- [I made JCOF, an object notation which encodes data more efficiently than JSON](https://github.com/mortie/jcof)
 <!-- BLOG-POST-LIST:END -->
