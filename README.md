@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [Wandering Robots in the Wild](https://spectrum.ieee.org/wandering-robots-in-the-wild)
+- [I went about learning Rust](https://eli.thegreenplace.net/2022/how-i-went-about-learning-rust/)
+- [From idea to 1k revenue in 1 month](https://www.linen.dev/s/linen-community/t/545988/from-idea-to-paying-customers)
 - [Show HN: GitHop](https://addons.mozilla.org/en-US/firefox/addon/githop/)
 - [SearchHut](https://searchhut.org/)
-- [We discovered a 7-year old performance Issue in Elixir &lpar;2020&rpar;](https://code.tubitv.com/how-we-discovered-a-7-year-old-performance-issue-in-elixir-99080bdce9a1?gi=42c77b46207b)
-- [Lin Zexu&#39;s Letter to Queen Victoria &lpar;1839&rpar;](https://cyber.harvard.edu/ChinaDragon/lin_xexu.html)
-- [Sirum &lpar;YC W15 nonprofit&rpar; is hiring engineers and pharmacy technicians](https://news.ycombinator.com/item?id=32103342)
 <!-- BLOG-POST-LIST:END -->
