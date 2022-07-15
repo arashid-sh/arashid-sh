@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [Success stories are just propaganda &lpar;2017&rpar;](https://www.martinweigel.org/blog/2017/11/13/why-success-stories-are-just-propaganda)
+- [Satellites give clues about the coming global harvest](https://www.bbc.com/news/world-62149522)
 - [Pursuing the Reunification of Home and Work](https://americancompass.org/essays/pursuing-the-reuinification-of-home-and-work/)
-- [Google Chromebook outlawed in Danish public schools](https://politiken.dk/viden/art8882501/L%C3%A6rere-st%C3%A5r-med-%C2%BBk%C3%A6mpestort-problem%C2%AB-Chromebooks-bliver-forbudt-p%C3%A5-danske-skoler)
+- [State of the SqueakPhone](https://syndicate-lang.org/journal/2022/06/03/phone-progress)
 - [“Critical” projects and volunteer maintainers](https://lwn.net/SubscriberLink/900953/44823d451920e233/)
-- [Leakage and the Reproducibility Crisis in ML-Based Science](https://reproducible.cs.princeton.edu/)
-- [Technical Writing for Developers](https://css-tricks.com/technical-writing-for-developers/)
 <!-- BLOG-POST-LIST:END -->
