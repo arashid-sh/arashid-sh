@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [FCC Proposes to Increase Minimum Broadband Speeds to 100Mbps](https://www.fcc.gov/document/chairwoman-rosenworcel-proposes-increase-minimum-broadband-speeds)
 - [Advice for the next dozen Rust GUIs](https://raphlinus.github.io/rust/gui/2022/07/15/next-dozen-guis.html)
 - [The case against CS master’s degrees](https://ozwrites.com/masters/)
 - [Smarking &lpar;YC W15&rpar; Is Hiring a Staff ML Engineer](https://jobs.lever.co/smarking/e42d0a18-35fd-4e78-9c6d-fc775ad17c60)
-- [Focusing sound precisely can knock over one Lego minifig among many &lpar;2021&rpar;](https://arstechnica.com/science/2021/12/focusing-sound-vibrations-precisely-can-knock-over-one-lego-minifig-among-many/)
 - [Success stories are just propaganda &lpar;2017&rpar;](https://www.martinweigel.org/blog/2017/11/13/why-success-stories-are-just-propaganda)
 <!-- BLOG-POST-LIST:END -->
