@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [Pursuing the Reunification of Home and Work](https://americancompass.org/essays/pursuing-the-reuinification-of-home-and-work/)
+- [Google Chromebook outlawed in Danish public schools](https://politiken.dk/viden/art8882501/L%C3%A6rere-st%C3%A5r-med-%C2%BBk%C3%A6mpestort-problem%C2%AB-Chromebooks-bliver-forbudt-p%C3%A5-danske-skoler)
+- [“Critical” projects and volunteer maintainers](https://lwn.net/SubscriberLink/900953/44823d451920e233/)
+- [Leakage and the Reproducibility Crisis in ML-Based Science](https://reproducible.cs.princeton.edu/)
 - [Technical Writing for Developers](https://css-tricks.com/technical-writing-for-developers/)
-- [I&#39;m hosting a website on a RAID0 of 30 floppy drives](http://totallynormalwebsite.ddns.net/)
-- [10% of the top million sites are dead](https://ccampbell.io/posts/10-percent-of-top-million-sites-are-dead/)
-- [Jim Thorpe reinstated as sole winner of 1912 Olympic gold medals](https://www.axios.com/2022/07/15/jim-thorpe-olympic-gold-medals)
-- [The Incredibly Stupid One](https://www.lowellmilkencenter.org/programs/projects/view/douglas-hegdahl-the-incredibly-stupid-one/hero)
 <!-- BLOG-POST-LIST:END -->
