@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [Sirum &lpar;YC W15 nonprofit&rpar; is hiring engineers and pharmacy technicians](https://news.ycombinator.com/item?id=32103342)
+- [Solar Car Will Soon Hit Production–and It Only Costs $25,900](https://singularityhub.com/2022/07/14/this-solar-car-will-soon-hit-production-and-it-only-costs-25900/)
+- [We discovered a 7-year old performance issue in Elixir &lpar;2020&rpar;](https://code.tubitv.com/how-we-discovered-a-7-year-old-performance-issue-in-elixir-99080bdce9a1?gi=60329427cb38)
 - [The Dhall Configuration Language](https://dhall-lang.org/)
 - [Celsius acknowledges $1.2B hole in balance sheet](https://www.coindesk.com/business/2022/07/14/celsius-acknowledges-12b-hole-in-balance-sheet/)
-- [Microsoft Windows Network File System v4 Remote Code Execution](https://www.thezdi.com/blog/2022/7/13/cve-2022-30136-microsoft-windows-network-file-system-v4-remote-code-execution-vulnerability)
-- [TrueBiz &lpar;YC S22&rpar; Is Hiring a Founding Machine Learning Engineer](https://www.ycombinator.com/companies/truebiz/jobs/L5wFyuN-machine-learning-founding-engineer)
-- [Hot Reloading in Swift](https://www.merowing.info/hot-reloading-in-swift/)
 <!-- BLOG-POST-LIST:END -->
