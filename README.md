@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
-- [Firezone &lpar;YC W22&rpar; is building an open-source network security platform](https://www.workatastartup.com/companies/firezone)
-- [Rust should not have provided `unwrap`](https://www.thecodedmessage.com/posts/2022-07-14-programming-unwrap/)
-- [BBC Basic Editor](https://bbcmic.ro/)
-- [Why I created Scrumdog – a program to download Jira Issues to a local database](https://whoek.com/b/jira-to-sqlite-with-scrumdog.html)
-- [I made JCOF, an object notation which encodes data more efficiently than JSON](https://github.com/mortie/jcof)
+- [Technical Writing for Developers](https://css-tricks.com/technical-writing-for-developers/)
+- [I&#39;m hosting a website on a RAID0 of 30 floppy drives](http://totallynormalwebsite.ddns.net/)
+- [10% of the top million sites are dead](https://ccampbell.io/posts/10-percent-of-top-million-sites-are-dead/)
+- [Jim Thorpe reinstated as sole winner of 1912 Olympic gold medals](https://www.axios.com/2022/07/15/jim-thorpe-olympic-gold-medals)
+- [The Incredibly Stupid One](https://www.lowellmilkencenter.org/programs/projects/view/douglas-hegdahl-the-incredibly-stupid-one/hero)
 <!-- BLOG-POST-LIST:END -->
