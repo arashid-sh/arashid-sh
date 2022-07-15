@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [How I Experience the Web Today](https://how-i-experience-web-today.com/detail.html)
+- [Show HN: tere – A Faster Alternative to cd+ls](https://github.com/mgunyho/tere)
+- [Jury Finds Former CIA Programmer Guilty of Leaking CIA Hacking Materials](https://thedissenter.org/jury-guilty-cia-programmer-schulte-vault-7-wikileaks/)
 - [Terra &lpar;YC W21&rpar; Is Hiring a Full Stack Engineer in London](https://www.ycombinator.com/companies/terra/jobs/QX8I6M5-full-stack-software-engineer)
-- [Wandering Robots in the Wild](https://spectrum.ieee.org/wandering-robots-in-the-wild)
-- [I went about learning Rust](https://eli.thegreenplace.net/2022/how-i-went-about-learning-rust/)
-- [From idea to 1k revenue in 1 month](https://www.linen.dev/s/linen-community/t/545988/from-idea-to-paying-customers)
-- [Show HN: GitHop](https://addons.mozilla.org/en-US/firefox/addon/githop/)
+- [Freezing Requirements with Pip-Tools](https://til.simonwillison.net/python/pip-tools)
 <!-- BLOG-POST-LIST:END -->
