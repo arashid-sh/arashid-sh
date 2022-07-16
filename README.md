@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [Training my sense of CO2 ppm](https://interconnected.org/home/2022/07/14/co2)
 - [Skio is hiring &lpar;NYC/remote&rpar; – Subscriptions for Shopify &lpar;ReCharge migrations&rpar;](https://skio.com/careers/)
-- [Bloomberg B-Unit iOS App](https://apps.apple.com/us/app/bloomberg-b-unit/id1344778873)
+- [A complete compiler and VM in 150 lines of code](https://gist.github.com/p4bl0-/9f4e950e6c06fbba7e168097d89b0e46)
+- [Systemd Creator Lands at Microsoft](https://linuxiac.com/lennart-poettering-goes-to-work-at-microsoft/)
 - [YOLOv7: Trainable Bag-of-Freebies](https://arxiv.org/abs/2207.02696)
-- [Detroit’s new personalized flight information board is straight out of sci-fi](https://thepointsguy.com/news/personal-flight-information-display-dtw/)
-- [U.S. transition to 988 suicide and crisis lifeline begins Saturday](https://www.hhs.gov/about/news/2022/07/15/us-transition-988-suicide-crisis-lifeline-begins-saturday.html)
 <!-- BLOG-POST-LIST:END -->
