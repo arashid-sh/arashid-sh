@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [iPieta](https://www.ipieta.com/overview-main.html)
+- [Ask HN: How do you use Bitcoin in a trustless way?](https://news.ycombinator.com/item?id=32115693)
 - [The Book of Experiments &lpar;1958&rpar; [pdf]](https://www.arvindguptatoys.com/arvindgupta/bookofexpts.pdf)
 - [Crypto Ancienne 2.0 brings TLS 1.3 to the Internet of Old Things &lpar;except BeOS&rpar;](http://oldvcr.blogspot.com/2022/07/crypto-ancienne-20-now-brings-tls-13-to.html)
-- [CotEditor – Lightweight Plain-Text Editor for macOS](https://github.com/coteditor/CotEditor)
-- [Do breastfed children have higher IQs? The answer is annoyingly hard to uncover](https://stuartritchie.substack.com/p/breastfeeding-iq)
-- [Android removes much of Fuchsia-related code as Starnix project progresses](https://9to5google.com/2022/07/15/android-removes-fuchsia-code-starnix/)
+- [“Learning The Elite Class: My experience at fancy parties”](https://aella.substack.com/p/learning-the-elite-class)
 <!-- BLOG-POST-LIST:END -->
