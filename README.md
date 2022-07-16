@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:START -->
 - [Async Rust: What is a runtime? Here is how tokio works under the hood](https://kerkour.com/rust-async-await-what-is-a-runtime)
 - [Show HN: Logto beta – build universal sign-in, auth, and identity with ease](https://github.com/logto-io/logto)
-- [Why Rails Buckle in Britain](https://www.networkrail.co.uk/stories/why-rails-buckle-in-britain/)
+- [Why rails buckle in Britain](https://www.networkrail.co.uk/stories/why-rails-buckle-in-britain/)
+- [Show HN: CashGraphs – A securities portfolio optimizer](https://www.cashgraphs.com/)
 - [Show HN: Interactive course about “everyday” data science](https://tigyog.app/d/C-I1weB9CpTH/r/everyday-data-science)
-- [&#39;Zero Trust’ security is a poor choice of words](https://code.mendhak.com/zero-trust-poor-choice-of-words/)
 <!-- BLOG-POST-LIST:END -->
