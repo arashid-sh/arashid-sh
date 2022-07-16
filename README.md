@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [Bun gets “bun:FFI” – call native libraries from JavaScript](https://twitter.com/jarredsumner/status/1521527222514774017)
+- [The Rise and Fall of the Manufactured Home – Part I](https://constructionphysics.substack.com/p/the-rise-and-fall-of-the-mobile-home)
+- [China Mortgage Crisis Boycott Data Erased by Censors, GitHub Remains Data Source](https://www.bloomberg.com/news/articles/2022-07-15/china-mortgage-boycott-data-erased-by-censors-as-crisis-spreads)
 - [Async Rust: What is a runtime? Here is how tokio works under the hood](https://kerkour.com/rust-async-await-what-is-a-runtime)
 - [Show HN: Logto beta – build universal sign-in, auth, and identity with ease](https://github.com/logto-io/logto)
-- [Why rails buckle in Britain](https://www.networkrail.co.uk/stories/why-rails-buckle-in-britain/)
-- [Show HN: CashGraphs – A securities portfolio optimizer](https://www.cashgraphs.com/)
-- [Show HN: Interactive course about “everyday” data science](https://tigyog.app/d/C-I1weB9CpTH/r/everyday-data-science)
 <!-- BLOG-POST-LIST:END -->
