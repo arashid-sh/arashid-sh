@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: What is with the new URLs on Facebook.com?](https://news.ycombinator.com/item?id=32117489)
+- [Why women leave tech – and how we can fix it](https://emhub.io/articles/why-women-leave-tech-and-how-we-can-fix-it)
+- [Amazon instructs New York workers “don&#39;t sign” union cards](https://www.engadget.com/amazon-alb-1-anti-union-signage-alu-004207814.html)
 - [Mozart Data &lpar;YC S20&rpar; Is Hiring a Data Analyst](https://www.mozartdata.com/data-analyst)
-- [The rise of air conditioning, and the eco-harm of the boom it enabled](https://www.historytoday.com/history-matters/rise-air-conditioning)
-- [XML-RPC Specification &lpar;1999&rpar;](http://xmlrpc.com/spec.md)
-- [Gazette – Build platforms that flexibly mix SQL, batch, and stream processing](https://github.com/gazette/core)
-- [Horses for Main Courses: Eating Horsemeat in France](https://lamelonne.substack.com/p/horses-for-main-courses)
+- [Six Queries to Break into Mega](https://eprint.iacr.org/2022/914)
 <!-- BLOG-POST-LIST:END -->
