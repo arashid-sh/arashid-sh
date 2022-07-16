@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [Skio is hiring &lpar;NYC/remote&rpar; – Subscriptions for Shopify &lpar;ReCharge migrations&rpar;](https://skio.com/careers/)
+- [Bloomberg B-Unit iOS App](https://apps.apple.com/us/app/bloomberg-b-unit/id1344778873)
 - [YOLOv7: Trainable Bag-of-Freebies](https://arxiv.org/abs/2207.02696)
 - [Detroit’s new personalized flight information board is straight out of sci-fi](https://thepointsguy.com/news/personal-flight-information-display-dtw/)
-- [U.S. Transition to 988 Suicide and Crisis Lifeline Begins Saturday](https://www.hhs.gov/about/news/2022/07/15/us-transition-988-suicide-crisis-lifeline-begins-saturday.html)
-- [Scratch Is a Big Deal](https://www.bryanbraun.com/2022/07/16/scratch-is-a-big-deal/)
-- [When Coal First Arrived, Americans Said &#39;No Thanks&#39;](https://www.smithsonianmag.com/innovation/americans-hated-coal-180980342/)
+- [U.S. transition to 988 suicide and crisis lifeline begins Saturday](https://www.hhs.gov/about/news/2022/07/15/us-transition-988-suicide-crisis-lifeline-begins-saturday.html)
 <!-- BLOG-POST-LIST:END -->
