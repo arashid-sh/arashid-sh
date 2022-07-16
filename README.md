@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [Async Rust: What is a runtime? Here is how tokio works under the hood](https://kerkour.com/rust-async-await-what-is-a-runtime)
+- [Show HN: Logto beta – build universal sign-in, auth, and identity with ease](https://github.com/logto-io/logto)
+- [Why Rails Buckle in Britain](https://www.networkrail.co.uk/stories/why-rails-buckle-in-britain/)
+- [Show HN: Interactive course about “everyday” data science](https://tigyog.app/d/C-I1weB9CpTH/r/everyday-data-science)
 - [&#39;Zero Trust’ security is a poor choice of words](https://code.mendhak.com/zero-trust-poor-choice-of-words/)
-- [The Book of Shaders](https://thebookofshaders.com/)
-- [Show HN: I made a simple platform to buy/sell side projects](https://news.ycombinator.com/item?id=32117519)
-- [Ask HN: What is with the new URLs on Facebook.com?](https://news.ycombinator.com/item?id=32117489)
-- [Amazon instructs New York workers “don&#39;t sign” union cards](https://www.engadget.com/amazon-alb-1-anti-union-signage-alu-004207814.html)
 <!-- BLOG-POST-LIST:END -->
