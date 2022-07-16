@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [U.S. Transition to 988 Suicide and Crisis Lifeline Begins Saturday](https://www.hhs.gov/about/news/2022/07/15/us-transition-988-suicide-crisis-lifeline-begins-saturday.html)
+- [Scratch Is a Big Deal](https://www.bryanbraun.com/2022/07/16/scratch-is-a-big-deal/)
+- [When Coal First Arrived, Americans Said &#39;No Thanks&#39;](https://www.smithsonianmag.com/innovation/americans-hated-coal-180980342/)
+- [Invisible XML is a language for describing the implicit structure of data](https://invisiblexml.org/)
 - [Bun gets “bun:FFI” – call native libraries from JavaScript](https://twitter.com/jarredsumner/status/1521527222514774017)
-- [The Rise and Fall of the Manufactured Home – Part I](https://constructionphysics.substack.com/p/the-rise-and-fall-of-the-mobile-home)
-- [China Mortgage Crisis Boycott Data Erased by Censors, GitHub Remains Data Source](https://www.bloomberg.com/news/articles/2022-07-15/china-mortgage-boycott-data-erased-by-censors-as-crisis-spreads)
-- [Async Rust: What is a runtime? Here is how tokio works under the hood](https://kerkour.com/rust-async-await-what-is-a-runtime)
-- [Show HN: Logto beta – build universal sign-in, auth, and identity with ease](https://github.com/logto-io/logto)
 <!-- BLOG-POST-LIST:END -->
