@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
-- [iPieta](https://www.ipieta.com/overview-main.html)
+- [On Bill Watterson’s Refusal to License Calvin and Hobbes](https://www.thelegalartist.com/blog/on-bill-wattersons-refusal-to-license-calvin-and-hobbes)
+- [To Ruby from Python](https://www.ruby-lang.org/en/documentation/ruby-from-other-languages/to-ruby-from-python/)
+- [Comcast: Simulating shitty network connections so you can build better systems](https://github.com/tylertreat/comcast)
 - [Ask HN: How do you use Bitcoin in a trustless way?](https://news.ycombinator.com/item?id=32115693)
 - [The Book of Experiments &lpar;1958&rpar; [pdf]](https://www.arvindguptatoys.com/arvindgupta/bookofexpts.pdf)
-- [Crypto Ancienne 2.0 brings TLS 1.3 to the Internet of Old Things &lpar;except BeOS&rpar;](http://oldvcr.blogspot.com/2022/07/crypto-ancienne-20-now-brings-tls-13-to.html)
-- [“Learning The Elite Class: My experience at fancy parties”](https://aella.substack.com/p/learning-the-elite-class)
 <!-- BLOG-POST-LIST:END -->
