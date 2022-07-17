@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
-- [Byte Magazine: The FORTH programming language](https://archive.org/details/byte-magazine-1980-08)
+- [Big Tech Monopolies Endanger American Security](https://www.economicliberties.us/our-work/big-tech-monopolies-endanger-american-security/)
+- [Byte Magazine: The Forth Language &lpar;1980&rpar;](https://archive.org/details/byte-magazine-1980-08)
+- [Herbert W. Franke has died](https://twitter.com/HerbertWFranke/status/1548321370781626372)
 - [Training my sense of CO2 ppm](https://interconnected.org/home/2022/07/14/co2)
 - [Git log is not a changelog](https://agateau.com/2022/your-git-log-is-not-a-changelog/)
-- [Skio is hiring &lpar;NYC/remote&rpar; – Subscriptions for Shopify &lpar;ReCharge migrations&rpar;](https://skio.com/careers/)
-- [A complete compiler and VM in 150 lines of code](https://gist.github.com/p4bl0-/9f4e950e6c06fbba7e168097d89b0e46)
 <!-- BLOG-POST-LIST:END -->
