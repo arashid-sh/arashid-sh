@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [DataRobot employee resigns over stock sales](https://twitter.com/amir/status/1548345203504795654)
 - [I&#39;ve started using Mozilla Firefox and now I can never go back to Google Chrome](https://www.techradar.com/in/features/ive-started-using-mozilla-firefox-and-now-i-can-never-go-back-to-google-chrome)
+- [Ask HN: One team lead always builds a monoethnic team. What to do?](https://news.ycombinator.com/item?id=32126563)
 - [The New Numbers on Music Consumption Are Ugly](https://tedgioia.substack.com/p/the-new-numbers-on-music-consumption)
-- [Netflix is in rough shape. This week will determine its future](https://www.cnn.com/2022/07/17/investing/stocks-week-ahead/index.html)
-- [First base is hooking up, second base is talking, third base is going on a date](https://robkhenderson.substack.com/p/first-base-is-hooking-up-second-base)
 - [Woodpeckers don&#39;t have built-in shock absorbers to protect their brain](https://www.newscientist.com/article/2328724-woodpeckers-dont-have-built-in-shock-absorbers-to-protect-their-brain/)
 <!-- BLOG-POST-LIST:END -->
