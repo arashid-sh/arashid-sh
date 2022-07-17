@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
-- [Skyrim on Mac When?](https://skyrimonmacwhen.com/)
-- [George Orwell’s 1940 Review of Mein Kampf](https://bookmarks.reviews/george-orwells-1940-review-of-mein-kampf/)
-- [Inflation Has Outpaced Wage Growth. Now It’s Cutting into Spending](https://www.wsj.com/articles/inflation-has-outpaced-wage-growth-now-its-cutting-into-spending-11658050200)
-- [Bear Blog – A privacy-first, fast blogging platform](https://bearblog.dev)
-- [DataRobot employee resigns over stock sales](https://twitter.com/amir/status/1548345203504795654)
+- [Patterns &lpar;YC S21&rpar; is hiring to build the first App Store for your Data Warehouse](https://www.patterns.app/)
+- [Why Am I Excited About WebAssembly?](https://blog.colinbreck.com/why-am-i-excited-about-webassembly/)
+- [Netflix Calculator – Ever wondered how much time you spend on Netflix?](https://www.netflixcalculator.com/)
+- [Prose.sh – A Blog Platform for Hackers](https://prose.sh/)
+- [Not interacting with people reduces cognitive function over time](https://infidelpro.com/not-interacting-with-people-reduces-cognitive-function-over-time/)
 <!-- BLOG-POST-LIST:END -->
