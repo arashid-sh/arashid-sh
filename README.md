@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [Skyrim on Mac When?](https://skyrimonmacwhen.com/)
+- [George Orwell’s 1940 Review of Mein Kampf](https://bookmarks.reviews/george-orwells-1940-review-of-mein-kampf/)
+- [Inflation Has Outpaced Wage Growth. Now It’s Cutting into Spending](https://www.wsj.com/articles/inflation-has-outpaced-wage-growth-now-its-cutting-into-spending-11658050200)
+- [Bear Blog – A privacy-first, fast blogging platform](https://bearblog.dev)
 - [DataRobot employee resigns over stock sales](https://twitter.com/amir/status/1548345203504795654)
-- [I&#39;ve started using Mozilla Firefox and now I can never go back to Google Chrome](https://www.techradar.com/in/features/ive-started-using-mozilla-firefox-and-now-i-can-never-go-back-to-google-chrome)
-- [Ask HN: One team lead always builds a monoethnic team. What to do?](https://news.ycombinator.com/item?id=32126563)
-- [The New Numbers on Music Consumption Are Ugly](https://tedgioia.substack.com/p/the-new-numbers-on-music-consumption)
-- [Woodpeckers don&#39;t have built-in shock absorbers to protect their brain](https://www.newscientist.com/article/2328724-woodpeckers-dont-have-built-in-shock-absorbers-to-protect-their-brain/)
 <!-- BLOG-POST-LIST:END -->
