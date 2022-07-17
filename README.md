@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 - [Bill Watterson, Picasso, and self promotion](https://herbertlui.net/bill-watterson-picasso-and-hn-on-self-promotion/)
 - [Ask HN: How to deal with children&#39;s online habits?](https://news.ycombinator.com/item?id=32124809)
 - [Does “Autostart” Mean “Autostart”?](http://windowsir.blogspot.com/2022/07/does-autostart-really-mean-autostart.html)
-- [Wikipedia: Long-Term Abuse](https://en.wikipedia.org/wiki/Wikipedia:Long-term_abuse)
+- [Why Concatenative Programming Matters](http://evincarofautumn.blogspot.com/2012/02/why-concatenative-programming-matters.html)
 <!-- BLOG-POST-LIST:END -->
