@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
-- [Stacker &lpar;YC S20&rpar; Is Hiring a Senior Data Analyst](https://apply.workable.com/stackerhq/j/7AA9A3E3E9/)
-- [Bill Watterson, Picasso, and self promotion](https://herbertlui.net/bill-watterson-picasso-and-hn-on-self-promotion/)
-- [Ask HN: How to deal with children&#39;s online habits?](https://news.ycombinator.com/item?id=32124809)
-- [Does “Autostart” Mean “Autostart”?](http://windowsir.blogspot.com/2022/07/does-autostart-really-mean-autostart.html)
-- [Why Concatenative Programming Matters](http://evincarofautumn.blogspot.com/2012/02/why-concatenative-programming-matters.html)
+- [NASA’s James Webb Space Telescope damaged after being smashed by space rock](https://www.independent.co.uk/space/nasa-s-webb-micrometeorite-damage-b2124380.html)
+- [Killbutmakeitlooklikeanaccident.sh](https://gist.github.com/moyix/95ca9a7a26a639b2322c36c7411dc3be)
+- [Bayes Rules: An Introduction to Applied Bayesian Modeling &lpar;2021&rpar;](https://www.bayesrulesbook.com/)
+- [A systems model of anxiety-driven procrastination](https://axle.design/a-systems-model-of-anxiety-driven-procrastination)
+- [Okay, Google: To protect women, collect less data about everyone](https://www.washingtonpost.com/technology/2022/07/01/google-privacy-abortion/)
 <!-- BLOG-POST-LIST:END -->
