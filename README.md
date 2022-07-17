@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
-- [$9.99/month](https://basicappleguy.com/basicappleblog/999month)
-- [Picking up free lithium cells off the street and making them safe for use](https://www.atomic14.com/2022/07/16/free-lithium-cells.html)
-- [Tor – Onion Browser for iPhone and iPad](https://onionbrowser.com/about)
-- [Facebook has started to encrypt links to counter privacy-improving URL Stripping](https://www.ghacks.net/2022/07/17/facebook-has-started-to-encrypt-links-to-counter-privacy-improving-url-stripping/)
-- [Show HN: Uber for Coding — Build product with bounties](https://algora.io)
+- [Sitting and Standing at Work](http://ergo.human.cornell.edu/CUESitStand.html)
+- [How I made advanced BI queries child&#39;s play with Scratch puzzle pieces](https://pixelspark.nl/2022/making-advanced-bi-queries-childs-play-with-puzzle-pieces)
+- [Trilium Notes: note taking application for large personal knowledge bases](https://github.com/zadam/trilium)
+- [Trends in menstrual bleeding changes after SARS-CoV-2 vaccination](https://www.science.org/doi/10.1126/sciadv.abm7201)
+- [JavaScript Obfuscation Techniques by Example](https://www.trickster.dev/post/javascript-obfuscation-techniques-by-example/)
 <!-- BLOG-POST-LIST:END -->
