@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
-- [Big Tech Monopolies Endanger American Security](https://www.economicliberties.us/our-work/big-tech-monopolies-endanger-american-security/)
+- [An interactive mechanical contraption in pure CSS](https://cohost.org/blackle/post/42994-contraption)
+- [Dr. DOS Betamax&#39;s DOS Fansite](http://chebucto.ns.ca/~ak621/DOS/DOS-Head.html)
+- [We could have universal Covid vaccines soon](https://www.slowboring.com/p/we-could-have-universal-covid-vaccines)
 - [Byte Magazine: The Forth Language &lpar;1980&rpar;](https://archive.org/details/byte-magazine-1980-08)
 - [Herbert W. Franke has died](https://twitter.com/HerbertWFranke/status/1548321370781626372)
-- [Training my sense of CO2 ppm](https://interconnected.org/home/2022/07/14/co2)
-- [Git log is not a changelog](https://agateau.com/2022/your-git-log-is-not-a-changelog/)
 <!-- BLOG-POST-LIST:END -->
