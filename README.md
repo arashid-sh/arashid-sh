@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
-- [Does this idea make any sense?](https://www.rebaseapps.com)
-- [Sybil Attacks on Airdrops](https://matt-rickard.com/sybil-attacks-on-airdrops/)
-- [Sony completes $3.6B deal to buy Bungie](https://www.engadget.com/sony-closes-bungie-acquisition-playstation-studios-190623763.html)
-- [Patterns &lpar;YC S21&rpar; is hiring to build the first App Store for your Data Warehouse](https://www.patterns.app/)
-- [Research Suggests That Software Piracy Lowers Poverty](https://torrentfreak.com/research-suggests-that-software-piracy-lowers-poverty-220717/)
+- [$9.99/Month](https://basicappleguy.com/basicappleblog/999month)
+- [Picking Up Free Lithium Cells Off the Street and Making Them Safe for Use](https://www.atomic14.com/2022/07/16/free-lithium-cells.html)
+- [Tor – Onion Browser for iPhone and iPad](https://onionbrowser.com/about)
+- [Show HN: Uber for Coding — Build product with bounties](https://algora.io)
+- [35 years of &#39;RoboCop&#39;: An unforgettable vision of techno-fascist America](https://faroutmagazine.co.uk/35-years-robocop-techno-fascist-america/)
 <!-- BLOG-POST-LIST:END -->
