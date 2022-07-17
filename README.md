@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [Does this idea make any sense?](https://www.rebaseapps.com)
+- [Sybil Attacks on Airdrops](https://matt-rickard.com/sybil-attacks-on-airdrops/)
+- [Sony completes $3.6B deal to buy Bungie](https://www.engadget.com/sony-closes-bungie-acquisition-playstation-studios-190623763.html)
 - [Patterns &lpar;YC S21&rpar; is hiring to build the first App Store for your Data Warehouse](https://www.patterns.app/)
-- [Why Am I Excited About WebAssembly?](https://blog.colinbreck.com/why-am-i-excited-about-webassembly/)
-- [Netflix Calculator – Ever wondered how much time you spend on Netflix?](https://www.netflixcalculator.com/)
-- [Prose.sh – A Blog Platform for Hackers](https://prose.sh/)
-- [Not interacting with people reduces cognitive function over time](https://infidelpro.com/not-interacting-with-people-reduces-cognitive-function-over-time/)
+- [Research Suggests That Software Piracy Lowers Poverty](https://torrentfreak.com/research-suggests-that-software-piracy-lowers-poverty-220717/)
 <!-- BLOG-POST-LIST:END -->
