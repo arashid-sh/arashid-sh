@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
 - [Agave &lpar;YC W22&rpar; is hiring full-stack engineers in SF to build Plaid for Construction](https://www.ycombinator.com/companies/agave/jobs/jryB4nr-software-engineer)
-- [Show HN: Babble – a tool for encrypting text and image you post/send to others](https://babble.landrop.app/)
 - [WordPerfect for Unix &lpar;1992&rpar; used sixel graphics](https://lock.cmpxchg8b.com/wordperfect.html)
 - [A Deep Dive into the Residential Proxy Service ‘911’](https://krebsonsecurity.com/2022/07/a-deep-dive-into-the-residential-proxy-service-911/)
 - [SATAn: Air-Gap Exfiltration Attack via Radio Signals from SATA Cables](https://arxiv.org/abs/2207.07413)
+- [Practical Real-Time Hex Tiling](https://github.com/mmikk/hextile-demo)
 <!-- BLOG-POST-LIST:END -->
