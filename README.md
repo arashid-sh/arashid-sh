@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
-- [An ex-Googler&#39;s guide to dev tools](https://about.sourcegraph.com/blog/ex-googler-guide-dev-tools)
+- [An ex-Googler&#39;s guide to dev tools &lpar;2020&rpar;](https://about.sourcegraph.com/blog/ex-googler-guide-dev-tools)
+- [Fields Medal was never meant for ‘the greatest mathematical genius&#39;](https://www.science.org/content/article/fields-medal-was-never-meant-greatest-mathematical-genius)
+- [In Utah, researchers are trying to make geothermal energy a reality](https://www.science.org/content/article/utah-researchers-trying-unlock-earths-heat-make-geothermal-energy-reality)
 - [Lensm: Go Assembly and Source Viewer](https://github.com/loov/lensm)
 - [Show HN: Typograms, Markdown-like renderer for ASCII diagrams](https://code.sgo.to/typograms/)
-- [‘Things are going to break’: Texas power plants are running nonstop](https://www.bloomberg.com/news/articles/2022-07-15/texas-power-plants-are-skipping-maintenance-to-run-nonstop)
-- [Building a Secure Software Supply Chain with GNU Guix](https://programming-journal.org/2023/7/1/)
 <!-- BLOG-POST-LIST:END -->
