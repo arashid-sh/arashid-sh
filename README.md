@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [The Pneumatic Clocks of Paris](https://www.amusingplanet.com/2022/02/the-pneumatic-clocks-of-paris.html)
+- [Ask HN: Is having a personal blog/brand worth it for you?](https://news.ycombinator.com/item?id=32137336)
 - [Kable &lpar;YC W22&rpar; Is Hiring a Founding Engineer &lpar;Remote, US&rpar;](https://kable.io)
-- [TV, or not TV: the story of our bike box](https://www.vanmoof.com/blog/en/tv-bike-box)
-- [I LOVE programming but HATE the industry. Can anyone relate?](https://news.ycombinator.com/item?id=32136733)
-- [20 years of payment processing problems](https://kaimi.io/en/2022/07/20-years-of-payment-processing-problems-en/)
-- [Iceland’s forest cover has increased sixfold since 1990](https://www.icelandreview.com/nature-travel/forests-now-cover-2-of-iceland/)
+- [TV, or not TV: the story of our bike box &lpar;2019&rpar;](https://www.vanmoof.com/blog/en/tv-bike-box)
+- [Ask HN: I love programming but hate the industry. Can anyone relate?](https://news.ycombinator.com/item?id=32136733)
 <!-- BLOG-POST-LIST:END -->
