@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
-- [&#39;I want your Instagram account&#39;: a deadly campaign over coveted handles](https://www.businessinsider.com/handles-instagram-twitter-social-media-deadly-harassment-campaign-2022-7)
-- [Rowan Atkinson: Visual Comedy &lpar;1992&rpar; [video]](https://www.youtube.com/watch?v=LeuiFa9pI7c)
-- [Neural Network Loss Landscapes: What do we know? &lpar;2021&rpar;](https://damueller.com/#/blog-post/NNLLs)
-- [The case for bad coffee &lpar;2015&rpar;](https://www.seriouseats.com/the-case-for-bad-coffee)
-- [Sitting and standing at work &lpar;2015&rpar;](http://ergo.human.cornell.edu/CUESitStand.html)
+- [An ex-Googler&#39;s guide to dev tools](https://about.sourcegraph.com/blog/ex-googler-guide-dev-tools)
+- [Lensm: Go Assembly and Source Viewer](https://github.com/loov/lensm)
+- [Show HN: Typograms, Markdown-like renderer for ASCII diagrams](https://code.sgo.to/typograms/)
+- [‘Things are going to break’: Texas power plants are running nonstop](https://www.bloomberg.com/news/articles/2022-07-15/texas-power-plants-are-skipping-maintenance-to-run-nonstop)
+- [Building a Secure Software Supply Chain with GNU Guix](https://programming-journal.org/2023/7/1/)
 <!-- BLOG-POST-LIST:END -->
