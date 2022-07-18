@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
-- [The Victorian Hyperloop: The forgotten pneumatic railway beneath London &lpar;2016&rpar;](https://citymonitor.ai/transport/victorian-hyperloop-forgotten-pneumatic-railway-beneath-streets-london-2395)
-- [Crimes against Transhumanity](http://www.antipope.org/charlie/blog-static/2022/07/crimes-against-transhumanity.html)
-- [Implementing &quot;seen by&quot; functionality with Postgres](https://supabase.com/blog/2022/07/18/seen-by-in-postgresql)
-- [Two Years and over 700 Websites Later](https://1mb.club/blog/reflection/)
-- [DRAM Thermal Issues Reach Crisis Point](https://semiengineering.com/dram-thermal-issues-reach-crisis-point/)
+- [Agave &lpar;YC W22&rpar; is hiring full-stack engineers in SF to build Plaid for Construction](https://www.ycombinator.com/companies/agave/jobs/jryB4nr-software-engineer)
+- [Show HN: Babble – a tool for encrypting text and image you post/send to others](https://babble.landrop.app/)
+- [WordPerfect for Unix &lpar;1992&rpar; used sixel graphics](https://lock.cmpxchg8b.com/wordperfect.html)
+- [A Deep Dive into the Residential Proxy Service ‘911’](https://krebsonsecurity.com/2022/07/a-deep-dive-into-the-residential-proxy-service-911/)
+- [SATAn: Air-Gap Exfiltration Attack via Radio Signals from SATA Cables](https://arxiv.org/abs/2207.07413)
 <!-- BLOG-POST-LIST:END -->
