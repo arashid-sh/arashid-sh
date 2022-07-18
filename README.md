@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: PubKey – Communicate Privately in Anonymous Public Spaces](https://www.pubkey.pm)
+- [Show HN: If VS Code had a data-centric IDE sibling, what would that look like?](https://github.com/code-kern-ai/refinery)
+- [Ask HN: Has YouTube Peaked?](https://news.ycombinator.com/item?id=32135992)
 - [Don’t make the plan better. Make it shorter: why long term plans don’t work](https://lucasfcosta.com/2022/07/15/long-term-plans-dont-work.html)
 - [How efficient can cat&lpar;1&rpar; be?](https://ariadne.space/2022/07/17/how-efficient-can-cat1-be/)
-- [CLI tool for converting txn statements from Singaporean banks into a sane format](https://github.com/ajensenwaud/dbs-tools)
-- [The Design of Everyday Things – Book Summary and Notes](https://elvischidera.com/2022-06-24-design-everyday-things/)
-- [Spam domains that plague my email](https://gist.github.com/brandedoutcast/d21ac9ce216f90f77513c76c25b1cd68)
 <!-- BLOG-POST-LIST:END -->
