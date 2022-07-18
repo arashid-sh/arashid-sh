@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [Spam domains that plague my email](https://gist.github.com/brandedoutcast/d21ac9ce216f90f77513c76c25b1cd68)
 - [Paper Airplane Designs](https://www.foldnfly.com/#/1-1-1-1-1-1-1-1-2)
+- [Monodraw – a non-subscription, powerful ASCII art editor](https://blog.helftone.com/monodraw-v1.6/)
 - [A Public School in Florida Built America’s Greatest Math Team](https://www.wsj.com/articles/the-secrets-of-americas-greatest-high-school-math-team-11657791000)
 - [Harris’s List of Covent-Garden Ladies &lpar;1757–1795&rpar;](https://publicdomainreview.org/collection/harris-list-of-covent-garden-ladies/)
-- [After Weight-Loss Surgery, a Year of Joys and Disappointments](https://www.nytimes.com/2016/12/27/health/bariatric-surgery.html)
-- [An ex-Googler&#39;s guide to dev tools &lpar;2020&rpar;](https://about.sourcegraph.com/blog/ex-googler-guide-dev-tools)
 <!-- BLOG-POST-LIST:END -->
