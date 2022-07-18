@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [Paper Airplane Designs](https://www.foldnfly.com/#/1-1-1-1-1-1-1-1-2)
+- [A Public School in Florida Built America’s Greatest Math Team](https://www.wsj.com/articles/the-secrets-of-americas-greatest-high-school-math-team-11657791000)
+- [Harris’s List of Covent-Garden Ladies &lpar;1757–1795&rpar;](https://publicdomainreview.org/collection/harris-list-of-covent-garden-ladies/)
+- [After Weight-Loss Surgery, a Year of Joys and Disappointments](https://www.nytimes.com/2016/12/27/health/bariatric-surgery.html)
 - [An ex-Googler&#39;s guide to dev tools &lpar;2020&rpar;](https://about.sourcegraph.com/blog/ex-googler-guide-dev-tools)
-- [Fields Medal was never meant for ‘the greatest mathematical genius&#39;](https://www.science.org/content/article/fields-medal-was-never-meant-greatest-mathematical-genius)
-- [In Utah, researchers are trying to make geothermal energy a reality](https://www.science.org/content/article/utah-researchers-trying-unlock-earths-heat-make-geothermal-energy-reality)
-- [Lensm: Go Assembly and Source Viewer](https://github.com/loov/lensm)
-- [Show HN: Typograms, Markdown-like renderer for ASCII diagrams](https://code.sgo.to/typograms/)
 <!-- BLOG-POST-LIST:END -->
