@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [Crimes Against Transhumanity](http://www.antipope.org/charlie/blog-static/2022/07/crimes-against-transhumanity.html)
+- [Two Years and over 700 Websites Later](https://1mb.club/blog/reflection/)
+- [DRAM Thermal Issues Reach Crisis Point](https://semiengineering.com/dram-thermal-issues-reach-crisis-point/)
 - [The Illustrated Guide to Video Formats: fifty years of video history](https://archivesoftomorrow.com/books/)
-- [The Pneumatic Clocks of Paris](https://www.amusingplanet.com/2022/02/the-pneumatic-clocks-of-paris.html)
-- [Ask HN: Is having a personal blog/brand worth it for you?](https://news.ycombinator.com/item?id=32137336)
-- [Kable &lpar;YC W22&rpar; Is Hiring a Founding Engineer &lpar;Remote, US&rpar;](https://kable.io)
-- [TV, or not TV: the story of our bike box &lpar;2019&rpar;](https://www.vanmoof.com/blog/en/tv-bike-box)
+- [How Urban Legend Destroyed the Ball Pit](https://meghanboilard.substack.com/p/how-urban-legend-destroyed-the-ball)
 <!-- BLOG-POST-LIST:END -->
