@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [Is monzo&#39;s create account algorithm racist?](https://monzo.com/legal/privacy-notice/version-1-10/)
+- [Forests Now Cover 2% of Iceland](https://www.icelandreview.com/nature-travel/forests-now-cover-2-of-iceland/)
+- [SOUNDBOKS cuts the perf of their speakers by half in a “mandatory update”](https://ghuntley.com/soundboks/)
+- [Wealth Is a Strong Predictor of Whether Someone Pursues a Creative Profession](https://www.smithsonianmag.com/smart-news/wealth-strong-predictor-whether-individual-pursues-creative-profession-180972072/)
 - [Show HN: PubKey – Communicate Privately in Anonymous Public Spaces](https://www.pubkey.pm)
-- [Show HN: If VS Code had a data-centric IDE sibling, what would that look like?](https://github.com/code-kern-ai/refinery)
-- [Ask HN: Has YouTube Peaked?](https://news.ycombinator.com/item?id=32135992)
-- [Don’t make the plan better. Make it shorter: why long term plans don’t work](https://lucasfcosta.com/2022/07/15/long-term-plans-dont-work.html)
-- [How efficient can cat&lpar;1&rpar; be?](https://ariadne.space/2022/07/17/how-efficient-can-cat1-be/)
 <!-- BLOG-POST-LIST:END -->
