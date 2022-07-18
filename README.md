@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
-- [Crimes Against Transhumanity](http://www.antipope.org/charlie/blog-static/2022/07/crimes-against-transhumanity.html)
+- [The Victorian Hyperloop: The forgotten pneumatic railway beneath London &lpar;2016&rpar;](https://citymonitor.ai/transport/victorian-hyperloop-forgotten-pneumatic-railway-beneath-streets-london-2395)
+- [Crimes against Transhumanity](http://www.antipope.org/charlie/blog-static/2022/07/crimes-against-transhumanity.html)
+- [Implementing &quot;seen by&quot; functionality with Postgres](https://supabase.com/blog/2022/07/18/seen-by-in-postgresql)
 - [Two Years and over 700 Websites Later](https://1mb.club/blog/reflection/)
 - [DRAM Thermal Issues Reach Crisis Point](https://semiengineering.com/dram-thermal-issues-reach-crisis-point/)
-- [The Illustrated Guide to Video Formats: fifty years of video history](https://archivesoftomorrow.com/books/)
-- [How Urban Legend Destroyed the Ball Pit](https://meghanboilard.substack.com/p/how-urban-legend-destroyed-the-ball)
 <!-- BLOG-POST-LIST:END -->
