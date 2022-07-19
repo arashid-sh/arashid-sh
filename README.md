@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
-- [Only 5% Indie Hackers products make $100k/year](https://scrapingfish.com/blog/indie-hackers-revenue)
-- [America’s favorite family outings are increasingly out of reach](https://thehustle.co/americas-favorite-family-outings-are-increasingly-out-of-reach/)
-- [Brazilian Amazon lost 18 trees per second in 2021](https://www.batimes.com.ar/news/latin-america/brazilian-amazon-lost-18-trees-per-second-in-2021.phtml)
-- [Deep Learning Papers Are Kinda Bullsh-T](https://dagshub.com/blog/unraveling-the-deep-learning-reproducibility-crisis/)
-- [Content-Based Image Retrieval](https://www.pinecone.io/learn/color-histograms/)
+- [Germany to Rethink Nuclear Shutdown as Energy Crisis Deepens](https://climatechangedispatch.com/germany-to-rethink-nuclear-shutdown-as-energy-crisis-deepens/)
+- [Does Bionic Reading work? Results from our reading speed experiment](https://blog.readwise.io/bionic-reading-results/)
+- [Carbon Language: An experimental successor to C++](https://github.com/carbon-language/carbon-lang)
+- [Free Tiers and Resources for Developers](https://free-for.dev/)
+- [Analyzing Indie Hacker Products with Verified Revenue](https://scrapingfish.com/blog/indie-hackers-revenue)
 <!-- BLOG-POST-LIST:END -->
