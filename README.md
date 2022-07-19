@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [Only 5% Indie Hackers products make $100k/year](https://scrapingfish.com/blog/indie-hackers-revenue)
+- [America’s favorite family outings are increasingly out of reach](https://thehustle.co/americas-favorite-family-outings-are-increasingly-out-of-reach/)
+- [Brazilian Amazon lost 18 trees per second in 2021](https://www.batimes.com.ar/news/latin-america/brazilian-amazon-lost-18-trees-per-second-in-2021.phtml)
 - [Deep Learning Papers Are Kinda Bullsh-T](https://dagshub.com/blog/unraveling-the-deep-learning-reproducibility-crisis/)
 - [Content-Based Image Retrieval](https://www.pinecone.io/learn/color-histograms/)
-- [U.S. successfully flight-tests Raytheon hypersonic weapon](https://www.reuters.com/world/us/us-successfully-flight-tests-raytheon-hypersonic-weapon-pentagon-2022-07-18/)
-- [Cotera &lpar;YC W22&rpar; Is Hiring Engineers](https://www.ycombinator.com/companies/cotera/jobs)
-- [Show HN: I made CSS Scan 3.0 – The fastest and easiest way to check and copy CSS](https://getcssscan.com)
 <!-- BLOG-POST-LIST:END -->
