@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
 - [DevCycle &lpar;YC W14&rpar; is hiring Feature Flag Developers to fix software development](https://devcycle.com/company/careers)
-- [We haven’t killed 90% of all plankton](https://arstechnica.com/science/2022/07/no-the-oceans-are-not-empty-of-plankton/)
-- [Volkswagen bringing back Scout brand truck as electric vehicle made in America](https://www.axios.com/2022/07/19/volkswagen-scout-vw-electric-vehicles-truck)
-- [Show HN: My new free note taking tool](https://news.ycombinator.com/item?id=32152935)
-- [Show HN: I built a self hosted recommendation feed to escape Google&#39;s algorithm](https://github.com/jawerty/myAlgorithm)
+- [Do Infinite Pencils Exist?](http://mitchgordon.me/math/2022/02/01/infinity.html)
+- [Google Cloud &lpar;Europe-west2&rpar; is experiencing downtime](https://status.cloud.google.com/incidents/fmEL9i2fArADKawkZAa2)
+- [The Entertainment Value Curve: Why TikTok Is on Fire and Quibi Isn’t &lpar;2020&rpar;](https://www.reforge.com/blog/entertainment-value-curve)
+- [New method identifies the root causes of statistical outliers](https://www.amazon.science/blog/new-method-identifies-the-root-causes-of-statistical-outliers)
 <!-- BLOG-POST-LIST:END -->
