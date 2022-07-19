@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [Deep Learning Papers Are Kinda Bullsh-T](https://dagshub.com/blog/unraveling-the-deep-learning-reproducibility-crisis/)
+- [Content-Based Image Retrieval](https://www.pinecone.io/learn/color-histograms/)
+- [U.S. successfully flight-tests Raytheon hypersonic weapon](https://www.reuters.com/world/us/us-successfully-flight-tests-raytheon-hypersonic-weapon-pentagon-2022-07-18/)
 - [Cotera &lpar;YC W22&rpar; Is Hiring Engineers](https://www.ycombinator.com/companies/cotera/jobs)
-- [Show HN: I made some ambient music generators that run in your browser](https://www.flowful.app)
-- [UK pay falls at fastest rate on record as inflation hits](https://www.bbc.co.uk/news/business-62218706)
-- [Facebook Accused of ‘Whitewashing’ India Human Rights Report](https://time.com/6197154/facebook-india-human-rights/)
-- [To download from Google Drive, you must enable 3rd party cookies](https://support.google.com/drive/answer/2423534?hl=en&co=GENIE.Platform%3DDesktop)
+- [Show HN: I made CSS Scan 3.0 – The fastest and easiest way to check and copy CSS](https://getcssscan.com)
 <!-- BLOG-POST-LIST:END -->
