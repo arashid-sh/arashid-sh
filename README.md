@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
-- [Fastmail service completely offline for the first time in years](https://www.fastmail.com/)
-- [An update to paid sharing](https://about.netflix.com/en/news/update-to-paid-sharing)
+- [Low water stage marks on hunger stones](https://cp.copernicus.org/articles/16/1821/2020/)
+- [Thoughts on ML Engineering After a Year of My PhD](https://www.shreya-shankar.com/phd-year-one/)
+- [63% of University of North Carolina Class of 2025 is female](https://alumni.unc.edu/news-publications/review-extras/admissions-article-archive-admissions-to-unc/charts/)
+- [Good managers write good](https://staysaasy.com/management/2022/07/10/Writing-Management.html)
 - [How to Design Programs](https://htdp.org/)
-- [Glassdoor not so anonymous](https://www.webworm.co/p/glassdoor)
-- [To hook diners, an invasive species of carp gets a new name](https://www.economist.com/united-states/2022/07/07/to-hook-american-diners-an-invasive-species-of-carp-gets-a-new-name)
 <!-- BLOG-POST-LIST:END -->
