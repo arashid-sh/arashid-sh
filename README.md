@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: I built a handheld CHIP-8 game console to teach myself embedded systems](https://github.com/kurtjd/CHIPnGo)
 - [Back from the Future: Global Tables in CockroachDB](https://www.cockroachlabs.com/blog/global-tables-in-cockroachdb/)
-- [Amazon memo: Here’s why we should acquire Ring](https://twitter.com/TechEmails/status/1549489359459454976)
+- [Amazon memo: Here’s why we should acquire Ring &lpar;2017&rpar;](https://twitter.com/TechEmails/status/1549489359459454976)
+- [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x)
 - [The Minitel system in France &lpar;1988&rpar;](https://fermatslibrary.com/s/the-teletel-minitel-system-in-france)
-- [An installation-art company called META &lpar;or Meta.is&rpar; is suing Meta &lpar;or meta.com&rpar;](https://meta.is/)
-- [Understanding the x64 code models &lpar;2012&rpar;](https://eli.thegreenplace.net/2012/01/03/understanding-the-x64-code-models)
 <!-- BLOG-POST-LIST:END -->
