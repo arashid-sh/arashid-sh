@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: My new free note taking tool](https://news.ycombinator.com/item?id=32152935)
+- [Show HN: I built a self hosted recommendation feed to escape Google&#39;s algorithm](https://github.com/jawerty/myAlgorithm)
+- [Show HN: I help LGBT people to find LGBT homes](https://mygayflatmate.com/)
+- [Be enterprise-ready: reasons not to build enterprise features](https://boxyhq.com/blog/three-reasons-not-to-build-enterprise-features)
 - [Germany to Rethink Nuclear Shutdown as Energy Crisis Deepens](https://climatechangedispatch.com/germany-to-rethink-nuclear-shutdown-as-energy-crisis-deepens/)
-- [Does Bionic Reading work? Results from our reading speed experiment](https://blog.readwise.io/bionic-reading-results/)
-- [Carbon Language: An experimental successor to C++](https://github.com/carbon-language/carbon-lang)
-- [Free Tiers and Resources for Developers](https://free-for.dev/)
-- [Analyzing Indie Hacker Products with Verified Revenue](https://scrapingfish.com/blog/indie-hackers-revenue)
 <!-- BLOG-POST-LIST:END -->
