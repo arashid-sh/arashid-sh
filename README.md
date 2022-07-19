@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
-- [Film grain synthesis in AV1 &lpar;2019&rpar;](https://norkin.org/research/film_grain/index.html)
-- [Freshpaint &lpar;YC S19&rpar; is hiring engineers to build real-time data ingestion infra](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572)
-- [Entire telecomm infrastructure of Iceland sold to private equity?](https://www.ardian.com/news-insights/focus-mila-ardian-partners-icelands-national-telecoms-network)
-- [The Night I Met Einstein &lpar;2021&rpar;](https://www.rd.com/article/the-night-i-met-einstein/)
-- [Blue Zones, where people reach age 100 at 10 times greater rates](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6125071/)
+- [To hook American diners, an invasive species of carp gets a new name](https://www.economist.com/united-states/2022/07/07/to-hook-american-diners-an-invasive-species-of-carp-gets-a-new-name)
+- [See Thru Jet Engine](https://www.youtube.com/watch?v=MgL0GW248mE)
+- [Zombie fly fungus lures healthy male flies to mate with female corpses](https://news.ku.dk/all_news/2022/07/zombie-fly-fungus-lures-healthy-male-flies-to-mate-with-female-corpses/)
+- [Shouldibuytwitter.com – A tiny takeover arbitrage model for TWTR](https://shouldibuytwitter.com)
+- [Shannon&#39;s Demon and How Returns Can Be Created Out of Thin Air](https://www.richmondquant.com/news/2021/9/21/shannons-demon-amp-how-portfolio-returns-can-be-created-out-of-thin-air)
 <!-- BLOG-POST-LIST:END -->
