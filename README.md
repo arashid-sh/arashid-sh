@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
-- [Soft Deletion Probably Isn&#39;t Worth It](https://brandur.org/soft-deletion)
-- [Explosion and Fire at Hoover Dam](https://twitter.com/kristynashville/status/1549441916000825344)
-- [DevCycle &lpar;YC W14&rpar; is hiring Feature Flag Developers to fix software development](https://devcycle.com/company/careers)
-- [Google Cloud &lpar;Europe-west2&rpar; is experiencing downtime](https://status.cloud.google.com/incidents/fmEL9i2fArADKawkZAa2)
-- [The Entertainment Value Curve: Why TikTok Is on Fire and Quibi Isn’t &lpar;2020&rpar;](https://www.reforge.com/blog/entertainment-value-curve)
+- [Understanding the X64 Code Models](https://eli.thegreenplace.net/2012/01/03/understanding-the-x64-code-models)
+- [Google Quantum Virtual Machine will accelerate research and learning](https://blog.google/technology/research/our-new-quantum-virtual-machine-will-accelerate-research-and-help-people-learn-quantum-computing/)
+- [SEC Issues More Than $17M Award to a Whistleblower](https://www.sec.gov/news/press-release/2022-125)
+- [What Happens When a Reservoir Goes Dry?](https://practical.engineering/blog/2022/7/18/what-happens-when-a-reservoir-goes-dry)
+- [Soft deletion probably isn&#39;t worth it](https://brandur.org/soft-deletion)
 <!-- BLOG-POST-LIST:END -->
