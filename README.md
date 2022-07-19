@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
-- [To hook American diners, an invasive species of carp gets a new name](https://www.economist.com/united-states/2022/07/07/to-hook-american-diners-an-invasive-species-of-carp-gets-a-new-name)
-- [See Thru Jet Engine](https://www.youtube.com/watch?v=MgL0GW248mE)
-- [Zombie fly fungus lures healthy male flies to mate with female corpses](https://news.ku.dk/all_news/2022/07/zombie-fly-fungus-lures-healthy-male-flies-to-mate-with-female-corpses/)
-- [Shouldibuytwitter.com – A tiny takeover arbitrage model for TWTR](https://shouldibuytwitter.com)
-- [Shannon&#39;s Demon and How Returns Can Be Created Out of Thin Air](https://www.richmondquant.com/news/2021/9/21/shannons-demon-amp-how-portfolio-returns-can-be-created-out-of-thin-air)
+- [Fastmail service completely offline for the first time in years](https://www.fastmail.com/)
+- [An update to paid sharing](https://about.netflix.com/en/news/update-to-paid-sharing)
+- [How to Design Programs](https://htdp.org/)
+- [Glassdoor not so anonymous](https://www.webworm.co/p/glassdoor)
+- [To hook diners, an invasive species of carp gets a new name](https://www.economist.com/united-states/2022/07/07/to-hook-american-diners-an-invasive-species-of-carp-gets-a-new-name)
 <!-- BLOG-POST-LIST:END -->
