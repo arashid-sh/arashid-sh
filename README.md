@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
 - [Verdn &lpar;YC W22&rpar; is hiring founding full stack engineers in London, UK](https://www.ycombinator.com/companies/verdn/jobs/wJFebb6-full-stack-engineer)
+- [Intel Microcode Decryptor](https://twitter.com/h0t_max/status/1549155542786080774)
 - [FCC: TikTok is unacceptable security risk and should be removed from app stores](https://blog.malwarebytes.com/privacy-2/2022/07/tiktok-is-unacceptable-security-risk-and-should-be-removed-from-app-stores-says-fcc/)
-- [Low water stage marks on hunger stones](https://cp.copernicus.org/articles/16/1821/2020/)
-- [I Hacked My Car Guides: Creating Custom Firmware](https://programmingwithstyle.com/posts/howihackedmycarguidescreatingcustomfirmware/)
-- [Parsing XML at the Speed of Light &lpar;2012&rpar;](http://www.aosabook.org/en/posa/parsing-xml-at-the-speed-of-light.html)
+- [Bosch eBike Systems presents its new eBike ABS](https://www.bosch-presse.de/pressportal/de/en/bosch-ebike-systems-presents-its-new-ebike-abs-243264.html)
+- [Nutanix Objects Violates MinIO’s Open Source License](https://blog.min.io/nutanix-objects-violates-minios-open-source-license/)
 <!-- BLOG-POST-LIST:END -->
