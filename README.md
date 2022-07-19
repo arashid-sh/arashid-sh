@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [DevCycle &lpar;YC W14&rpar; is hiring Feature Flag Developers to fix software development](https://devcycle.com/company/careers)
+- [We haven’t killed 90% of all plankton](https://arstechnica.com/science/2022/07/no-the-oceans-are-not-empty-of-plankton/)
+- [Volkswagen bringing back Scout brand truck as electric vehicle made in America](https://www.axios.com/2022/07/19/volkswagen-scout-vw-electric-vehicles-truck)
 - [Show HN: My new free note taking tool](https://news.ycombinator.com/item?id=32152935)
 - [Show HN: I built a self hosted recommendation feed to escape Google&#39;s algorithm](https://github.com/jawerty/myAlgorithm)
-- [Show HN: I help LGBT people to find LGBT homes](https://mygayflatmate.com/)
-- [Be enterprise-ready: reasons not to build enterprise features](https://boxyhq.com/blog/three-reasons-not-to-build-enterprise-features)
-- [Germany to Rethink Nuclear Shutdown as Energy Crisis Deepens](https://climatechangedispatch.com/germany-to-rethink-nuclear-shutdown-as-energy-crisis-deepens/)
 <!-- BLOG-POST-LIST:END -->
