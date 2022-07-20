@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [Thousands of classic Polish films, etc. made available for free online](https://35mm.online/)
+- [Show HN: I&#39;m building a browser-based DAW](https://signalsandsorcery.org/sas/composer)
 - [Show HN: A CLI to avoid remembering HTTP status codes](https://github.com/sterchelen/hssp)
 - [Meticulous &lpar;YC S21&rpar; Is Hiring #3 Founding Engineer in London](https://news.ycombinator.com/item?id=32164481)
 - [Hetzner to Offer First Arm-Based Dedicated Servers in Europe](https://www.hetzner.com/news/07-22-rx-line/)
-- [Electric Cars – fuel duty and road tax: how to replace £35B annual revenue](https://www.carwow.co.uk/blog/how-to-replace-fuel-duty-and-road-tax)
-- [Lisp.py](https://khamidou.com/compilers/lisp.py/)
 <!-- BLOG-POST-LIST:END -->
