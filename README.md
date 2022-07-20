@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [QA workers at Blizzard Albany are unionizing](https://www.gamedeveloper.com/culture/qa-workers-at-blizzard-albany-are-unionizing2a8ba530bcd0daf0e1ae42d988c40dc261347&utm_source=eloqua&utm_medium=email&utm_campaign=Gama_NL_Game%20Developer%20Daily_07.19.22&sp_cid=45523&utm_content=Gama_NL_Game%20Developer%20Daily_07.19.22)
+- [Why does culture get less happy year after year?](https://erikhoel.substack.com/p/why-does-culture-get-less-happy-year)
+- [Yuga Labs vs. Bungie – finding the Web3 delta](https://credistick.com/yuga-labs-vs-bungie-finding-the-web3-delta/)
+- [General Motors Streetcar Conspiracy](https://en.wikipedia.org/wiki/General_Motors_streetcar_conspiracy)
 - [Launch HN: Bend &lpar;YC S22&rpar; – Automatically measure your company&#39;s carbon footprint](https://news.ycombinator.com/item?id=32166140)
-- [Flipper Zero – Portable Multi-Tool Device for Geeks](https://flipperzero.one)
-- [Bridesmaids Go Professional](https://www.sixthtone.com/news/1010792/bridesmaids-go-professional)
-- [Thousands of classic Polish films, etc. made available for free online](https://35mm.online/)
-- [Show HN: I&#39;m building a browser-based DAW](https://signalsandsorcery.org/sas/composer)
 <!-- BLOG-POST-LIST:END -->
