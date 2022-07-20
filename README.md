@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
-- [Swimming in Noise](https://nautil.us/swimming-in-noise-22162/)
-- [PicoCart64: Nintendo 64 flash cart using a Raspberry Pi RP2040](https://github.com/kbeckmann/PicoCart64)
-- [MongoDB 6 Released](https://www.mongodb.com/blog/post/mongodb-6-0-now-available)
-- [Why Ruby Is More Readable Than Python](https://confuzeus.com/posts/python-ruby-readability/)
-- [Show HN: I built a handheld CHIP-8 game console to teach myself embedded systems](https://github.com/kurtjd/CHIPnGo)
+- [“No convincing evidence” that depression is caused by low serotonin levels](https://www.bmj.com/content/378/bmj.o1808)
+- [Show HN: bashttp - a very &lpar;very&rpar; simple web server in Bash](https://github.com/EddySchauHai/bashttp)
+- [The Einstein Principle: Accomplish More by Doing Less](https://www.calnewport.com/blog/2007/10/10/the-einstein-principle-accomplish-more-by-doing-less/)
+- [House passes bill to codify marriage equality with large bipartisan support](https://www.axios.com/2022/07/19/house-repeal-defense-of-marriage-act)
+- [Introduction to TCP and Sockets](https://www.scottklement.com/rpg/socktut/introduction.html)
 <!-- BLOG-POST-LIST:END -->
