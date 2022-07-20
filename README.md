@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [Launch HN: Bend &lpar;YC S22&rpar; – Automatically measure your company&#39;s carbon footprint](https://news.ycombinator.com/item?id=32166140)
+- [Flipper Zero – Portable Multi-Tool Device for Geeks](https://flipperzero.one)
+- [Bridesmaids Go Professional](https://www.sixthtone.com/news/1010792/bridesmaids-go-professional)
 - [Thousands of classic Polish films, etc. made available for free online](https://35mm.online/)
 - [Show HN: I&#39;m building a browser-based DAW](https://signalsandsorcery.org/sas/composer)
-- [Show HN: A CLI to avoid remembering HTTP status codes](https://github.com/sterchelen/hssp)
-- [Meticulous &lpar;YC S21&rpar; Is Hiring #3 Founding Engineer in London](https://news.ycombinator.com/item?id=32164481)
-- [Hetzner to Offer First Arm-Based Dedicated Servers in Europe](https://www.hetzner.com/news/07-22-rx-line/)
 <!-- BLOG-POST-LIST:END -->
