@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
 - [User settings, Lamport clocks and lightweight formal methods](https://jakub-m.github.io/2022/07/17/laport-clocks-formal.html)
-- [Are Forum Platforms Dead?](https://rosie.land/posts/are-forum-platforms-dead/)
-- [Media Confidence Ratings at Record Lows](https://news.gallup.com/poll/394817/media-confidence-ratings-record-lows.aspx)
-- [Pretty Maps in Python](https://tech.marksblogg.com/pretty-maps-in-python.html)
+- [Are forum platforms dead?](https://rosie.land/posts/are-forum-platforms-dead/)
+- [Pretty maps in Python](https://tech.marksblogg.com/pretty-maps-in-python.html)
 - [Simon Tatham&#39;s Portable Puzzle Collection](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/)
+- [VCs are scared when they should be greedy](https://blog.aaronkharris.com/vcs-are-scared-when-they-should-be-greedy)
 <!-- BLOG-POST-LIST:END -->
