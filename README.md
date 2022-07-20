@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
-- [Why Bluetooth remains an &#39;unusually painful&#39; technology after two decades](https://www.cnn.com/2022/07/10/tech/bluetooth-technology-headache/index.html)
+- [Chessguessr – Wordle for Chess Games](https://www.chessguessr.com/)
 - [Cooling related failure &lpar;in Google London DC&rpar;](https://status.cloud.google.com/incidents/XVq5om2XEDSqLtJZUvcH)
 - [A brief history of nobody wants to work anymore](https://twitter.com/paulisci/status/1549527748950892544)
 - [Things I wish everyone knew about Git &lpar;Part II&rpar;](https://blog.plover.com/prog/git/tips-2.html)
