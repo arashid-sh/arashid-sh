@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 - [“No convincing evidence” that depression is caused by low serotonin levels](https://www.bmj.com/content/378/bmj.o1808)
 - [Show HN: bashttp - a very &lpar;very&rpar; simple web server in Bash](https://github.com/EddySchauHai/bashttp)
 - [The Einstein Principle: Accomplish More by Doing Less](https://www.calnewport.com/blog/2007/10/10/the-einstein-principle-accomplish-more-by-doing-less/)
-- [House passes bill to codify marriage equality with large bipartisan support](https://www.axios.com/2022/07/19/house-repeal-defense-of-marriage-act)
 - [Introduction to TCP and Sockets](https://www.scottklement.com/rpg/socktut/introduction.html)
+- [Burnout](https://commoncog.com/g/burnout/)
 <!-- BLOG-POST-LIST:END -->
