@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [Half of Americans anticipate a U.S. civil war soon](https://www.science.org/content/article/half-of-americans-anticipate-a-us-civil-war-soon-survey-finds)
+- [Media Confidence Ratings at Record Lows](https://news.gallup.com/poll/394817/media-confidence-ratings-record-lows.aspx)
+- [Pretty Maps in Python](https://tech.marksblogg.com/pretty-maps-in-python.html)
+- [Simon Tatham&#39;s Portable Puzzle Collection](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/)
 - [VCs Are Scared When They Should Be Greedy](https://blog.aaronkharris.com/vcs-are-scared-when-they-should-be-greedy)
-- [Gitlab – A world leader in remote work](https://about.gitlab.com/company/culture/all-remote/)
-- [About using Nix in my development workflow](https://ejpcmac.net/blog/about-using-nix-in-my-development-workflow/)
-- [Rent in NYC without paying broker fees](https://reny-webapp.herokuapp.com/)
-- [The Rise and Peak of Japanese Semiconductors](https://asianometry.substack.com/p/the-rise-and-peak-of-japanese-semiconductors)
 <!-- BLOG-POST-LIST:END -->
