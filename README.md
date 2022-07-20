@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [VCs Are Scared When They Should Be Greedy](https://blog.aaronkharris.com/vcs-are-scared-when-they-should-be-greedy)
+- [Gitlab – A world leader in remote work](https://about.gitlab.com/company/culture/all-remote/)
 - [About using Nix in my development workflow](https://ejpcmac.net/blog/about-using-nix-in-my-development-workflow/)
 - [Rent in NYC without paying broker fees](https://reny-webapp.herokuapp.com/)
 - [The Rise and Peak of Japanese Semiconductors](https://asianometry.substack.com/p/the-rise-and-peak-of-japanese-semiconductors)
-- [Aptible &lpar;YC S14&rpar; is hiring for our secure, compliant PaaS alternative to Heroku](https://www.aptible.com/careers/)
-- [Naming microservices needs to be trivial, not cryptic &lpar;2018&rpar;](https://theiconic.tech/naming-your-microservices-needs-to-be-trivial-not-cryptic-288902e800e1?gi=94e2c65eaa27)
 <!-- BLOG-POST-LIST:END -->
