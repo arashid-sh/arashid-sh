@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [Swimming in Noise](https://nautil.us/swimming-in-noise-22162/)
+- [PicoCart64: Nintendo 64 flash cart using a Raspberry Pi RP2040](https://github.com/kbeckmann/PicoCart64)
+- [MongoDB 6 Released](https://www.mongodb.com/blog/post/mongodb-6-0-now-available)
+- [Why Ruby Is More Readable Than Python](https://confuzeus.com/posts/python-ruby-readability/)
 - [Show HN: I built a handheld CHIP-8 game console to teach myself embedded systems](https://github.com/kurtjd/CHIPnGo)
-- [Back from the Future: Global Tables in CockroachDB](https://www.cockroachlabs.com/blog/global-tables-in-cockroachdb/)
-- [Amazon memo: Here’s why we should acquire Ring &lpar;2017&rpar;](https://twitter.com/TechEmails/status/1549489359459454976)
-- [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x)
-- [The Minitel system in France &lpar;1988&rpar;](https://fermatslibrary.com/s/the-teletel-minitel-system-in-france)
 <!-- BLOG-POST-LIST:END -->
