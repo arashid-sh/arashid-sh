@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [Former Coinbase Employee Charged in First Ever Crypto Insider Trading Scheme](https://stacker.news/items/47796)
+- [Former Coinbase PM Charged in Cryptocurrency Insider Trading Tipping Scheme](https://www.justice.gov/usao-sdny/pr/three-charged-first-ever-cryptocurrency-insider-trading-tipping-scheme)
+- [The data rules worth $40k a day](https://www.tinybird.co/blog-posts/data-rules-materialized-views-40000-dollars)
+- [Most Americans think NASA’s $10B space telescope is a good investment](https://www.theverge.com/2022/7/19/23270396/nasa-james-webb-space-telescope-online-poll-investment)
 - [Show HN: Pg_jsonschema – A Postgres extension for JSON validation](https://github.com/supabase/pg_jsonschema)
-- [Framework Laptop &lpar;2022&rpar; review: the repairability dream](https://www.theverge.com/23270191/framework-laptop-12th-gen-2022-review)
-- [I Regret my $46k Website Redesign](https://mtlynch.io/tinypilot-redesign/)
-- [Launch HN: Vital &lpar;YC W20&rpar; – API for wearables and labs](https://tryvital.io/)
-- [Glassdoor ordered to unmask former company employe who posted scathing criticism](https://fortune.com/2022/07/19/glassdoor-court-order-reveal-employees-behind-anonymous-reviews/)
 <!-- BLOG-POST-LIST:END -->
