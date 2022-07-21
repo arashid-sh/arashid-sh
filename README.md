@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
-- [The Great Tech Salary Crash](https://andrenader.substack.com/p/tech-salary-crash)
-- [Amazon to Acquire One Medical](https://press.aboutamazon.com/news-releases/news-release-details/amazon-and-one-medical-sign-agreement-amazon-acquire-one-medical/)
-- [European Central Bank rises rates by 0.5%](https://www.ecb.europa.eu/press/pr/date/2022/html/ecb.mp220721~53e5bdd317.en.html)
-- [Ask HN: Where can I find small companies to work for part-time?](https://news.ycombinator.com/item?id=32178328)
-- [HireArt &lpar;YC W12&rpar; is hiring a senior front-end engineer](https://www.hireart.com/apply/21b2ca51?utm_source=hackernews)
+- [Show HN: Pg_jsonschema – A Postgres extension for JSON validation](https://github.com/supabase/pg_jsonschema)
+- [Framework Laptop &lpar;2022&rpar; review: the repairability dream](https://www.theverge.com/23270191/framework-laptop-12th-gen-2022-review)
+- [I Regret my $46k Website Redesign](https://mtlynch.io/tinypilot-redesign/)
+- [Launch HN: Vital &lpar;YC W20&rpar; – API for wearables and labs](https://tryvital.io/)
+- [Glassdoor ordered to unmask former company employe who posted scathing criticism](https://fortune.com/2022/07/19/glassdoor-court-order-reveal-employees-behind-anonymous-reviews/)
 <!-- BLOG-POST-LIST:END -->
