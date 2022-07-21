@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [OkSo – the drawing app with hierarchical drawings/sketches structure](https://okso.app/)
+- [Microsoft Teams down for thousands of users](https://www.reuters.com/article/microsoft-outages-idCAKBN2OW03G)
 - [A 165-Mile Drone Superhighway Will Soon Be Built in the UK](https://singularityhub.com/2022/07/20/a-165-mile-drone-superhighway-will-soon-be-built-in-the-uk/)
 - [8-bit 64K 1802 computer with front panel and serial port in an Altoids tin](http://www.sunrise-ev.com/1802.htm)
 - [Tell HN: Salesforce has globally revoked Slack&#39;s holiday shutdown benefit](https://news.ycombinator.com/item?id=32174596)
-- [Generally Intelligent &lpar;YC S17&rpar; Is Hiring Remote Machine Learning Engineers](https://news.ycombinator.com/item?id=32174543)
-- [Continued cyber activity in Eastern Europe observed by TAG](https://blog.google/threat-analysis-group/continued-cyber-activity-in-eastern-europe-observed-by-tag/)
 <!-- BLOG-POST-LIST:END -->
