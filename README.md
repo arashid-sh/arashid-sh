@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [ReadMe &lpar;YC W15&rpar; is hiring people who love Developer Experience](https://readme.com/careers)
+- [Diffusers: Modular Diffusion model library from HuggingFace](https://github.com/huggingface/diffusers)
+- [Negative Incentives in Academic Research](https://lemire.me/blog/2022/07/21/negative-incentives-in-academic-research/)
 - [Former Coinbase Employee Charged in First Ever Crypto Insider Trading Scheme](https://stacker.news/items/47796)
-- [Former Coinbase PM Charged in Cryptocurrency Insider Trading Tipping Scheme](https://www.justice.gov/usao-sdny/pr/three-charged-first-ever-cryptocurrency-insider-trading-tipping-scheme)
-- [The data rules worth $40k a day](https://www.tinybird.co/blog-posts/data-rules-materialized-views-40000-dollars)
-- [Most Americans think NASA’s $10B space telescope is a good investment](https://www.theverge.com/2022/7/19/23270396/nasa-james-webb-space-telescope-online-poll-investment)
-- [Show HN: Pg_jsonschema – A Postgres extension for JSON validation](https://github.com/supabase/pg_jsonschema)
+- [Google Play is reinstating the app permissions section](https://twitter.com/AndroidDev/status/1550134137104740352)
 <!-- BLOG-POST-LIST:END -->
