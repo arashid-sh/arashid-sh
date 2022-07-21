@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [Tell HN: Today I made my first “bucks” on the web](https://news.ycombinator.com/item?id=32177053)
+- [New UK data laws could be incompatible with GDPR in the EU](https://techmonitor.ai/policy/privacy-and-data-protection/uk-data-protection-digital-information-bill)
 - [Long Live Software Easter Eggs](https://queue.acm.org/detail.cfm?id=3534857&doi=10.1145%2F3534857)
 - [New Lisp-Stat Release](https://lisp-stat.dev/blog/releases/)
 - [Anti-Interdiction on the Librem 5 USA](https://puri.sm/posts/anti-interdiction-on-the-librem-5-usa/)
-- [A little story about the `yes` Unix command](https://endler.dev/2017/yes/)
-- [The Daily Wrong: AI-Generated Lies Every Day](http://dailywrong.com/)
 <!-- BLOG-POST-LIST:END -->
