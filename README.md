@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [HireArt &lpar;YC W12&rpar; is hiring a senior front-end engineer](https://www.hireart.com/apply/21b2ca51?utm_source=hackernews)
+- [A Crack in the Linux Firewall](https://www.randorisec.fr/crack-linux-firewall/)
+- [Ask HN: What do you use to make headcount planning less painful?](https://news.ycombinator.com/item?id=32177842)
+- [Congress&#39; push to regulate Big Tech is fizzling out](https://www.axios.com/2022/07/21/big-tech-antitrust-senate-fizzle)
 - [Analyzing iOS 16 Lockdown Mode: Browser Features and Performance](https://www.sevarg.net/2022/07/20/ios16-lockdown-mode-browser-analysis/)
-- [Tips that helped us consistently achieve over 30% open rates for our newsletter](https://circuit.ooo/blog/the-key-ingredient-behind-high-newsletter-open-rates)
-- [Tell HN: Today I made my first “bucks” on the web](https://news.ycombinator.com/item?id=32177053)
-- [New Lisp-Stat Release](https://lisp-stat.dev/blog/releases/)
-- [Anti-Interdiction on the Librem 5 USA](https://puri.sm/posts/anti-interdiction-on-the-librem-5-usa/)
 <!-- BLOG-POST-LIST:END -->
