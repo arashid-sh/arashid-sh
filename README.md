@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [The Great Tech Salary Crash](https://andrenader.substack.com/p/tech-salary-crash)
 - [Amazon to Acquire One Medical](https://press.aboutamazon.com/news-releases/news-release-details/amazon-and-one-medical-sign-agreement-amazon-acquire-one-medical/)
 - [European Central Bank rises rates by 0.5%](https://www.ecb.europa.eu/press/pr/date/2022/html/ecb.mp220721~53e5bdd317.en.html)
 - [Ask HN: Where can I find small companies to work for part-time?](https://news.ycombinator.com/item?id=32178328)
 - [HireArt &lpar;YC W12&rpar; is hiring a senior front-end engineer](https://www.hireart.com/apply/21b2ca51?utm_source=hackernews)
-- [Notation as a Tool of Thought](https://www.jsoftware.com/papers/tot.htm)
 <!-- BLOG-POST-LIST:END -->
