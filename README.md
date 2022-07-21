@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [Commenting on Hacker News](https://superbowl.substack.com/p/commenting-on-hacker-news)
+- [Why We Ignore Thousands of Daily Car Crashes](https://www.strongtowns.org/journal/2022/7/5/heres-why-we-respond-in-force-to-one-amtrak-crash-while-ignoring-thousands-of-daily-car-crashes)
+- [The Birth of Random-Access Memory](https://spectrum.ieee.org/the-birth-of-ram)
 - [We don&#39;t have a hundred biases, we have the wrong model](https://www.worksinprogress.co/issue/biases-the-wrong-model/)
 - [ML is not that good at predicting consumers&#39; choices](https://statmodeling.stat.columbia.edu/2022/07/21/predicting-consumers-choices-in-the-age-of-the-internet-ai-and-almost-perfect-tracking-some-things-change-the-key-challenges-do-not/)
-- [ReadMe &lpar;YC W15&rpar; is hiring people who love Developer Experience](https://readme.com/careers)
-- [Real peer review has never been tried – Works in Progress](https://www.worksinprogress.co/issue/real-peer-review/)
-- [Antibiotics Affect Male and Female &lpar;Lab Rats&rpar; Gut Microbiomes Differently](https://www.cedars-sinai.org/newsroom/preclinical-study-antibiotics-affect-male-and-female-gut-microbiomes-differently/)
 <!-- BLOG-POST-LIST:END -->
