@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [PropelAuth &lpar;YC W22&rpar; Is Hiring Rust Developers &lpar;US Remote&rpar;](https://www.ycombinator.com/companies/propelauth/jobs/b0dl3wz-founding-backend-engineer)
+- [SQLite 3.39.2](https://sqlite.org/releaselog/3_39_2.html)
+- [Hertz Paid Accenture $32M for a Website That Never Went Live](https://www.henricodolfing.com/2019/10/case-study-hertz-accenture-website.html)
 - [Let&#39;s improve PeerTube – Help us define PeerTube&#39;s future roadmap](https://joinpeertube.org/en/news#ideas-jpt)
 - [Potentials signs of fabrication threaten reigning theory of Alzheimer&#39;s disease](https://www.science.org/content/article/potential-fabrication-research-images-threatens-key-theory-alzheimers-disease)
-- [Commenting on Hacker News](https://superbowl.substack.com/p/commenting-on-hacker-news)
-- [Why We Ignore Thousands of Daily Car Crashes](https://www.strongtowns.org/journal/2022/7/5/heres-why-we-respond-in-force-to-one-amtrak-crash-while-ignoring-thousands-of-daily-car-crashes)
-- [The Birth of Random-Access Memory](https://spectrum.ieee.org/the-birth-of-ram)
 <!-- BLOG-POST-LIST:END -->
