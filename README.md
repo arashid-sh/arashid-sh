@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [We don&#39;t have a hundred biases, we have the wrong model](https://www.worksinprogress.co/issue/biases-the-wrong-model/)
+- [ML is not that good at predicting consumers&#39; choices](https://statmodeling.stat.columbia.edu/2022/07/21/predicting-consumers-choices-in-the-age-of-the-internet-ai-and-almost-perfect-tracking-some-things-change-the-key-challenges-do-not/)
 - [ReadMe &lpar;YC W15&rpar; is hiring people who love Developer Experience](https://readme.com/careers)
-- [Diffusers: Modular Diffusion model library from HuggingFace](https://github.com/huggingface/diffusers)
-- [Negative Incentives in Academic Research](https://lemire.me/blog/2022/07/21/negative-incentives-in-academic-research/)
-- [Former Coinbase Employee Charged in First Ever Crypto Insider Trading Scheme](https://stacker.news/items/47796)
-- [Google Play is reinstating the app permissions section](https://twitter.com/AndroidDev/status/1550134137104740352)
+- [Real peer review has never been tried – Works in Progress](https://www.worksinprogress.co/issue/real-peer-review/)
+- [Antibiotics Affect Male and Female &lpar;Lab Rats&rpar; Gut Microbiomes Differently](https://www.cedars-sinai.org/newsroom/preclinical-study-antibiotics-affect-male-and-female-gut-microbiomes-differently/)
 <!-- BLOG-POST-LIST:END -->
