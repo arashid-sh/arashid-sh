@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [Charge Robotics &lpar;YC S21&rpar; is hiring a mechanical engineer](https://www.ycombinator.com/companies/charge-robotics/jobs/VFEVUkD-mechanical-engineer)
+- [LocalStack 1.0 General Availability](https://localstack.cloud/blog/2022-07-13-announcing-localstack-v1-general-availability/)
 - [Polio Detected in US](https://arstechnica.com/science/2022/07/polio-detected-in-us-in-same-ny-county-with-explosive-measles-outbreak-in-2019/)
-- [Remote Work Credit? I built an entire app that the company thinks my boss built](https://news.ycombinator.com/item?id=32193016)
-- [Prostitution and Spam Killed Craigslist](https://ashlan.com/blog/prostitution-and-spam-killed-craigslist/)
-- [Migratory monarch butterfly now Endangered](https://www.iucn.org/press-release/202207/migratory-monarch-butterfly-now-endangered-iucn-red-list)
+- [Migratory monarch butterfly now endangered](https://www.iucn.org/press-release/202207/migratory-monarch-butterfly-now-endangered-iucn-red-list)
 - [US Air Force connects 1,760 Playstation 3&#39;s to build supercomputer &lpar;2010&rpar;](https://phys.org/news/2010-12-air-playstation-3s-supercomputer.html)
 <!-- BLOG-POST-LIST:END -->
