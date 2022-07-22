@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
-- [Bacterial and fungal isolation from face masks under the Covid-19 pandemic](https://www.nature.com/articles/s41598-022-15409-x)
-- [Some Thoughts on Zig](https://v5.chriskrycho.com/journal/some-thoughts-on-zig/)
+- [Transformer Models: An Introduction and Catalog](https://amatriain.net/blog/transformer-models-an-introduction-and-catalog-2d1e9039f376/)
 - [The true costs of inflation in small-town Texas](https://www.newyorker.com/news/letter-from-the-southwest/the-true-costs-of-inflation-in-small-town-texas)
-- [Universe-Altering Implications of Julia Roberts Plot Twist in ‘Ocean’s Twelve’](https://decider.com/2019/10/15/the-julia-roberts-paradox-of-oceans-twelve/)
-- [Practical Deep Learning for Coders 2022 &lpar;new edition of fast.ai course&rpar;](https://www.fast.ai/2022/07/21/dl-coders-22/)
+- [PropelAuth &lpar;YC W22&rpar; Is Hiring Rust Developers &lpar;US Remote&rpar;](https://www.ycombinator.com/companies/propelauth/jobs/b0dl3wz-founding-backend-engineer)
+- [The birth of random-access memory](https://spectrum.ieee.org/the-birth-of-ram)
+- [We don&#39;t have a hundred biases, we have the wrong model](https://www.worksinprogress.co/issue/biases-the-wrong-model/)
 <!-- BLOG-POST-LIST:END -->
