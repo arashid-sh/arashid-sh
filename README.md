@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
-- [The Trouble with Symbolic Links](https://lwn.net/Articles/899543/)
+- [Charityvest &lpar;YC S20&rpar; Is Hiring Lead UX and Brand Designer](https://apply.workable.com/charityvest/j/37123CA4DC/)
+- [Ask HN: How to keep water-obsessed autistic child from wasting water?](https://news.ycombinator.com/item?id=32190515)
+- [The trouble with symbolic links](https://lwn.net/Articles/899543/)
 - [The lives of a man’s eighteenth-century coat &lpar;2014&rpar;](https://www.ngv.vic.gov.au/essay/the-lives-of-a-mans-eighteenth-century-coat/)
-- [CVE-2022-31163: Arbitrary file execution in TZinfo &lpar;Ruby&rpar;](https://github.com/tzinfo/tzinfo/security/advisories/GHSA-5cm2-9h8c-rvfx)
-- [A weird epic ramble about Etsy homepages from the middle 2000’s](https://twitter.com/mcfunley/status/1550219636464967680)
-- [ArchiveTeam File Format Wiki](http://fileformats.archiveteam.org/wiki/Category:File_formats_by_extension)
+- [Building a Rust Mentality](https://slightknack.dev/blog/shift/)
 <!-- BLOG-POST-LIST:END -->
