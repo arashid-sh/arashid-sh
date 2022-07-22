@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [Why Books Don&#39;t Work: Constructivism over Transmissionism](https://www.masterhowtolearn.com/2021-01-30-why-books-dont-work-constructivism-over-transmissionism/)
+- [Ask HN: What are some &#39;cool&#39; but obscure data structures you know about?](https://news.ycombinator.com/item?id=32186203)
 - [PropelAuth &lpar;YC W22&rpar; Is Hiring Rust Developers &lpar;US Remote&rpar;](https://www.ycombinator.com/companies/propelauth/jobs/b0dl3wz-founding-backend-engineer)
-- [Emirates statement on operations at London Heathrow](https://www.emirates.com/media-centre/emirates-statement-on-operations-at-london-heathrow/)
 - [Solar flares could cause delays on the railways](https://www.ianvisits.co.uk/articles/solar-flares-could-cause-delays-on-the-railways-56083/)
 - [Hertz paid Accenture $32M for a website that never went live](https://www.henricodolfing.com/2019/10/case-study-hertz-accenture-website.html)
-- [Dutch schools must stop using Google&#39;s email and cloud due to privacy concerns](https://tutanota.com/blog/posts/dutch-schools-must-stop-using-google-email-and-cloud-services/)
 <!-- BLOG-POST-LIST:END -->
