@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 - [A weird epic ramble about Etsy homepages from the middle 2000’s](https://twitter.com/mcfunley/status/1550219636464967680)
 - [ArchiveTeam File Format Wiki](http://fileformats.archiveteam.org/wiki/Category:File_formats_by_extension)
 - [Transformer Models: An Introduction and Catalog](https://amatriain.net/blog/transformer-models-an-introduction-and-catalog-2d1e9039f376/)
-- [Some Thoughts on Zig](https://v5.chriskrycho.com/journal/some-thoughts-on-zig/)
+- [The true costs of inflation in small-town Texas](https://www.newyorker.com/news/letter-from-the-southwest/the-true-costs-of-inflation-in-small-town-texas)
 <!-- BLOG-POST-LIST:END -->
