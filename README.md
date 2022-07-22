@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [Two containers with same number detected in Chittagong port](https://container-news.com/two-containers-with-same-number-detected-in-chittagong-port/)
+- [What I don’t like about working at a remote job](https://www.priconceptions.com/notebook/remote-jobs-bad)
 - [Tesorio &lpar;YC S15&rpar; is hiring a senior front end engineer and support engineer](https://www.tesorio.com/careers#job-openings)
 - [We&#39;re going to need a lot of solar panels](https://caseyhandmer.wordpress.com/2022/07/22/were-going-to-need-a-lot-of-solar-panels/)
 - [Soon, life for 40M people who depend on the Colorado River will change](https://www.denverpost.com/2022/07/21/colorado-river-drought-water-crisis-west/)
-- [Ask HN: Which book are you reading, since when?](https://news.ycombinator.com/item?id=32196791)
-- [For the first time in four decades, the Rio Grande through Albuquerque is dry](http://www.inkstain.net/fleck/2022/07/for-the-first-time-in-four-decades-the-rio-grande-through-albuquerque-is-dry/)
 <!-- BLOG-POST-LIST:END -->
