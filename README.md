@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [SpatiaLite: Extends SQLite core to support Spatial SQL capabilities](https://www.gaia-gis.it/fossil/libspatialite/index)
 - [Ask HN: PayPal dismissed my claim, saying I didn&#39;t provide evidence &lpar;yet I did&rpar;](https://news.ycombinator.com/item?id=32194373)
-- [Countries with Declining Population 2022](https://worldpopulationreview.com/country-rankings/countries-with-declining-population)
 - [Charge Robotics &lpar;YC S21&rpar; is hiring a mechanical engineer](https://www.ycombinator.com/companies/charge-robotics/jobs/VFEVUkD-mechanical-engineer)
 - [Thermal Pad ‘Mod’ Makes M2 MacBook Air Faster Than 13″ M2 Pro](https://www.extremetech.com/computing/338068-thermal-pad-mod-makes-m2-macbook-air-faster-than-13-m2-pro)
-- [You&#39;re not the only one whos confused about the economy. Experts are baffled too](https://lite.cnn.com/en/article/h_009fe391f054031ef1471bc139a96cf5)
+- [Show HN: Formie – an open source &lpar;WIP&rpar; form website made with pure HTML/JS/CSS](https://github.com/div72/formie)
 <!-- BLOG-POST-LIST:END -->
