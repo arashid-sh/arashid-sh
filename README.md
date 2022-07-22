@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
 - [Bacterial and fungal isolation from face masks under the Covid-19 pandemic](https://www.nature.com/articles/s41598-022-15409-x)
-- [Ask HN: What Are You Learning?](https://news.ycombinator.com/item?id=32187745)
 - [Some Thoughts on Zig](https://v5.chriskrycho.com/journal/some-thoughts-on-zig/)
-- [The True Costs of Inflation in Small-Town Texas](https://www.newyorker.com/news/letter-from-the-southwest/the-true-costs-of-inflation-in-small-town-texas)
+- [The true costs of inflation in small-town Texas](https://www.newyorker.com/news/letter-from-the-southwest/the-true-costs-of-inflation-in-small-town-texas)
 - [Universe-Altering Implications of Julia Roberts Plot Twist in ‘Ocean’s Twelve’](https://decider.com/2019/10/15/the-julia-roberts-paradox-of-oceans-twelve/)
+- [Practical Deep Learning for Coders 2022 &lpar;new edition of fast.ai course&rpar;](https://www.fast.ai/2022/07/21/dl-coders-22/)
 <!-- BLOG-POST-LIST:END -->
