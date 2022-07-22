@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
-- [MPC-HC v1.9.22](https://github.com/clsid2/mpc-hc/releases/tag/1.9.22)
-- [South Carolina bill outlaws websites that tell how to get an abortion](https://www.washingtonpost.com/technology/2022/07/22/south-carolina-bill-abortion-websites/)
-- [Eve Online&#39;s most notorious player has quit the game](https://www.pcgamer.com/eve-onlines-most-notorious-player-has-quit-the-game/)
-- [The Inventor of Ibuprofen Tested the Drug on His Own Hangover](https://www.smithsonianmag.com/innovation/inventor-ibuprofen-tested-drug-his-own-hangover-180975088/)
-- [The Ex-CIA Agents Deciding Facebook’s Content Policy](https://www.mintpressnews.com/meet-ex-cia-agents-deciding-facebook-content-policy/281307/)
+- [Polio Detected in US](https://arstechnica.com/science/2022/07/polio-detected-in-us-in-same-ny-county-with-explosive-measles-outbreak-in-2019/)
+- [Remote Work Credit? I built an entire app that the company thinks my boss built](https://news.ycombinator.com/item?id=32193016)
+- [Prostitution and Spam Killed Craigslist](https://ashlan.com/blog/prostitution-and-spam-killed-craigslist/)
+- [Migratory monarch butterfly now Endangered](https://www.iucn.org/press-release/202207/migratory-monarch-butterfly-now-endangered-iucn-red-list)
+- [US Air Force connects 1,760 Playstation 3&#39;s to build supercomputer &lpar;2010&rpar;](https://phys.org/news/2010-12-air-playstation-3s-supercomputer.html)
 <!-- BLOG-POST-LIST:END -->
