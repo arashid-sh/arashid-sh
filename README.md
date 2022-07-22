@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX just broke its annual launch record – and it’s only July](https://www.theverge.com/2022/7/22/23273077/spacex-falcon-9-launch-record-2022-32-high-cadence)
+- [Ever wonder why the cheap junk flooding Amazon has brand names like MOFFBUZW?](https://twitter.com/ColeSouth/status/1550230795230781440)
+- [Hardcoded password in Confluence app has been leaked on Twitter](https://arstechnica.com/information-technology/2022/07/atlassian-warns-hardcoded-password-flaw-is-likely-to-be-exploited-in-the-wild/)
+- [Announcing Apache OpenOffice 4.1.13](https://blogs.apache.org/OOo/entry/announcing-apache-openoffice-4-19)
 - [SpatiaLite: Extends SQLite core to support Spatial SQL capabilities](https://www.gaia-gis.it/fossil/libspatialite/index)
-- [Ask HN: PayPal dismissed my claim, saying I didn&#39;t provide evidence &lpar;yet I did&rpar;](https://news.ycombinator.com/item?id=32194373)
-- [Charge Robotics &lpar;YC S21&rpar; is hiring a mechanical engineer](https://www.ycombinator.com/companies/charge-robotics/jobs/VFEVUkD-mechanical-engineer)
-- [Thermal Pad ‘Mod’ Makes M2 MacBook Air Faster Than 13″ M2 Pro](https://www.extremetech.com/computing/338068-thermal-pad-mod-makes-m2-macbook-air-faster-than-13-m2-pro)
-- [Show HN: Formie – an open source &lpar;WIP&rpar; form website made with pure HTML/JS/CSS](https://github.com/div72/formie)
 <!-- BLOG-POST-LIST:END -->
