@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: What makes users want to share a game?](https://news.ycombinator.com/item?id=32191526)
+- [Europe’s heatwave is forcing nuclear power plants to shut down](https://qz.com/1348969/europes-heatwave-is-forcing-nuclear-power-plants-to-shut-down/)
+- [Depression is probably not caused by a chemical imbalance in the brain](https://www.ucl.ac.uk/news/2022/jul/analysis-depression-probably-not-caused-chemical-imbalance-brain-new-study)
+- [Eve Online&#39;s most notorious player has quit the game](https://www.pcgamer.com/eve-onlines-most-notorious-player-has-quit-the-game/)
+- [How to advertise to developers: deep dive into paid developer marketing](https://www.developermarkepear.com/blog/paid-advertising-developer-marketing)
 - [Ask HN: Do you maintain a list of RSS links of GOAT blogs?](https://news.ycombinator.com/item?id=32191140)
-- [Charityvest &lpar;YC S20&rpar; Is Hiring Lead UX and Brand Designer](https://apply.workable.com/charityvest/j/37123CA4DC/)
-- [Three Arrows Founders Break Silence over Collapse of Crypto Hedge Fund](https://www.bloomberg.com/news/articles/2022-07-22/three-arrows-founders-en-route-to-dubai-describe-ltcm-moment)
-- [The trouble with symbolic links](https://lwn.net/Articles/899543/)
 <!-- BLOG-POST-LIST:END -->
