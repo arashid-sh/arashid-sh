@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
-- [Europe’s heatwave is forcing nuclear power plants to shut down](https://qz.com/1348969/europes-heatwave-is-forcing-nuclear-power-plants-to-shut-down/)
-- [Depression is probably not caused by a chemical imbalance in the brain](https://www.ucl.ac.uk/news/2022/jul/analysis-depression-probably-not-caused-chemical-imbalance-brain-new-study)
+- [MPC-HC v1.9.22](https://github.com/clsid2/mpc-hc/releases/tag/1.9.22)
+- [South Carolina bill outlaws websites that tell how to get an abortion](https://www.washingtonpost.com/technology/2022/07/22/south-carolina-bill-abortion-websites/)
 - [Eve Online&#39;s most notorious player has quit the game](https://www.pcgamer.com/eve-onlines-most-notorious-player-has-quit-the-game/)
-- [How to advertise to developers: deep dive into paid developer marketing](https://www.developermarkepear.com/blog/paid-advertising-developer-marketing)
-- [Ask HN: Do you maintain a list of RSS links of GOAT blogs?](https://news.ycombinator.com/item?id=32191140)
+- [The Inventor of Ibuprofen Tested the Drug on His Own Hangover](https://www.smithsonianmag.com/innovation/inventor-ibuprofen-tested-drug-his-own-hangover-180975088/)
+- [The Ex-CIA Agents Deciding Facebook’s Content Policy](https://www.mintpressnews.com/meet-ex-cia-agents-deciding-facebook-content-policy/281307/)
 <!-- BLOG-POST-LIST:END -->
