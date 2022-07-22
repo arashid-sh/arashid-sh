@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
-- [Why Books Don&#39;t Work: Constructivism over Transmissionism](https://www.masterhowtolearn.com/2021-01-30-why-books-dont-work-constructivism-over-transmissionism/)
-- [Ask HN: What are some &#39;cool&#39; but obscure data structures you know about?](https://news.ycombinator.com/item?id=32186203)
-- [PropelAuth &lpar;YC W22&rpar; Is Hiring Rust Developers &lpar;US Remote&rpar;](https://www.ycombinator.com/companies/propelauth/jobs/b0dl3wz-founding-backend-engineer)
-- [Solar flares could cause delays on the railways](https://www.ianvisits.co.uk/articles/solar-flares-could-cause-delays-on-the-railways-56083/)
-- [Hertz paid Accenture $32M for a website that never went live](https://www.henricodolfing.com/2019/10/case-study-hertz-accenture-website.html)
+- [Bacterial and fungal isolation from face masks under the Covid-19 pandemic](https://www.nature.com/articles/s41598-022-15409-x)
+- [Ask HN: What Are You Learning?](https://news.ycombinator.com/item?id=32187745)
+- [Some Thoughts on Zig](https://v5.chriskrycho.com/journal/some-thoughts-on-zig/)
+- [The True Costs of Inflation in Small-Town Texas](https://www.newyorker.com/news/letter-from-the-southwest/the-true-costs-of-inflation-in-small-town-texas)
+- [Universe-Altering Implications of Julia Roberts Plot Twist in ‘Ocean’s Twelve’](https://decider.com/2019/10/15/the-julia-roberts-paradox-of-oceans-twelve/)
 <!-- BLOG-POST-LIST:END -->
