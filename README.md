@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [The Impact of Posing with Cats on Female Perceptions of Male Dateability](https://www.mdpi.com/2076-2615/10/6/1007)
+- [Making a Maradona: Meat Consumption and Soccer Prowess](https://ideas.repec.org/p/aoz/wpaper/161.html)
+- [An informal review of CTF abuse](https://gynvael.coldwind.pl/?id=750)
 - [Why Writing Your Own Search Engine Is Hard &lpar;2004&rpar;](https://queue.acm.org/detail.cfm?id=988407)
-- [Trading Crypto and Forex with JavaScript](https://github.com/Reiryoku-Technologies/Mida)
-- [Monkeypox declared global health emergency by WHO as cases surge](https://www.theguardian.com/world/2022/jul/23/monkeypox-who-declares-public-health-emergency-of-international-concern)
-- [Keeper Tax &lpar;YC W19&rpar; is hiring a data engineer to save freelancers $ on taxes](https://www.ycombinator.com/companies/keeper-tax/jobs/skoGD7B-data-engineer)
-- [Lab-grown woolly mammoths could walk the Earth in six years](https://www.cnbc.com/2021/09/13/geneticist-george-church-gets-funding-for-lab-grown-woolly-mammoths.html)
+- [Stop saying “They shouldn&#39;t have invested more than they could afford to lose”](https://blog.mollywhite.net/stop-saying-they-shouldnt-have-invested-more-than-they-can-afford-to-lose/)
 <!-- BLOG-POST-LIST:END -->
