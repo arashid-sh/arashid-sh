@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
-- [Finally. Embed](https://thephd.dev/finally-embed-in-c23)
+- [Writing my PhD using groff](https://jstutter.netlify.app/)
+- [Embed is in C23](https://thephd.dev/finally-embed-in-c23)
 - [Google Search Results Plagued with spam “.it” domains](https://community.cloudflare.com/t/suffering-from-the-spam-pages-using-cloudflare-on-google-search-result/283152)
 - [This week in KDE: Tons of UI improvements and bugfixes](https://pointieststick.com/2022/07/22/this-week-in-kde-tons-of-ui-improvements-and-bugfixes/)
 - [Flexport Is Hiring Software Engineers](https://flexport.com/careers)
-- [Gnome Turns 25](https://hpjansson.org/blag/2022/07/23/gnome-at-25-a-health-checkup/)
 <!-- BLOG-POST-LIST:END -->
