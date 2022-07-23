@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [Twitter data breach exposes contact details for 5.4M accounts; on sale for $30k](https://9to5mac.com/2022/07/22/twitter-data-breach/)
+- [OfficerBreaker – pptx/docx/xlsx password remover](https://github.com/nedlir/OfficerBreaker)
 - [Vodafone and Deutsche Telekom to introduce persistent user tracking](https://blog.simpleanalytics.com/vodafone-deutsche-telekom-to-introduce-persistent-user-tracking)
 - [OneSignal &lpar;YC S11&rpar; is hiring back end and full stack engineers](https://onesignal.com/careers)
 - [Batman easter egg &lpar;click the bat signal&rpar;](https://www.google.com/search?q=gotham+city)
-- [The First Interview with the Panama Papers Whistleblower](https://www.spiegel.de/international/world/the-first-interview-with-the-panama-papers-whistleblower-the-russian-government-wants-to-see-me-dead-a-9f830d70-297a-472a-b0cc-9632ff2f514a)
-- [More invested in nuclear fusion in last 12 months than past decade](https://www.growthbusiness.co.uk/more-invested-in-nuclear-fusion-in-last-12-months-than-past-decade-2560528/)
 <!-- BLOG-POST-LIST:END -->
