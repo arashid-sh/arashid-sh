@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [Why Writing Your Own Search Engine Is Hard &lpar;2004&rpar;](https://queue.acm.org/detail.cfm?id=988407)
+- [Trading Crypto and Forex with JavaScript](https://github.com/Reiryoku-Technologies/Mida)
+- [Monkeypox declared global health emergency by WHO as cases surge](https://www.theguardian.com/world/2022/jul/23/monkeypox-who-declares-public-health-emergency-of-international-concern)
 - [Keeper Tax &lpar;YC W19&rpar; is hiring a data engineer to save freelancers $ on taxes](https://www.ycombinator.com/companies/keeper-tax/jobs/skoGD7B-data-engineer)
-- [Ask HN: Why are self-taught developers deprived of “free for education” tools?](https://news.ycombinator.com/item?id=32205036)
-- [Leaked documents reveal Amazon’s process to review employees’ worth to Amazon](https://fortune.com/2022/07/22/amazon-new-performance-review-process-leaked-how-managers-measure-employee-worth-and-pay/)
-- [Hunter-Gatherer Metallurgy in the Early Iron Age of Northern Fennoscandia &lpar;2021&rpar;](https://www.cambridge.org/core/journals/antiquity/article/huntergatherer-metallurgy-in-the-early-iron-age-of-northern-fennoscandia/0BD3D4FF8DF8A6A65F74526242A98C66)
-- [Efficient Dehumidifier Makes Air Conditioning a Breeze](https://www.pnnl.gov/news-media/efficient-dehumidifier-makes-air-conditioning-breeze)
+- [Lab-grown woolly mammoths could walk the Earth in six years](https://www.cnbc.com/2021/09/13/geneticist-george-church-gets-funding-for-lab-grown-woolly-mammoths.html)
 <!-- BLOG-POST-LIST:END -->
