@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: What is the job market like, for niche languages &lpar;Nim, crystal&rpar;?](https://news.ycombinator.com/item?id=32202798)
+- [A Clip from Stray Got Me Banned from Twitter](https://www.fanbyte.com/features/how-a-clip-from-stray-got-me-banned-from-twitter/)
 - [Writing my PhD using groff](https://jstutter.netlify.app/)
+- [A genetic modification boosts grain yields, shortens the growth duration of rice](https://www.science.org/content/article/supercharged-biotech-rice-yields-40-more-grain)
 - [Embed is in C23](https://thephd.dev/finally-embed-in-c23)
-- [Google Search Results Plagued with spam “.it” domains](https://community.cloudflare.com/t/suffering-from-the-spam-pages-using-cloudflare-on-google-search-result/283152)
-- [This week in KDE: Tons of UI improvements and bugfixes](https://pointieststick.com/2022/07/22/this-week-in-kde-tons-of-ui-improvements-and-bugfixes/)
-- [Flexport Is Hiring Software Engineers](https://flexport.com/careers)
 <!-- BLOG-POST-LIST:END -->
