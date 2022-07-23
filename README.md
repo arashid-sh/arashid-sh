@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
-- [Spain will introduce free train travel](https://www.bloomberg.com/news/articles/2022-07-15/spain-will-introduce-free-train-travel-to-help-ease-the-cost-of-living)
-- [WHO declares monkeypox a public health emergency](https://www.statnews.com/2022/07/23/who-declares-monkeypox-outbreak-a-public-health-emergency/)
-- [Are language models deprived of electric sleep?](https://blog.cbs.dk/inframethodology/?p=5386)
-- [Ask HN: What is the job market like, for niche languages &lpar;Nim, crystal&rpar;?](https://news.ycombinator.com/item?id=32202798)
-- [A clip from Stray got me banned from Twitter](https://www.fanbyte.com/features/how-a-clip-from-stray-got-me-banned-from-twitter/)
+- [Keeper Tax &lpar;YC W19&rpar; is hiring a data engineer to save freelancers $ on taxes](https://www.ycombinator.com/companies/keeper-tax/jobs/skoGD7B-data-engineer)
+- [Ask HN: Why are self-taught developers deprived of “free for education” tools?](https://news.ycombinator.com/item?id=32205036)
+- [Leaked documents reveal Amazon’s process to review employees’ worth to Amazon](https://fortune.com/2022/07/22/amazon-new-performance-review-process-leaked-how-managers-measure-employee-worth-and-pay/)
+- [Hunter-Gatherer Metallurgy in the Early Iron Age of Northern Fennoscandia &lpar;2021&rpar;](https://www.cambridge.org/core/journals/antiquity/article/huntergatherer-metallurgy-in-the-early-iron-age-of-northern-fennoscandia/0BD3D4FF8DF8A6A65F74526242A98C66)
+- [Efficient Dehumidifier Makes Air Conditioning a Breeze](https://www.pnnl.gov/news-media/efficient-dehumidifier-makes-air-conditioning-breeze)
 <!-- BLOG-POST-LIST:END -->
