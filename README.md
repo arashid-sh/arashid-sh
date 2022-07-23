@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [Google Search Results Plagued with spam “.it” domains](https://community.cloudflare.com/t/suffering-from-the-spam-pages-using-cloudflare-on-google-search-result/283152)
 - [This week in KDE: Tons of UI improvements and bugfixes](https://pointieststick.com/2022/07/22/this-week-in-kde-tons-of-ui-improvements-and-bugfixes/)
 - [Flexport Is Hiring Software Engineers](https://flexport.com/careers)
+- [Gnome Turns 25](https://hpjansson.org/blag/2022/07/23/gnome-at-25-a-health-checkup/)
 - [FBI investigation determined Huawei equipment could disrupt US nuclear comms](https://www.cnn.com/2022/07/23/politics/fbi-investigation-huawei-china-defense-department-communications-nuclear/index.html)
-- [Show HN: RawInputViewer – examine how games receive inputs from Windows](https://github.com/EsportToys/RawInputViewer)
-- [Game engines are more than libraries glued together](https://www.leafwing-studios.com/blog/game-engine-glue/)
 <!-- BLOG-POST-LIST:END -->
