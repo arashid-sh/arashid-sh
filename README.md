@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: What is the job market like, for niche languages &lpar;Nim, crystal&rpar;?](https://news.ycombinator.com/item?id=32202798)
+- [Kafka on Kubernetes: What could go wrong?](https://redpanda.com/blog/kafka-kubernetes-deployment-pros-cons)
 - [A Clip from Stray Got Me Banned from Twitter](https://www.fanbyte.com/features/how-a-clip-from-stray-got-me-banned-from-twitter/)
 - [Writing my PhD using groff](https://jstutter.netlify.app/)
 - [A genetic modification boosts grain yields, shortens the growth duration of rice](https://www.science.org/content/article/supercharged-biotech-rice-yields-40-more-grain)
