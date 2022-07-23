@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 - [I&#39;ve now used Linux nftables for firewall rules and it went okay](https://utcc.utoronto.ca/~cks/space/blog/linux/NFTablesInoffensive)
 - [FBI investigation determined Huawei equipment could disrupt US nuclear comms](https://www.cnn.com/2022/07/23/politics/fbi-investigation-huawei-china-defense-department-communications-nuclear/index.html)
 - [Show HN: RawInputViewer – examine how games receive inputs from Windows](https://github.com/EsportToys/RawInputViewer)
-- [Why aren’t extraverts rich?](https://betonit.substack.com/p/why-arent-extraverts-rich)
-- [Ask HN: Why don&#39;t file systems and OS&#39;s provide file system transactions?](https://news.ycombinator.com/item?id=32200007)
+- [“On 16th Mar, 1968 Thompson realised he witnessed something: A massacre”](https://twitter.com/garius/status/1550397462355009536)
+- [GoodbyeDPI: Deep Packet Inspection circumvention utility](https://github.com/ValdikSS/GoodbyeDPI)
 <!-- BLOG-POST-LIST:END -->
