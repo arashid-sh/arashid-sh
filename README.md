@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [I&#39;ve now used Linux nftables for firewall rules and it went okay](https://utcc.utoronto.ca/~cks/space/blog/linux/NFTablesInoffensive)
 - [FBI investigation determined Huawei equipment could disrupt US nuclear comms](https://www.cnn.com/2022/07/23/politics/fbi-investigation-huawei-china-defense-department-communications-nuclear/index.html)
-- [Ask HN: Why Don&#39;t Filesystems and OS&#39;s Provide Filesystem Transactions?](https://news.ycombinator.com/item?id=32200007)
-- [GoodbyeDPI: Deep Packet Inspection circumvention utility](https://github.com/ValdikSS/GoodbyeDPI)
-- [Interactive exploration of Boston&#39;s subway system](http://mbtaviz.github.io/)
-- [Svix, the Enterprise Ready Webhook Service &lpar;YC W21&rpar; Is Hiring &lpar;Remote&rpar;](https://www.svix.com/careers/)
+- [Show HN: RawInputViewer – examine how games receive inputs from Windows](https://github.com/EsportToys/RawInputViewer)
+- [Why aren’t extraverts rich?](https://betonit.substack.com/p/why-arent-extraverts-rich)
+- [Ask HN: Why don&#39;t file systems and OS&#39;s provide file system transactions?](https://news.ycombinator.com/item?id=32200007)
 <!-- BLOG-POST-LIST:END -->
