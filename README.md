@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [California went big on rooftop solar. Now that’s a problem for landfills](https://12ft.io/proxy?q=https%3A%2F%2Fwww.latimes.com%2Fbusiness%2Fstory%2F2022-07-14%2Fcalifornia-rooftop-solar-pv-panels-recycling-danger)
+- [Google Fires Blake Lemoine, Engineer Who Called Its AI Sentient](https://bigtechnology.substack.com/p/google-fires-blake-lemoine-engineer)
+- [Hacker Lab Is Closing](https://hackerlab.org/en)
 - [Two containers with same number detected in Chittagong port](https://container-news.com/two-containers-with-same-number-detected-in-chittagong-port/)
 - [What I don’t like about working at a remote job](https://www.priconceptions.com/notebook/remote-jobs-bad)
-- [Tesorio &lpar;YC S15&rpar; is hiring a senior front end engineer and support engineer](https://www.tesorio.com/careers#job-openings)
-- [We&#39;re going to need a lot of solar panels](https://caseyhandmer.wordpress.com/2022/07/22/were-going-to-need-a-lot-of-solar-panels/)
-- [Soon, life for 40M people who depend on the Colorado River will change](https://www.denverpost.com/2022/07/21/colorado-river-drought-water-crisis-west/)
 <!-- BLOG-POST-LIST:END -->
