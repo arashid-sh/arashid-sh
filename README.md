@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [Apple Silicon is an inconvenient truth](https://daringfireball.net/linked/2022/07/23/apple-silicon-inconvenient-truth)
+- [The audacious PR plot that seeded doubt about climate change](https://www.bbc.com/news/science-environment-62225696)
+- [Health effects of the use of non-sugar sweeteners: a review and meta-analysis](https://www.who.int/publications-detail-redirect/9789240046429)
 - [Twitter data breach exposes contact details for 5.4M accounts; on sale for $30k](https://9to5mac.com/2022/07/22/twitter-data-breach/)
 - [OfficerBreaker – pptx/docx/xlsx password remover](https://github.com/nedlir/OfficerBreaker)
-- [Vodafone and Deutsche Telekom to introduce persistent user tracking](https://blog.simpleanalytics.com/vodafone-deutsche-telekom-to-introduce-persistent-user-tracking)
-- [OneSignal &lpar;YC S11&rpar; is hiring back end and full stack engineers](https://onesignal.com/careers)
-- [Batman easter egg &lpar;click the bat signal&rpar;](https://www.google.com/search?q=gotham+city)
 <!-- BLOG-POST-LIST:END -->
