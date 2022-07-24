@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
-- [The Creepiest Cycling Condition: Shermer’s Neck](https://www.welovecycling.com/wide/2017/08/10/creepiest-cycling-condition-shermers-neck/)
-- [OpenXanadu](https://xanadu.com/xanademos/MoeJusteOrigins.html)
-- [Standard Ebooks](https://standardebooks.org/)
-- [Take More Screenshots](https://alexwlchan.net/2022/07/screenshots/)
-- [Factor: A Practical Stack Language](https://factorcode.org/)
+- [Oblique Strategies on GameBoy](https://nickyflowers.itch.io/osgb)
+- [Kubernetes for Developers Who Know How to Develop](https://blog.ali.dev/engineering/2022/01/13/k8s-for-developers/)
+- [The World That Twitter Never Made](https://scholars-stage.org/the-world-that-twitter-never-made/)
+- [Samsung asks for planning permission for 11 fabs in Texas](https://www.electronicsweekly.com/uncategorised/802190-2022-07/)
+- [DwarFS: A fast high compression read-only file system](https://github.com/mhx/dwarfs)
 <!-- BLOG-POST-LIST:END -->
