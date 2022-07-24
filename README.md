@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [The Docker, Kubernetes, Terraform, and AWS crash course series](https://blog.gruntwork.io/the-docker-kubernetes-terraform-and-aws-crash-course-series-dca343ba1274?gi=96ef3b8ffd04)
+- [Two decades of Alzheimer’s research was based on deliberate fraud](https://wallstreetpro.com/2022/07/23/two-decades-of-alzheimers-research-was-based-on-deliberate-fraud-by-2-scientists-that-has-cost-billions-of-dollars-and-millions-of-lives/)
 - [Show HN: Kvass, a personal key-value store](https://github.com/maxmunzel/kvass)
 - [Tech booms fuelled liveability busts in Silicon Valley and Bengaluru](https://daily.thesignal.co/p/a-tale-of-two-valleys)
-- [Body integrity identity disorder &lpar;BIID&rpar;: How satisfied are successful wannabes [pdf]](https://opus.bsz-bw.de/msh/frontdoor/deliver/index/docId/37/file/BIID_successful_Wannabes.pdf)
-- [Prima: Cross-platform GUI toolkit written in Perl](https://github.com/dk/Prima)
-- [Ask HN: What is a sustainable methodology for taking notes of your learning?](https://news.ycombinator.com/item?id=32211734)
+- [Body integrity identity disorder patient satisfaction after surgery &lpar;2014&rpar; [pdf]](https://opus.bsz-bw.de/msh/frontdoor/deliver/index/docId/37/file/BIID_successful_Wannabes.pdf)
 <!-- BLOG-POST-LIST:END -->
