@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [1,700 Free Online Courses from Top Universities](https://www.openculture.com/freeonlinecourses)
+- [At 88, Poker Legend Doyle Brunson Is Still Bluffing. Or Is He?](https://www.texasmonthly.com/arts-entertainment/doyle-brunson-poker-legend/)
 - [The Docker, Kubernetes, Terraform, and AWS crash course series](https://blog.gruntwork.io/the-docker-kubernetes-terraform-and-aws-crash-course-series-dca343ba1274?gi=96ef3b8ffd04)
 - [Two decades of Alzheimer’s research was based on deliberate fraud](https://wallstreetpro.com/2022/07/23/two-decades-of-alzheimers-research-was-based-on-deliberate-fraud-by-2-scientists-that-has-cost-billions-of-dollars-and-millions-of-lives/)
-- [Show HN: Kvass, a personal key-value store](https://github.com/maxmunzel/kvass)
-- [Tech booms fuelled liveability busts in Silicon Valley and Bengaluru](https://daily.thesignal.co/p/a-tale-of-two-valleys)
-- [Body integrity identity disorder patient satisfaction after surgery &lpar;2014&rpar; [pdf]](https://opus.bsz-bw.de/msh/frontdoor/deliver/index/docId/37/file/BIID_successful_Wannabes.pdf)
+- [Facial Hair Tracking for High Fidelity Performance Capture](https://studios.disneyresearch.com/2022/07/24/facial-hair-tracking-for-high-fidelity-performance-capture/)
 <!-- BLOG-POST-LIST:END -->
