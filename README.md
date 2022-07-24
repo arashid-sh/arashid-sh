@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
-- [Apple Silicon is an inconvenient truth](https://daringfireball.net/linked/2022/07/23/apple-silicon-inconvenient-truth)
-- [The audacious PR plot that seeded doubt about climate change](https://www.bbc.com/news/science-environment-62225696)
-- [Health effects of the use of non-sugar sweeteners: a review and meta-analysis](https://www.who.int/publications-detail-redirect/9789240046429)
-- [Twitter data breach exposes contact details for 5.4M accounts; on sale for $30k](https://9to5mac.com/2022/07/22/twitter-data-breach/)
-- [OfficerBreaker – pptx/docx/xlsx password remover](https://github.com/nedlir/OfficerBreaker)
+- [WHO declares monkeypox a public health emergency of international concern](https://www.cnn.com/2022/07/23/health/monkeypox-who-intl/index.html)
+- [Male ‘biological clock’ can affect chances of birth more than was thought](https://www.theguardian.com/society/2022/jul/23/male-biological-clock-age-of-father-can-affect-chances-of-birth-new-research-shows)
+- [A chess robot in Moscow has broken the finger of its human opponent](https://newsbeezer.com/czechrepubliceng/a-chess-robot-in-moscow-has-broken-the-finger-of-its-human-opponent/)
+- [How to Fold a Julia Fractal – A tale of numbers that like to turn &lpar;2013&rpar;](https://acko.net/blog/how-to-fold-a-julia-fractal/)
+- [Ivy &lpar;YC W23&rpar; is hiring engineers to help unify ML](https://www.ycombinator.com/companies/ivy/jobs)
 <!-- BLOG-POST-LIST:END -->
