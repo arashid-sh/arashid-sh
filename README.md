@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
-- [1,700 Free Online Courses from Top Universities](https://www.openculture.com/freeonlinecourses)
-- [At 88, Poker Legend Doyle Brunson Is Still Bluffing. Or Is He?](https://www.texasmonthly.com/arts-entertainment/doyle-brunson-poker-legend/)
-- [The Docker, Kubernetes, Terraform, and AWS crash course series](https://blog.gruntwork.io/the-docker-kubernetes-terraform-and-aws-crash-course-series-dca343ba1274?gi=96ef3b8ffd04)
-- [Two decades of Alzheimer’s research was based on deliberate fraud](https://wallstreetpro.com/2022/07/23/two-decades-of-alzheimers-research-was-based-on-deliberate-fraud-by-2-scientists-that-has-cost-billions-of-dollars-and-millions-of-lives/)
-- [Facial Hair Tracking for High Fidelity Performance Capture](https://studios.disneyresearch.com/2022/07/24/facial-hair-tracking-for-high-fidelity-performance-capture/)
+- [Vi Hart: Hexaflexagons [video]](https://www.youtube.com/watch?v=VIVIegSt81k&list=PLaNzoFtkQ7rbt5ac9qdi76iNKuqZWQkB3)
+- [Show HN: SkillPress – Learn JavaScript via spaced repetition and active recall](https://app.skillpress.io/study/19/course/23)
+- [Porn use and men&#39;s and women&#39;s sexual performance](https://www.cambridge.org/core/journals/psychological-medicine/article/porn-use-and-mens-and-womens-sexual-performance-evidence-from-a-large-longitudinal-sample/665B68D9E195A19B5825F9411B059927)
+- [A new way to predict when software jobs will become automated](https://aifuture.substack.com/p/will-ai-target-your-job-next)
+- [Behavioral science: No evidence for nudging after adjusting for publication bias](https://www.pnas.org/doi/10.1073/pnas.2200300119)
 <!-- BLOG-POST-LIST:END -->
