@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [Performance comparison: counting words in Python, C/C++, Awk, Rust, and more](https://benhoyt.com/writings/count-words/)
+- [Non-Obvious Docker Uses](https://matt-rickard.com/non-obvious-docker-uses/)
 - [Vi Hart: Hexaflexagons [video]](https://www.youtube.com/watch?v=VIVIegSt81k&list=PLaNzoFtkQ7rbt5ac9qdi76iNKuqZWQkB3)
 - [Show HN: SkillPress – Learn JavaScript via spaced repetition and active recall](https://app.skillpress.io/study/19/course/23)
 - [Porn use and men&#39;s and women&#39;s sexual performance](https://www.cambridge.org/core/journals/psychological-medicine/article/porn-use-and-mens-and-womens-sexual-performance-evidence-from-a-large-longitudinal-sample/665B68D9E195A19B5825F9411B059927)
-- [A new way to predict when software jobs will become automated](https://aifuture.substack.com/p/will-ai-target-your-job-next)
-- [Behavioral science: No evidence for nudging after adjusting for publication bias](https://www.pnas.org/doi/10.1073/pnas.2200300119)
 <!-- BLOG-POST-LIST:END -->
