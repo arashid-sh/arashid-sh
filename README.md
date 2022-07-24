@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [Show HN: Kvass, a personal key-value store](https://github.com/maxmunzel/kvass)
+- [Tech booms fuelled liveability busts in Silicon Valley and Bengaluru](https://daily.thesignal.co/p/a-tale-of-two-valleys)
 - [Body integrity identity disorder &lpar;BIID&rpar;: How satisfied are successful wannabes [pdf]](https://opus.bsz-bw.de/msh/frontdoor/deliver/index/docId/37/file/BIID_successful_Wannabes.pdf)
 - [Prima: Cross-platform GUI toolkit written in Perl](https://github.com/dk/Prima)
 - [Ask HN: What is a sustainable methodology for taking notes of your learning?](https://news.ycombinator.com/item?id=32211734)
-- [How did the Dominican Republic become so much richer than Haiti?](https://www.thefitzwilliam.com/p/hispaniolas-great-divergence)
-- [How to drive away your best engineers](https://blog.hulacorn.com/2021/09/08/how-to-drive-away-your-best-engineers/)
 <!-- BLOG-POST-LIST:END -->
