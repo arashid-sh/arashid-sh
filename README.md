@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [Library Writing Realizations &lpar;2015&rpar;](http://cbloomrants.blogspot.com/2015/09/library-writing-realizations.html)
+- [Mike Florio: Report Google Has Made a Bid for NFL Sunday Ticket](https://profootballtalk.nbcsports.com/2022/07/24/report-google-has-made-a-bid-for-sunday-ticket/)
+- [/dev/null: Anti-Cheat Kernel Driver &lpar;2020&rpar;](https://www.leagueoflegends.com/en-us/news/dev/dev-null-anti-cheat-kernel-driver/)
 - [Oblique Strategies on GameBoy](https://nickyflowers.itch.io/osgb)
 - [Kubernetes for Developers Who Know How to Develop](https://blog.ali.dev/engineering/2022/01/13/k8s-for-developers/)
-- [The World That Twitter Never Made](https://scholars-stage.org/the-world-that-twitter-never-made/)
-- [Samsung asks for planning permission for 11 fabs in Texas](https://www.electronicsweekly.com/uncategorised/802190-2022-07/)
-- [DwarFS: A fast high compression read-only file system](https://github.com/mhx/dwarfs)
 <!-- BLOG-POST-LIST:END -->
