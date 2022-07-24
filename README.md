@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
-- [WHO declares monkeypox a public health emergency of international concern](https://www.cnn.com/2022/07/23/health/monkeypox-who-intl/index.html)
-- [Male ‘biological clock’ can affect chances of birth more than was thought](https://www.theguardian.com/society/2022/jul/23/male-biological-clock-age-of-father-can-affect-chances-of-birth-new-research-shows)
+- [Burning Ship Fractal](http://www.paulbourke.net/fractals/burnship/)
+- [Ask HN: What are some keywords you track everyday?](https://news.ycombinator.com/item?id=32210004)
 - [A chess robot in Moscow has broken the finger of its human opponent](https://newsbeezer.com/czechrepubliceng/a-chess-robot-in-moscow-has-broken-the-finger-of-its-human-opponent/)
 - [How to Fold a Julia Fractal – A tale of numbers that like to turn &lpar;2013&rpar;](https://acko.net/blog/how-to-fold-a-julia-fractal/)
-- [Ivy &lpar;YC W23&rpar; is hiring engineers to help unify ML](https://www.ycombinator.com/companies/ivy/jobs)
+- [Does the Past Still Exist?](http://backreaction.blogspot.com/2022/07/does-past-still-exist.html)
 <!-- BLOG-POST-LIST:END -->
