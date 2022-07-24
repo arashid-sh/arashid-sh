@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [Xz format considered inadequate for long-term archiving](https://www.nongnu.org/lzip/xz_inadequate.html)
+- [Wikenigma is an encyclopedia for topics with unknown answers](https://wikenigma.org.uk/)
+- [François Chollet: Amazon sales of Deep Learning with Python are 100% counterfeit](https://twitter.com/fchollet/status/1550930876183166976)
 - [Burning Ship Fractal](http://www.paulbourke.net/fractals/burnship/)
 - [Ask HN: What are some keywords you track everyday?](https://news.ycombinator.com/item?id=32210004)
-- [A chess robot in Moscow has broken the finger of its human opponent](https://newsbeezer.com/czechrepubliceng/a-chess-robot-in-moscow-has-broken-the-finger-of-its-human-opponent/)
-- [How to Fold a Julia Fractal – A tale of numbers that like to turn &lpar;2013&rpar;](https://acko.net/blog/how-to-fold-a-julia-fractal/)
-- [Does the Past Still Exist?](http://backreaction.blogspot.com/2022/07/does-past-still-exist.html)
 <!-- BLOG-POST-LIST:END -->
