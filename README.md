@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [In Praise of Stacked PRs](https://benjamincongdon.me/blog/2022/07/17/In-Praise-of-Stacked-PRs/)
+- [Prior Omicron infection protects against BA.4 and BA.5 variants](https://www.nature.com/articles/d41586-022-01950-2)
+- [Shite: The little static shite generator from shell](https://github.com/adityaathalye/shite)
+- [AWS open sourced the AWS console design system](https://github.com/cloudscape-design/components)
 - [Performance comparison: counting words in Python, C/C++, Awk, Rust, and more](https://benhoyt.com/writings/count-words/)
-- [Non-Obvious Docker Uses](https://matt-rickard.com/non-obvious-docker-uses/)
-- [Vi Hart: Hexaflexagons [video]](https://www.youtube.com/watch?v=VIVIegSt81k&list=PLaNzoFtkQ7rbt5ac9qdi76iNKuqZWQkB3)
-- [Show HN: SkillPress – Learn JavaScript via spaced repetition and active recall](https://app.skillpress.io/study/19/course/23)
-- [Porn use and men&#39;s and women&#39;s sexual performance](https://www.cambridge.org/core/journals/psychological-medicine/article/porn-use-and-mens-and-womens-sexual-performance-evidence-from-a-large-longitudinal-sample/665B68D9E195A19B5825F9411B059927)
 <!-- BLOG-POST-LIST:END -->
