@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [Ask HN: Why do you make class members private?](https://news.ycombinator.com/item?id=32227737)
+- [Safely Dropping MySQL Tables](https://planetscale.com/blog/safely-dropping-mysql-tables)
 - [FCC fines Charter, LTD Broadband more than $3M for RDOF defaults](https://www.fiercetelecom.com/telecom/fcc-fines-charter-ltd-broadband-more-3-million-rdof-defaults)
 - [Fedora to disallow CC0-licensed code](https://lwn.net/Articles/902410/)
-- [Ask HN: I&#39;m in a rut. How did you get out of yours?](https://news.ycombinator.com/item?id=32226910)
 - [Why Academic Freedom Matters &lpar;2021&rpar;](https://ravenmagazine.org/magazine/why-academic-freedom-matters/)
-- [It’s time to leave the leap second in the past](https://engineering.fb.com/2022/07/25/production-engineering/its-time-to-leave-the-leap-second-in-the-past/)
 <!-- BLOG-POST-LIST:END -->
