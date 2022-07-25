@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
-- [Strawman? Steelman? How to Starman: Arguing from Compassion](https://centerforinquiry.org/blog/how-to-star-man-arguing-from-compassion/)
-- [The GNU Name System](https://www.gnunet.org/en/gns.html)
-- [The EU has quietly provided Morocco with powerful phone hacking systems [French]](https://disclose.ngo/fr/article/union-europeenne-a-discretement-fourni-au-maroc-de-puissants-systemes-de-piratage-des-telephones)
-- [Handshake – Decentralized naming and certificate authority](https://handshake.org/)
-- [Considering Sourcehut](https://postmarketos.org/blog/2022/07/25/considering-sourcehut/)
+- [Ask HN: What are the best programming tricks you know?](https://news.ycombinator.com/item?id=32223834)
+- [How the Path to Home Ownership Runs Through Mexico](https://www.nytimes.com/2022/07/25/realestate/homeownership-san-diego-tijuana-mexico.html)
+- [Likely cause of mystery child hepatitis outbreak found](https://www.bbc.co.uk/news/health-61269586)
+- [Google Kubernetes clusters config checker tool](https://github.com/google/gke-policy-automation)
+- [Google Launches Carbon, an Experimental Replacement for C++](https://thenewstack.io/google-launches-carbon-an-experimental-replacement-for-c/)
 <!-- BLOG-POST-LIST:END -->
