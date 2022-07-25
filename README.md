@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
-- [Perseus-9 homemade mobile dual 6502 computer](https://hackaday.io/project/186479-perseus-9-homemade-mobile-6502-computer)
+- [Towards robot accelerators, democratizing hardware acceleration in robotics](https://news.accelerationrobotics.com/towards-robot-accelerators-democratizing-hardware-acceleration-in-robotics/)
 - [Finishing what you start makes teams more productive and predictable](https://lucasfcosta.com/2022/07/19/finish-what-you-start.html)
 - [Ask HN: Why are there so few “artificial sunlight”/“artificial window” products?](https://news.ycombinator.com/item?id=32220349)
 - [Ask HN: YouTube Channels for the Intellectually Curious](https://news.ycombinator.com/item?id=32220192)
