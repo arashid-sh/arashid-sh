@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
-- [Faked Beta-Amyloid Data. What Does It Mean?](https://www.science.org/content/blog-post/faked-beta-amyloid-data-what-does-it-mean)
-- [Lockdown: The coming war on general-purpose computing](https://memex.craphound.com/2012/01/10/lockdown-the-coming-war-on-general-purpose-computing/)
-- [Two Weeks In, the Webb Space Telescope Is Reshaping Astronomy](https://www.quantamagazine.org/two-weeks-in-the-webb-space-telescope-is-reshaping-astronomy-20220725/)
-- [Show HN: Search PDFs with Transformers and Python Notebook](https://colab.research.google.com/github/jina-ai/workshops/blob/main/pdf_search/pdf_search.ipynb)
-- [Your Code Doesn&#39;t Have to Be a Mess](https://www.danielsieger.com/blog/2022/07/25/your-code-doesnt-have-to-be-a-mess.html)
+- [Average new car transaction price hits a record $48,043](https://www.autoblog.com/article/new-car-average-transaction-price-record-high/)
+- [An Economy of Overfed Middlemen](https://mattstoller.substack.com/p/a-moat-trajectory)
+- [Zettelkasten 101 Series: What Is a Fleeting Note?](https://writing.bobdoto.computer/what-is-a-fleeting-note/)
+- [The Upper Middle Class Is Getting Squeezed](https://www.wsj.com/articles/the-upper-middle-class-is-getting-squeezed-11658741402)
+- [The Wang 2200 &lpar;2008&rpar;](http://www.wang2200.org/)
 <!-- BLOG-POST-LIST:END -->
