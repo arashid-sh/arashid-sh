@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
-- [Average new car transaction price hits a record $48,043](https://www.autoblog.com/article/new-car-average-transaction-price-record-high/)
-- [An Economy of Overfed Middlemen](https://mattstoller.substack.com/p/a-moat-trajectory)
-- [Zettelkasten 101 Series: What Is a Fleeting Note?](https://writing.bobdoto.computer/what-is-a-fleeting-note/)
-- [The Upper Middle Class Is Getting Squeezed](https://www.wsj.com/articles/the-upper-middle-class-is-getting-squeezed-11658741402)
-- [The Wang 2200 &lpar;2008&rpar;](http://www.wang2200.org/)
+- [FCC fines Charter, LTD Broadband more than $3M for RDOF defaults](https://www.fiercetelecom.com/telecom/fcc-fines-charter-ltd-broadband-more-3-million-rdof-defaults)
+- [Fedora to disallow CC0-licensed code](https://lwn.net/Articles/902410/)
+- [Ask HN: I&#39;m in a rut. How did you get out of yours?](https://news.ycombinator.com/item?id=32226910)
+- [Why Academic Freedom Matters &lpar;2021&rpar;](https://ravenmagazine.org/magazine/why-academic-freedom-matters/)
+- [It’s time to leave the leap second in the past](https://engineering.fb.com/2022/07/25/production-engineering/its-time-to-leave-the-leap-second-in-the-past/)
 <!-- BLOG-POST-LIST:END -->
