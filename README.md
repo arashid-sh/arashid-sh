@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
-- [Google Fonts Pull Requests Ignored](https://news.ycombinator.com/item?id=32229762)
+- [Show HN: PickCode – An educational coding environment for students after Scratch](https://www.pickcode.io/)
+- [Embodied Carbon: The Dirty Secret of SSDs &lpar;8x More Than HDD&rpar;](https://arxiv.org/abs/2207.10793)
+- [Yes, the 8086 wanted to be mechanically translatable from the 8080, but](https://devblogs.microsoft.com/oldnewthing/20220725-00/?p=106889)
 - [Show HN: I built an email marketing tool made for indie hackers and solopreneurs](https://www.useplunk.com)
 - [What I Learned at Clubhouse](https://anu.substack.com/p/what-i-learned-at-clubhouse-)
-- [Coding Mistake Made Intel GPUs 100X Slower in Ray Tracing](https://www.tomshardware.com/news/intel-gpu-100x-performance-ray-tracing)
-- [Data-Parallel Actors: A Programming Model for Scalable Query Serving Systems](https://www.micahlerner.com/2022/06/04/data-parallel-actors-a-programming-model-for-scalable-query-serving-systems.html)
 <!-- BLOG-POST-LIST:END -->
