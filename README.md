@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [Google Fonts Pull Requests Ignored](https://news.ycombinator.com/item?id=32229762)
+- [Show HN: I built an email marketing tool made for indie hackers and solopreneurs](https://www.useplunk.com)
 - [What I Learned at Clubhouse](https://anu.substack.com/p/what-i-learned-at-clubhouse-)
 - [Coding Mistake Made Intel GPUs 100X Slower in Ray Tracing](https://www.tomshardware.com/news/intel-gpu-100x-performance-ray-tracing)
 - [Data-Parallel Actors: A Programming Model for Scalable Query Serving Systems](https://www.micahlerner.com/2022/06/04/data-parallel-actors-a-programming-model-for-scalable-query-serving-systems.html)
-- [Safely Dropping MySQL Tables](https://planetscale.com/blog/safely-dropping-mysql-tables)
-- [FCC fines Charter, LTD Broadband more than $3M for RDOF defaults](https://www.fiercetelecom.com/telecom/fcc-fines-charter-ltd-broadband-more-3-million-rdof-defaults)
 <!-- BLOG-POST-LIST:END -->
