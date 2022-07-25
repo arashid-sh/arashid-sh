@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [A coding error caused Rogers outage that left millions without service](https://web.archive.org/web/20220725181315/https://www.theglobeandmail.com/business/article-how-a-coding-error-caused-rogers-outage-that-left-millions-without/)
+- [‘Solar Tower’ System Produces Jet Fuel from CO2, Water, and Sunlight](https://singularityhub.com/2022/07/25/this-solar-tower-system-produces-jet-fuel-from-co2-water-and-sunlight/)
+- [I bought a cheap electric pickup truck from Alibaba. Here’s what showed up](https://electrek.co/2021/10/25/i-actually-bought-a-cheap-electric-pickup-truck-from-alibaba-heres-what-showed-up/)
 - [Clerky is hiring senior software engineers – Full Stack · Ruby on Rails · Remote](https://jobs.lever.co/clerky/295375d9-c3d9-4ec8-99e0-bc5ac6232a64)
 - [Whole Genome Sequencing](https://sequencing.com/)
-- [Show HN: PickCode – An educational coding environment for students after Scratch](https://www.pickcode.io/)
-- [Embodied Carbon: The Dirty Secret of SSDs &lpar;8x More Than HDD&rpar;](https://arxiv.org/abs/2207.10793)
-- [Yes, the 8086 wanted to be mechanically translatable from the 8080, but](https://devblogs.microsoft.com/oldnewthing/20220725-00/?p=106889)
 <!-- BLOG-POST-LIST:END -->
