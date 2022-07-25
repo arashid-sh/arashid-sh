@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [The audacious PR plot that seeded doubt about climate change](https://www.bbc.co.uk/news/science-environment-62225696)
 - [Considering Sourcehut](https://postmarketos.org/blog/2022/07/25/considering-sourcehut/)
 - [Towards robot accelerators, democratizing hardware acceleration in robotics](https://news.accelerationrobotics.com/towards-robot-accelerators-democratizing-hardware-acceleration-in-robotics/)
 - [Deutsche Bahn’s Meltdown and High-Speed Rail](https://pedestrianobservations.com/2022/07/24/deutsche-bahns-meltdown-and-high-speed-rail/)
-- [Finishing what you start makes teams more productive and predictable](https://lucasfcosta.com/2022/07/19/finish-what-you-start.html)
-- [Ask HN: Why are there so few “artificial sunlight”/“artificial window” products?](https://news.ycombinator.com/item?id=32220349)
+- [Perseus-9 homemade mobile dual 6502 computer](https://hackaday.io/project/186479-perseus-9-homemade-mobile-6502-computer)
 <!-- BLOG-POST-LIST:END -->
