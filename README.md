@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
-- [Mechanics invent an axle that can achieve steering angles of up to 80 degrees](https://interestingengineering.com/axle-steering-angles-80-degrees)
-- [Ask HN: Does anyone here makes sw for kiosks, infotainments or similar?](https://news.ycombinator.com/item?id=32223919)
-- [Road dust: a literature review](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5968206/)
-- [Round a direction vector to an 8-way compass](https://lemire.me/blog/2022/07/24/round-a-direction-vector-to-the-nearest-8-way-compass/)
-- [Cinema’s greatest scene: ‘Casablanca’ and ‘La Marseillaise’](https://seveninchesofyourtime.com/cinemas-greatest-scene-casablanca-and-la-marseillaise/)
+- [Faked Beta-Amyloid Data. What Does It Mean?](https://www.science.org/content/blog-post/faked-beta-amyloid-data-what-does-it-mean)
+- [Lockdown: The coming war on general-purpose computing](https://memex.craphound.com/2012/01/10/lockdown-the-coming-war-on-general-purpose-computing/)
+- [Two Weeks In, the Webb Space Telescope Is Reshaping Astronomy](https://www.quantamagazine.org/two-weeks-in-the-webb-space-telescope-is-reshaping-astronomy-20220725/)
+- [Show HN: Search PDFs with Transformers and Python Notebook](https://colab.research.google.com/github/jina-ai/workshops/blob/main/pdf_search/pdf_search.ipynb)
+- [Your Code Doesn&#39;t Have to Be a Mess](https://www.danielsieger.com/blog/2022/07/25/your-code-doesnt-have-to-be-a-mess.html)
 <!-- BLOG-POST-LIST:END -->
