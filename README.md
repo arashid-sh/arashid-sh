@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: What are the best programming tricks you know?](https://news.ycombinator.com/item?id=32223834)
-- [How the Path to Home Ownership Runs Through Mexico](https://www.nytimes.com/2022/07/25/realestate/homeownership-san-diego-tijuana-mexico.html)
-- [Likely cause of mystery child hepatitis outbreak found](https://www.bbc.co.uk/news/health-61269586)
-- [Google Kubernetes clusters config checker tool](https://github.com/google/gke-policy-automation)
-- [Google Launches Carbon, an Experimental Replacement for C++](https://thenewstack.io/google-launches-carbon-an-experimental-replacement-for-c/)
+- [Mechanics invent an axle that can achieve steering angles of up to 80 degrees](https://interestingengineering.com/axle-steering-angles-80-degrees)
+- [Ask HN: Does anyone here makes sw for kiosks, infotainments or similar?](https://news.ycombinator.com/item?id=32223919)
+- [Road dust: a literature review](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5968206/)
+- [Round a direction vector to an 8-way compass](https://lemire.me/blog/2022/07/24/round-a-direction-vector-to-the-nearest-8-way-compass/)
+- [Cinema’s greatest scene: ‘Casablanca’ and ‘La Marseillaise’](https://seveninchesofyourtime.com/cinemas-greatest-scene-casablanca-and-la-marseillaise/)
 <!-- BLOG-POST-LIST:END -->
