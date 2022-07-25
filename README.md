@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
-- [The audacious PR plot that seeded doubt about climate change](https://www.bbc.co.uk/news/science-environment-62225696)
+- [The GNU Name System](https://www.gnunet.org/en/gns.html)
+- [Handshake – Decentralized naming and certificate authority](https://handshake.org/)
 - [Considering Sourcehut](https://postmarketos.org/blog/2022/07/25/considering-sourcehut/)
 - [Towards robot accelerators, democratizing hardware acceleration in robotics](https://news.accelerationrobotics.com/towards-robot-accelerators-democratizing-hardware-acceleration-in-robotics/)
 - [Deutsche Bahn’s Meltdown and High-Speed Rail](https://pedestrianobservations.com/2022/07/24/deutsche-bahns-meltdown-and-high-speed-rail/)
-- [Perseus-9 homemade mobile dual 6502 computer](https://hackaday.io/project/186479-perseus-9-homemade-mobile-6502-computer)
 <!-- BLOG-POST-LIST:END -->
