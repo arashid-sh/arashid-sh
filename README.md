@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [The Stanley Parable: Ultra Deluxe Review](https://xeiaso.net/blog/stanley-parable)
+- [Propagation of Mistakes in Papers](http://databasearchitects.blogspot.com/2018/06/propagation-of-mistakes-in-papers.html)
+- [Tor Project – Metrics](https://metrics.torproject.org)
 - [How to Structure Your Sales Compensation Plan to Deliberately Undersell](https://tomtunguz.com/how-to-deliberately-undersell/)
 - [Logistics, How Did They Do It, Part I: The Problem](https://acoup.blog/2022/07/15/collections-logistics-how-did-they-do-it-part-i-the-problem/)
-- [RustDesk – The open source TeamViewer alternative](https://github.com/rustdesk/rustdesk)
-- [CosmicStrand: The discovery of a sophisticated UEFI firmware rootkit](https://securelist.com/cosmicstrand-uefi-firmware-rootkit/106973/)
-- [Build Pong in Your Terminal with Go for Some Reason](https://earthly.dev/blog/pongo/)
 <!-- BLOG-POST-LIST:END -->
