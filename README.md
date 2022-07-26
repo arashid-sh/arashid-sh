@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
-- [Ask HN: Do You Trust Grammarly?](https://news.ycombinator.com/item?id=32236438)
+- [Universe &lpar;YC W18&rpar; Is Hiring a Staff Front End Web Engineer](https://jobs.lever.co/onuniverse/856fcda5-f043-4fcc-81b3-21b0eef6f644)
+- [Denmark bans Gmail and Co from schools due to privacy concerns](https://tutanota.com/blog/posts/denmark-bans-google-email-and-cloud-services-due-to-privacy-concerns/)
 - [miniexpect: Tiny “expect” library in 500 LoC](https://github.com/rwmjones/miniexpect)
+- [VM/370 Community Edition V1R1.2 released](http://www.vm370.org/VM/V1R1.2)
 - [Dicom File Format Basics](https://www.vladsiv.com/dicom-file-format-basics/)
-- [Apple Interview &lpar;1995&rpar;](https://www.engineersneedart.com/blog/interview/interview.html)
-- [TNBL: The Narrow Bank, or how you have no right to have safe deposits](https://www.tnbusa.com/)
 <!-- BLOG-POST-LIST:END -->
