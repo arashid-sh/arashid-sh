@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
-- [Emoji Kitchen: Mix and Match Emojis](https://emoji.supply/kitchen/)
-- [How to Hire Good Engineers](https://siliconvict.com/articles/6-how-to-hire-actually-good-engineers)
-- [Princess Mononoke: The masterpiece that flummoxed the US](https://www.bbc.com/culture/article/20220713-princess-mononoke-the-masterpiece-that-flummoxed-the-us)
-- [A coding error caused Rogers outage that left millions without service](https://www.theglobeandmail.com/business/article-how-a-coding-error-caused-rogers-outage-that-left-millions-without/)
-- [New embedded programming language with C as a host language](https://vely.dev/)
+- [Treadmill garbage collector by H. Baker](http://www.cofault.com/2022/07/treadmill.html)
+- [Shamelessness as a Strategy](https://nadia.xyz/shameless)
+- [Becoming a Full-Time Creator as a Software Engineer](https://blog.pragmaticengineer.com/how-to-become-a-full-time-creator/)
+- [Instagram gets worse with dark patterns lifted from TikTok](https://techcrunch.com/2022/07/25/instagram-gets-worse-with-dark-patterns-lifted-from-tiktok/)
+- [VRchat bans mods, embraces EAC](https://hello.vrchat.com/blog/vrchat-security-update)
 <!-- BLOG-POST-LIST:END -->
