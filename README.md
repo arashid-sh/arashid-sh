@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
-- [Shopify to Lay Off 10% of Workers in Broad Shake-Up](https://www.wsj.com/articles/shopify-to-lay-off-10-of-workers-in-broad-shake-up-11658839047)
+- [Mullvad is now available on Amazon](https://mullvad.net/en/blog/2022/7/26/mullvad-is-now-available-on-amazon-us-se/)
+- [School Choice, Sorry I Underrated You](https://betonit.substack.com/p/school-choice-sorry-i-underrated)
+- [Shopify to lay off 10% of workers in broad shake-up](https://www.wsj.com/articles/shopify-to-lay-off-10-of-workers-in-broad-shake-up-11658839047)
 - [Why is it so hard to give Google money?](https://paulbutler.org/2022/why-is-it-so-hard-to-give-google-money/)
 - [Universe &lpar;YC W18&rpar; Is Hiring a Staff Front End Web Engineer](https://jobs.lever.co/onuniverse/856fcda5-f043-4fcc-81b3-21b0eef6f644)
-- [Denmark bans Gmail and Co from schools due to privacy concerns](https://tutanota.com/blog/posts/denmark-bans-google-email-and-cloud-services-due-to-privacy-concerns/)
-- [miniexpect: Tiny “expect” library in 500 LoC](https://github.com/rwmjones/miniexpect)
 <!-- BLOG-POST-LIST:END -->
