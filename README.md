@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [From August 1: Cash transactions above NIS 6k illegal](https://www.israelnationalnews.com/news/357072)
+- [Job Switchers Are Earning a Lot More Than Those Who Stay](https://www.wsj.com/articles/inflation-switch-jobs-more-money-fed-atlanta-data-11658699425)
+- [The Dangers of Microsoft Pluton](https://gabrielsieben.tech/2022/07/25/the-power-of-microsoft-pluton-2/)
+- [Saudi Crown Prince unveils plans for $500bn structure to house 9M people](https://twitter.com/Spa_Eng/status/1551627809973485573)
 - [Treadmill garbage collector by H. Baker](http://www.cofault.com/2022/07/treadmill.html)
-- [Shamelessness as a Strategy](https://nadia.xyz/shameless)
-- [Becoming a Full-Time Creator as a Software Engineer](https://blog.pragmaticengineer.com/how-to-become-a-full-time-creator/)
-- [Instagram gets worse with dark patterns lifted from TikTok](https://techcrunch.com/2022/07/25/instagram-gets-worse-with-dark-patterns-lifted-from-tiktok/)
-- [VRchat bans mods, embraces EAC](https://hello.vrchat.com/blog/vrchat-security-update)
 <!-- BLOG-POST-LIST:END -->
