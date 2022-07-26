@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Latest news from Hacker news
 <!-- BLOG-POST-LIST:START -->
+- [RustDesk – The open source TeamViewer alternative](https://github.com/rustdesk/rustdesk)
+- [After bus fire, CT pulls electric fleet from service](https://www.ctinsider.com/news/article/After-massive-bus-fire-CT-pulls-electric-fleet-17329085.php)
+- [Build Pong in Your Terminal with Go for Some Reason](https://earthly.dev/blog/pongo/)
 - [Mullvad is now available on Amazon](https://mullvad.net/en/blog/2022/7/26/mullvad-is-now-available-on-amazon-us-se/)
-- [School Choice, Sorry I Underrated You](https://betonit.substack.com/p/school-choice-sorry-i-underrated)
-- [Shopify to lay off 10% of workers in broad shake-up](https://www.wsj.com/articles/shopify-to-lay-off-10-of-workers-in-broad-shake-up-11658839047)
-- [Why is it so hard to give Google money?](https://paulbutler.org/2022/why-is-it-so-hard-to-give-google-money/)
-- [Universe &lpar;YC W18&rpar; Is Hiring a Staff Front End Web Engineer](https://jobs.lever.co/onuniverse/856fcda5-f043-4fcc-81b3-21b0eef6f644)
+- [Ferrocene: Rust toolchain to safety-critical environments](https://ferrous-systems.com/blog/the-ferrocene-language-specification-is-here/)
 <!-- BLOG-POST-LIST:END -->
